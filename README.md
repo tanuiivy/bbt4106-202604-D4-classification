@@ -1,9 +1,5 @@
 # Group 4D — Predicting Invoice Payment Risk
 
-**Course:** BBT4106 — Business Intelligence I
-
-**Assignment:** Lab on Regression and Classification
-
 **Dataset:** `invoice_payment_risk.csv`
 
 **Context:** Assessing how likely a B2B client is to pay an invoice late
