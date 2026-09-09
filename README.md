@@ -1,4 +1,4 @@
-# Group 4D — Predicting Invoice Payment Risk
+# Group 4D | Predicting Invoice Payment Risk
 
 **Dataset:** `invoice_payment_risk.csv`
 
