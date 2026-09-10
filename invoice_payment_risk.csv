@@ -1,0 +1,1501 @@
+invoice_id,client_industry,client_credit_rating,client_company_size,payment_method,has_dispute_history,collateral_or_guarantee,payment_terms_days,invoice_amount_kes,client_relationship_years,prior_late_payments_count,discount_offered_pct,days_outstanding_avg_historical,guarantee_value_kes,economic_sector_growth_rate_pct,payment_risk_category
+1,Technology,Good,Large,Bank Transfer,Yes,No,45,256337.0,1.9,1,2.73,22.2,,4.87,Late
+2,Manufacturing,Fair,Small,Bank Transfer,No,No,60,608908.0,6.8,1,2.1,34.0,,2.09,On-Time
+3,Technology,Good,Medium,Bank Transfer,Yes,No,15,499261.0,5.0,1,2.19,24.6,,4.8,On-Time
+4,Technology,Good,Medium,Mobile Money,No,No,15,219366.0,8.1,0,1.3,10.3,,4.24,On-Time
+5,Retail,Excellent,Large,Cheque,Yes,No,45,288282.0,4.5,0,3.26,12.9,,1.42,On-Time
+6,Construction,Fair,Medium,Bank Transfer,No,Yes,15,590173.0,2.8,3,1.15,30.9,252890.29801195764,0.5,Late
+7,Manufacturing,Fair,Medium,Bank Transfer,No,Yes,30,1189043.0,4.6,0,2.48,7.8,1264910.2791620637,2.35,On-Time
+8,Retail,Excellent,Large,Cheque,No,No,15,217551.0,7.0,1,2.1,15.2,,1.88,On-Time
+9,Retail,Fair,Large,Bank Transfer,Yes,No,45,396902.0,5.0,2,1.37,29.5,,1.42,On-Time
+10,Technology,Poor,Large,Bank Transfer,No,No,45,543217.0,8.5,1,1.65,32.0,,4.27,Severely Late
+11,Healthcare,Excellent,Small,Mobile Money,No,Yes,90,203644.0,4.9,1,3.91,15.5,83231.73078294452,3.55,On-Time
+12,Manufacturing,Fair,Enterprise,Letter of Credit,No,No,45,460177.0,3.8,3,1.35,54.2,,1.26,Severely Late
+13,Retail,Excellent,Enterprise,Mobile Money,No,No,90,210203.0,6.2,0,2.94,9.7,,0.67,On-Time
+14,Construction,Poor,Large,Letter of Credit,No,No,45,215965.0,3.5,0,1.56,8.7,,1.15,Severely Late
+15,Manufacturing,Fair,Small,Letter of Credit,No,No,45,114907.0,0.4,1,1.03,19.9,,1.95,On-Time
+16,Healthcare,Good,Medium,Cheque,No,No,30,285951.0,12.9,2,3.57,37.9,,3.23,On-Time
+17,Healthcare,Good,Medium,Bank Transfer,No,No,45,183746.0,2.8,0,0.79,19.7,,2.32,On-Time
+18,Healthcare,Excellent,Small,Bank Transfer,No,No,60,280793.0,7.1,0,2.59,8.1,,3.46,On-Time
+19,Retail,Excellent,Large,Letter of Credit,No,No,45,315520.0,4.4,1,0.0,16.4,,1.54,On-Time
+20,Technology,Fair,Small,Mobile Money,Yes,Yes,15,64263.0,9.5,0,2.11,19.3,69619.19200554465,4.29,On-Time
+21,Retail,Excellent,Medium,Cheque,No,No,45,180350.0,7.1,2,2.61,40.8,,1.65,On-Time
+22,Construction,Poor,Medium,Letter of Credit,No,No,45,180186.0,5.2,1,1.76,26.6,,1.32,Severely Late
+23,Manufacturing,Fair,Medium,Letter of Credit,No,No,45,485361.0,11.2,0,3.18,6.4,,2.08,Late
+24,Retail,Good,Medium,Cheque,No,No,15,670033.0,7.8,0,1.65,15.6,,0.51,On-Time
+25,Retail,Good,Small,Mobile Money,No,Yes,15,445979.0,5.8,0,3.12,16.5,432105.98321418074,1.58,On-Time
+26,Retail,Fair,Medium,Cheque,No,Yes,45,589836.0,6.6,2,2.68,25.9,528125.5504087877,2.08,On-Time
+27,Healthcare,Good,Small,Mobile Money,No,No,45,110256.0,3.9,1,2.96,16.0,,2.86,On-Time
+28,Retail,Good,Large,Bank Transfer,No,Yes,30,230313.0,14.4,0,2.56,23.4,250092.24970279858,1.44,On-Time
+29,Manufacturing,Fair,Large,Bank Transfer,No,No,15,138194.0,1.8,0,1.19,4.3,,1.9,On-Time
+30,Construction,Good,Small,Bank Transfer,No,No,45,194858.0,1.9,1,0.09,24.6,,1.03,Late
+31,Healthcare,Fair,Large,Bank Transfer,No,No,45,262298.0,7.1,0,0.39,12.9,,3.34,Late
+32,Manufacturing,Good,Small,Mobile Money,No,No,60,633635.0,2.8,1,1.78,13.5,,2.15,Late
+33,Retail,Excellent,Medium,Mobile Money,No,No,90,557709.0,7.7,0,1.6,10.1,,1.97,On-Time
+34,Construction,Fair,Small,Letter of Credit,Yes,Yes,30,787957.0,4.5,3,0.08,51.0,375961.339697079,1.1,Severely Late
+35,Retail,Fair,Small,Mobile Money,No,Yes,45,882220.0,3.5,0,1.52,20.6,689313.9255909775,0.62,On-Time
+36,Healthcare,Fair,Small,Cheque,No,No,30,390551.0,13.4,2,1.02,34.6,,3.34,On-Time
+37,Healthcare,Excellent,Small,Cheque,No,No,60,766799.0,4.2,1,0.42,19.9,,2.56,On-Time
+38,Retail,Excellent,Large,Bank Transfer,No,No,45,35713.0,2.6,0,2.01,14.3,,1.14,On-Time
+39,Technology,Excellent,Large,Mobile Money,No,No,30,265925.0,10.1,1,2.49,21.3,,4.36,On-Time
+40,Construction,Good,Small,Mobile Money,No,Yes,15,108311.0,3.8,0,2.38,10.1,104185.87010219687,1.2,On-Time
+41,Technology,Good,Medium,Letter of Credit,No,No,15,235397.0,3.9,1,3.42,28.4,,4.29,On-Time
+42,Technology,Good,Small,Cheque,No,Yes,45,746203.0,7.9,2,0.86,31.7,380558.6237937306,4.88,On-Time
+43,Retail,Good,Medium,Bank Transfer,No,Yes,15,27400.0,3.7,0,2.05,14.4,20395.947374089814,1.11,On-Time
+44,Construction,Excellent,Enterprise,Cheque,Yes,Yes,45,259123.0,5.0,0,3.36,3.3,103697.97594654065,0.61,Late
+45,Manufacturing,Fair,Small,Letter of Credit,No,No,60,217599.0,18.3,0,2.24,12.6,,2.44,On-Time
+46,Manufacturing,Fair,Large,Cheque,No,Yes,45,455203.0,12.1,2,2.03,38.5,405189.3769258233,1.61,Late
+47,Construction,Good,Enterprise,Mobile Money,No,No,60,240310.0,5.0,0,1.42,14.9,,0.77,Late
+48,Technology,Poor,Medium,Letter of Credit,No,No,30,1991781.0,11.5,2,2.4,41.7,,5.17,On-Time
+49,Technology,Good,Small,Cheque,No,Yes,45,578312.0,3.9,1,1.66,30.4,469996.082433968,4.2,On-Time
+50,Technology,Excellent,Enterprise,Bank Transfer,No,Yes,15,848797.0,7.6,1,1.85,28.8,887418.1286902333,4.82,On-Time
+51,Retail,Good,Large,Bank Transfer,No,Yes,45,188217.0,6.0,1,1.58,29.1,142400.68201016908,0.83,On-Time
+52,Retail,Fair,Large,Mobile Money,No,Yes,30,375120.0,3.9,1,1.05,15.3,253635.162209626,1.6,Late
+53,Manufacturing,Excellent,Medium,Cheque,No,Yes,45,363360.0,1.5,0,2.74,13.4,361073.204831954,2.45,On-Time
+54,Construction,Fair,Small,Bank Transfer,No,No,30,463359.0,3.1,0,2.63,10.2,,0.99,On-Time
+55,Manufacturing,Good,Medium,Mobile Money,Yes,No,45,36330.0,16.5,1,2.52,16.4,,1.69,Late
+56,Technology,Fair,Medium,Bank Transfer,No,No,30,544550.0,1.8,0,2.67,13.7,,4.82,On-Time
+57,Technology,Fair,Small,Mobile Money,No,No,30,637020.0,6.9,0,2.48,32.4,,4.39,On-Time
+58,Manufacturing,Excellent,Large,Bank Transfer,No,Yes,30,81318.0,0.6,0,0.8,9.1,87131.64193587765,1.93,On-Time
+59,Retail,Good,Large,Bank Transfer,No,No,90,144369.0,18.3,1,3.05,27.0,,1.22,Late
+60,Construction,Good,Large,Mobile Money,No,Yes,45,374519.0,9.0,1,0.0,23.8,210642.95845355018,1.47,On-Time
+61,Retail,Fair,Small,Mobile Money,No,No,45,198563.0,5.6,1,2.11,21.7,,0.66,Late
+62,Manufacturing,Good,Small,Letter of Credit,No,Yes,60,230551.0,5.7,2,0.0,28.8,250416.78638135703,1.87,Late
+63,Healthcare,Good,Small,Bank Transfer,Yes,No,30,414508.0,2.6,2,0.0,36.2,,3.26,Late
+64,Manufacturing,Excellent,Small,Cheque,No,No,15,228120.0,3.2,0,1.39,15.6,,2.48,On-Time
+65,Construction,Good,Small,Mobile Money,No,No,60,679306.0,7.9,1,1.94,24.0,,-0.04,Late
+66,Manufacturing,Excellent,Small,Bank Transfer,No,No,60,101705.0,2.5,1,1.84,28.1,,2.4,On-Time
+67,Technology,Excellent,Medium,Bank Transfer,No,No,45,177200.0,0.8,0,4.04,22.2,,4.69,On-Time
+68,Manufacturing,Fair,Medium,Cheque,No,No,15,787929.0,0.5,0,3.17,20.2,,2.63,On-Time
+69,Technology,Good,Medium,Bank Transfer,No,No,30,78903.0,5.0,1,2.36,19.0,,4.48,On-Time
+70,Technology,Fair,Small,Mobile Money,No,No,90,523641.0,5.5,2,2.53,32.4,,4.59,Late
+71,Retail,Good,Small,Cheque,No,Yes,30,446252.0,12.3,0,2.03,15.8,184478.18007530458,1.15,On-Time
+72,Construction,Good,Large,Mobile Money,No,No,90,127308.0,2.0,0,4.19,13.3,,1.64,Late
+73,Technology,Excellent,Enterprise,Cheque,No,No,45,260718.0,12.8,2,0.95,26.3,,4.24,On-Time
+74,Technology,Excellent,Large,Bank Transfer,No,Yes,30,53248.0,1.0,1,1.44,19.3,39872.430848639975,4.44,On-Time
+75,Construction,Fair,Medium,Bank Transfer,Yes,No,30,339443.0,5.8,4,2.61,53.1,,1.54,Severely Late
+76,Manufacturing,Good,Small,Bank Transfer,No,Yes,30,394766.0,7.6,2,0.0,45.4,228294.43557549833,2.36,On-Time
+77,Construction,Fair,Medium,Letter of Credit,No,No,30,297825.0,3.9,3,1.45,35.7,,0.43,Late
+78,Retail,Excellent,Medium,Bank Transfer,Yes,No,60,113457.0,1.4,1,3.24,28.8,,0.83,Late
+79,Technology,Good,Large,Mobile Money,No,No,60,218868.0,5.7,0,2.26,14.0,,4.52,On-Time
+80,Manufacturing,Poor,Large,Bank Transfer,No,No,45,663350.0,3.6,0,0.86,23.7,,2.25,Late
+81,Construction,Good,Medium,Bank Transfer,No,No,90,248878.0,2.4,2,1.83,36.9,,1.35,Severely Late
+82,Construction,Poor,Large,Bank Transfer,No,Yes,60,153797.0,11.3,1,1.04,26.6,173441.25642944739,0.53,On-Time
+83,Manufacturing,Excellent,Large,Bank Transfer,No,Yes,30,43065.0,11.9,1,1.64,26.9,28517.092385284064,2.92,On-Time
+84,Retail,Excellent,Small,Bank Transfer,No,Yes,45,216681.0,2.8,2,0.83,38.4,155110.6359355135,0.49,On-Time
+85,Retail,Fair,Medium,Bank Transfer,No,No,90,70627.0,16.6,1,1.86,22.9,,0.88,Severely Late
+86,Manufacturing,Good,Enterprise,Bank Transfer,No,No,45,237661.0,15.9,3,3.14,69.4,,2.28,Late
+87,Manufacturing,Poor,Small,Bank Transfer,No,Yes,45,276767.0,8.7,0,1.58,9.0,259582.76905618617,2.03,On-Time
+88,Manufacturing,Excellent,Enterprise,Cheque,No,No,60,133886.0,3.0,1,1.58,20.6,,2.54,On-Time
+89,Technology,Excellent,Large,Letter of Credit,No,Yes,60,571007.0,3.9,1,2.39,27.0,253815.4133444496,3.94,On-Time
+90,Retail,Fair,Large,Mobile Money,No,Yes,45,381844.0,4.4,0,1.34,12.5,355567.1111219336,1.2,On-Time
+91,Retail,Fair,Small,Bank Transfer,No,No,45,303989.0,5.2,5,1.67,65.7,,1.04,Severely Late
+92,Retail,Excellent,Small,Bank Transfer,No,Yes,60,794758.0,6.1,2,2.82,22.7,779597.3422836512,0.5,Late
+93,Retail,Good,Small,Bank Transfer,Yes,Yes,45,134413.0,4.7,3,1.57,53.5,65854.1009929994,1.53,Severely Late
+94,Retail,Excellent,Small,Bank Transfer,No,No,45,139107.0,7.3,3,1.34,38.6,,0.93,Late
+95,Healthcare,Poor,Medium,Bank Transfer,No,Yes,15,35586.0,5.4,1,2.96,22.4,23249.092868720454,3.66,On-Time
+96,Retail,Fair,Small,Bank Transfer,No,Yes,45,300356.0,5.7,0,3.72,5.2,317214.31940185867,0.63,On-Time
+97,Retail,Excellent,Enterprise,Mobile Money,No,No,45,470943.0,5.4,0,1.28,17.9,,1.93,On-Time
+98,Manufacturing,Fair,Small,Bank Transfer,Yes,No,30,334571.0,2.5,3,2.81,49.6,,2.05,Severely Late
+99,Retail,Fair,Medium,Mobile Money,No,No,60,457276.0,3.4,0,0.0,13.4,,1.59,On-Time
+100,Manufacturing,Fair,Medium,Mobile Money,No,No,45,352293.0,1.2,0,1.87,5.7,,2.47,On-Time
+101,Technology,Good,Small,Mobile Money,No,No,30,141135.0,8.3,0,2.19,21.7,,3.92,On-Time
+102,Healthcare,Fair,Large,Letter of Credit,No,Yes,30,198216.0,3.0,1,2.95,27.6,165810.6635509538,3.03,On-Time
+103,Retail,Excellent,Large,Bank Transfer,Yes,No,45,591607.0,19.6,3,3.47,33.2,,1.24,Late
+104,Technology,Excellent,Small,Bank Transfer,No,No,30,145661.0,8.8,2,2.71,31.9,,4.61,On-Time
+105,Technology,Good,Enterprise,Mobile Money,Yes,No,45,64978.0,8.0,1,3.11,22.7,,4.37,On-Time
+106,Manufacturing,Fair,Medium,Bank Transfer,Yes,No,30,752538.0,7.8,2,0.49,27.4,,2.5,Severely Late
+107,Healthcare,Fair,Enterprise,Mobile Money,No,No,60,628720.0,5.8,0,1.7,29.1,,2.99,On-Time
+108,Retail,Good,Medium,Bank Transfer,No,No,30,326246.0,15.5,1,2.78,26.0,,1.24,On-Time
+109,Manufacturing,Fair,Small,Cheque,No,No,45,506445.0,1.8,1,0.09,27.3,,1.77,On-Time
+110,Construction,Fair,Medium,Bank Transfer,No,No,90,214445.0,16.1,0,3.15,7.7,,0.67,Severely Late
+111,Technology,Fair,Large,Bank Transfer,Yes,No,90,232357.0,5.6,1,2.01,26.5,,4.35,Severely Late
+112,Technology,Good,Enterprise,Mobile Money,No,Yes,15,202879.0,6.3,5,4.12,48.8,127840.5137197495,4.57,On-Time
+113,Manufacturing,Poor,Small,Mobile Money,No,Yes,15,95209.0,2.8,0,1.54,16.4,83065.41586546465,2.53,On-Time
+114,Manufacturing,Fair,Small,Cheque,Yes,No,60,516830.0,7.6,1,2.36,35.4,,1.93,Late
+115,Construction,Fair,Large,Bank Transfer,No,Yes,15,457215.0,1.1,1,3.15,30.2,387637.959871955,1.04,On-Time
+116,Construction,Fair,Enterprise,Mobile Money,No,No,30,198228.0,4.3,0,0.16,8.2,,0.59,On-Time
+117,Manufacturing,Excellent,Medium,Mobile Money,No,No,60,454300.0,2.0,1,2.96,21.9,,2.05,On-Time
+118,Retail,Good,Enterprise,Bank Transfer,No,Yes,45,375462.0,15.8,2,3.73,29.1,214999.15741766573,1.11,On-Time
+119,Healthcare,Good,Medium,Bank Transfer,No,Yes,60,179233.0,5.7,2,2.08,42.3,77783.53014285139,3.05,On-Time
+120,Technology,Good,Medium,Bank Transfer,Yes,No,15,310028.0,3.1,1,1.66,33.8,,4.66,On-Time
+121,Healthcare,Good,Small,Bank Transfer,No,No,30,354621.0,6.6,1,2.0,32.9,,2.9,On-Time
+122,Manufacturing,Excellent,Enterprise,Mobile Money,No,Yes,15,169538.0,2.8,1,4.72,28.4,86173.01939795206,1.4,On-Time
+123,Manufacturing,Good,Medium,Bank Transfer,Yes,No,30,40235.0,3.5,0,2.51,13.6,,1.79,On-Time
+124,Manufacturing,Fair,Small,Mobile Money,No,No,45,200751.0,7.0,1,2.02,16.5,,1.43,On-Time
+125,Manufacturing,Fair,Large,Bank Transfer,No,No,15,453949.0,5.7,2,1.49,44.3,,2.11,Severely Late
+126,Retail,Fair,Small,Bank Transfer,No,No,15,26004.0,4.0,1,3.04,27.1,,0.85,On-Time
+127,Retail,Fair,Small,Letter of Credit,No,No,60,702351.0,8.1,4,1.12,34.2,,1.75,Severely Late
+128,Retail,Poor,Medium,Bank Transfer,No,No,60,125482.0,13.9,1,0.65,21.1,,1.87,Severely Late
+129,Manufacturing,Good,Small,Bank Transfer,No,No,30,149194.0,1.7,2,1.08,29.7,,2.11,On-Time
+130,Construction,Good,Medium,Letter of Credit,Yes,No,45,167976.0,2.9,0,4.17,5.0,,1.16,On-Time
+131,Retail,Fair,Large,Bank Transfer,No,Yes,15,733097.0,1.6,0,0.0,12.9,490533.6883290616,1.99,On-Time
+132,Retail,Poor,Large,Letter of Credit,No,No,15,894891.0,5.2,1,1.38,25.2,,0.85,Severely Late
+133,Retail,Poor,Large,Cheque,No,No,45,259096.0,9.1,0,5.34,20.7,,1.36,Severely Late
+134,Technology,Poor,Enterprise,Bank Transfer,No,No,90,571658.0,8.6,0,2.14,11.1,,4.66,Severely Late
+135,Technology,Excellent,Medium,Mobile Money,No,No,60,57079.0,11.3,1,3.13,22.1,,4.93,On-Time
+136,Technology,Good,Medium,Bank Transfer,No,No,45,759046.0,3.1,1,1.31,19.7,,4.29,On-Time
+137,Retail,Good,Large,Mobile Money,No,Yes,30,257190.0,2.3,2,1.72,18.4,221675.6772632078,1.65,On-Time
+138,Technology,Fair,Medium,Mobile Money,Yes,No,45,728650.0,14.9,0,1.85,19.4,,4.22,On-Time
+139,Manufacturing,Fair,Medium,Mobile Money,No,Yes,60,202554.0,0.8,1,0.44,20.1,224974.84955443762,2.06,On-Time
+140,Manufacturing,Fair,Small,Bank Transfer,No,No,30,186657.0,5.8,0,2.78,14.0,,2.57,On-Time
+141,Manufacturing,Fair,Medium,Mobile Money,No,No,45,192005.0,1.2,1,2.51,33.1,,2.3,On-Time
+142,Manufacturing,Excellent,Small,Letter of Credit,Yes,Yes,30,238102.0,9.5,2,1.88,33.1,166861.24300012333,2.15,On-Time
+143,Construction,Good,Small,Bank Transfer,No,No,45,425691.0,4.4,1,1.05,27.8,,0.43,On-Time
+144,Technology,Excellent,Large,Cheque,Yes,Yes,60,374013.0,6.9,0,2.68,14.6,163323.16082197573,4.57,On-Time
+145,Retail,Good,Medium,Bank Transfer,No,Yes,30,1407210.0,2.4,1,2.41,33.0,1145591.4102509443,1.51,On-Time
+146,Technology,Poor,Medium,Bank Transfer,No,Yes,90,727952.0,9.4,0,1.95,11.2,772024.0704029867,4.44,Late
+147,Manufacturing,Fair,Small,Mobile Money,No,Yes,60,214461.0,8.0,3,0.53,51.5,169491.34595303753,1.68,Severely Late
+148,Retail,Poor,Medium,Bank Transfer,No,No,30,87320.0,6.6,0,3.02,10.7,,1.57,On-Time
+149,Manufacturing,Good,Medium,Bank Transfer,Yes,Yes,30,1107370.0,2.1,2,2.3,34.6,1101216.335579022,1.81,On-Time
+150,Construction,Good,Enterprise,Cheque,No,No,30,349293.0,3.2,0,0.57,21.5,,0.95,Late
+151,Retail,Fair,Medium,Letter of Credit,No,Yes,45,582350.0,2.9,1,0.0,18.0,642972.2500229914,1.54,Late
+152,Manufacturing,Excellent,Medium,Cheque,No,Yes,30,495164.0,7.0,2,3.15,31.2,418274.9479031442,1.58,On-Time
+153,Technology,Fair,Small,Letter of Credit,Yes,No,30,73523.0,4.1,0,2.26,7.7,,4.39,Late
+154,Technology,Poor,Small,Cheque,No,No,30,306797.0,7.6,2,0.57,29.9,,4.57,On-Time
+155,Construction,Good,Small,Bank Transfer,No,No,90,173652.0,6.9,1,1.88,22.5,,0.71,Severely Late
+156,Construction,Good,Medium,Letter of Credit,No,No,45,158712.0,10.5,0,2.69,26.3,,0.84,On-Time
+157,Manufacturing,Good,Large,Bank Transfer,No,No,15,1129271.0,12.6,2,2.52,23.0,,2.2,On-Time
+158,Healthcare,Good,Large,Bank Transfer,No,No,90,470349.0,3.9,2,3.16,35.1,,3.19,Late
+159,Manufacturing,Excellent,Large,Mobile Money,No,No,30,249257.0,11.1,1,1.41,29.3,,1.72,On-Time
+160,Construction,Good,Large,Mobile Money,No,No,90,914977.0,15.1,0,0.0,10.3,,0.74,Late
+161,Technology,Good,Small,Bank Transfer,No,No,15,582039.0,14.0,1,1.51,19.1,,4.75,On-Time
+162,Healthcare,Excellent,Medium,Cheque,No,No,30,56592.0,6.3,2,1.08,23.9,,3.14,On-Time
+163,Manufacturing,Fair,Large,Mobile Money,No,No,30,650906.0,1.0,3,0.32,30.4,,1.76,Late
+164,Manufacturing,Fair,Large,Cheque,No,No,90,334357.0,3.1,0,2.7,10.2,,1.67,On-Time
+165,Construction,Fair,Small,Letter of Credit,No,Yes,90,168060.0,3.3,0,0.08,20.0,134751.11940207946,1.29,Severely Late
+166,Manufacturing,Poor,Enterprise,Bank Transfer,Yes,Yes,60,221384.0,2.3,0,4.12,22.8,147048.41285087762,2.48,Severely Late
+167,Retail,Poor,Medium,Mobile Money,Yes,No,30,549949.0,1.9,0,4.26,20.7,,1.38,Late
+168,Retail,Poor,Small,Bank Transfer,No,Yes,45,346567.0,6.6,0,0.0,18.3,347619.0779361661,1.68,Late
+169,Technology,Fair,Small,Letter of Credit,No,Yes,45,197819.0,2.2,2,2.56,46.2,140526.55758493865,5.22,On-Time
+170,Retail,Good,Small,Mobile Money,No,Yes,90,268226.0,5.9,2,5.25,27.4,168162.72594480292,1.46,Severely Late
+171,Construction,Fair,Enterprise,Mobile Money,No,Yes,30,96205.0,0.6,3,0.39,50.3,66351.85223635935,1.01,Severely Late
+172,Healthcare,Excellent,Small,Bank Transfer,No,No,30,652752.0,5.4,1,1.26,25.8,,2.65,On-Time
+173,Technology,Excellent,Medium,Mobile Money,No,No,90,399301.0,6.2,0,1.82,20.1,,4.94,On-Time
+174,Healthcare,Good,Small,Letter of Credit,No,No,30,86442.0,1.8,1,1.98,16.9,,3.33,On-Time
+175,Healthcare,Good,Small,Cheque,No,Yes,45,256574.0,4.2,0,2.17,6.4,234512.14953308224,2.21,On-Time
+176,Retail,Fair,Small,Letter of Credit,Yes,No,15,329524.0,0.3,0,3.12,7.4,,1.83,Severely Late
+177,Retail,Excellent,Medium,Bank Transfer,No,Yes,15,809661.0,2.7,2,2.79,32.3,692254.704540891,1.3,On-Time
+178,Retail,Fair,Enterprise,Cheque,No,No,30,468658.0,6.2,1,0.0,25.2,,1.83,On-Time
+179,Healthcare,Good,Large,Mobile Money,Yes,No,30,74051.0,8.6,3,0.87,32.7,,3.71,On-Time
+180,Retail,Fair,Large,Bank Transfer,No,Yes,60,170182.0,7.3,2,3.33,29.1,155471.45102465234,1.76,Late
+181,Retail,Excellent,Small,Letter of Credit,No,Yes,90,389339.0,1.4,0,2.64,12.9,362794.9686017595,1.0,On-Time
+182,Retail,Poor,Small,Mobile Money,No,No,60,393881.0,13.7,0,1.63,17.0,,0.98,On-Time
+183,Manufacturing,Excellent,Large,Cheque,No,Yes,30,424130.0,8.6,1,3.23,47.2,233272.24501625003,2.7,On-Time
+184,Retail,Excellent,Small,Letter of Credit,No,No,45,56588.0,4.3,1,0.29,33.9,,1.61,On-Time
+185,Construction,Good,Medium,Mobile Money,No,No,15,644579.0,3.2,0,1.55,6.0,,0.33,On-Time
+186,Healthcare,Fair,Medium,Letter of Credit,No,No,15,112855.0,6.8,2,2.41,33.5,,3.32,On-Time
+187,Construction,Fair,Medium,Cheque,No,No,30,285054.0,1.1,1,1.3,29.2,,0.5,On-Time
+188,Construction,Good,Large,Letter of Credit,No,No,45,207978.0,8.3,2,0.38,39.7,,0.53,Late
+189,Retail,Good,Medium,Cheque,No,No,60,512985.0,11.9,1,3.01,25.3,,1.25,Late
+190,Retail,Poor,Small,Cheque,No,No,30,10000.0,4.6,1,2.45,30.8,,1.52,Late
+191,Retail,Good,Medium,Mobile Money,No,No,45,314856.0,11.1,0,1.94,25.6,,1.46,On-Time
+192,Retail,Poor,Small,Bank Transfer,No,No,90,337520.0,2.4,5,2.89,73.7,,1.78,Severely Late
+193,Technology,Excellent,Medium,Bank Transfer,No,No,45,480591.0,8.6,3,0.06,32.8,,4.85,On-Time
+194,Construction,Excellent,Medium,Bank Transfer,No,No,45,201097.0,4.3,0,4.44,16.2,,0.65,On-Time
+195,Retail,Good,Medium,Bank Transfer,No,No,45,58267.0,2.1,1,2.25,23.6,,1.51,On-Time
+196,Construction,Fair,Large,Mobile Money,No,No,45,1197624.0,4.9,0,3.51,13.3,,1.58,On-Time
+197,Retail,Poor,Large,Bank Transfer,No,No,45,351942.0,13.8,1,1.13,26.5,,1.74,On-Time
+198,Manufacturing,Good,Enterprise,Bank Transfer,No,Yes,90,560950.0,9.6,1,1.73,30.9,534428.8499056018,1.79,Late
+199,Manufacturing,Fair,Medium,Bank Transfer,No,Yes,45,717306.0,3.5,1,2.16,14.1,556174.4744359881,2.25,On-Time
+200,Technology,Poor,Medium,Mobile Money,No,Yes,60,122040.0,3.4,1,3.0,32.2,59060.88549108121,4.84,Late
+201,Manufacturing,Fair,Medium,Bank Transfer,No,Yes,30,237161.0,2.1,2,0.95,22.1,101957.30894926301,2.55,On-Time
+202,Retail,Excellent,Small,Mobile Money,No,No,30,963433.0,1.5,2,0.0,34.8,,0.78,On-Time
+203,Construction,Good,Medium,Mobile Money,No,No,15,160693.0,4.9,0,0.0,9.6,,0.44,On-Time
+204,Construction,Fair,Small,Letter of Credit,No,Yes,45,154951.0,2.4,0,0.0,10.8,71894.6135329939,1.21,On-Time
+205,Healthcare,Fair,Small,Bank Transfer,Yes,Yes,30,103196.0,10.0,0,2.75,25.0,43500.67743787356,2.61,On-Time
+206,Technology,Fair,Medium,Bank Transfer,No,Yes,60,224087.0,16.5,0,0.91,5.4,251065.8482381773,4.08,On-Time
+207,Construction,Good,Enterprise,Letter of Credit,No,Yes,15,491100.0,3.9,3,0.03,41.9,475433.8645581278,0.58,Late
+208,Construction,Fair,Small,Mobile Money,No,No,15,476417.0,2.5,0,2.81,9.2,,1.45,On-Time
+209,Manufacturing,Good,Medium,Mobile Money,No,No,90,195292.0,11.2,1,1.79,26.4,,1.01,Late
+210,Technology,Fair,Medium,Bank Transfer,No,No,45,402410.0,1.3,3,2.06,51.0,,4.53,Late
+211,Construction,Excellent,Medium,Bank Transfer,No,No,15,156865.0,3.5,1,0.97,28.5,,0.39,On-Time
+212,Healthcare,Good,Small,Letter of Credit,No,Yes,15,101984.0,11.6,1,4.35,20.7,90883.10896608165,3.75,On-Time
+213,Manufacturing,Good,Medium,Bank Transfer,No,Yes,30,760468.0,9.4,0,2.81,9.1,576198.4624938123,1.86,On-Time
+214,Construction,Poor,Small,Cheque,Yes,Yes,45,65541.0,4.6,0,1.0,15.1,28389.46031692286,1.17,Severely Late
+215,Manufacturing,Excellent,Enterprise,Letter of Credit,No,No,15,95651.0,6.0,2,2.22,33.7,,2.48,On-Time
+216,Construction,Good,Enterprise,Mobile Money,No,No,45,733868.0,4.7,0,0.0,4.8,,0.19,On-Time
+217,Retail,Good,Medium,Letter of Credit,No,Yes,30,200367.0,5.8,1,1.61,23.1,228523.97347580577,1.32,On-Time
+218,Healthcare,Good,Small,Bank Transfer,No,No,45,306194.0,10.4,2,4.19,37.1,,3.41,On-Time
+219,Retail,Fair,Enterprise,Letter of Credit,No,No,30,115384.0,1.5,2,2.18,40.2,,1.89,Late
+220,Healthcare,Poor,Small,Bank Transfer,No,No,30,548259.0,1.8,2,2.16,44.8,,3.68,On-Time
+221,Retail,Excellent,Medium,Cheque,Yes,No,30,300426.0,0.3,1,3.22,22.4,,1.36,On-Time
+222,Technology,Fair,Large,Bank Transfer,Yes,No,60,532949.0,1.6,2,2.93,44.0,,4.15,Severely Late
+223,Healthcare,Poor,Medium,Mobile Money,No,No,30,54547.0,1.1,0,2.64,20.0,,3.41,On-Time
+224,Retail,Poor,Small,Bank Transfer,No,Yes,30,174042.0,8.4,2,2.78,34.6,168927.64305752201,1.93,Late
+225,Construction,Good,Medium,Letter of Credit,No,Yes,90,221720.0,0.6,1,3.32,22.8,155225.40352082657,1.05,On-Time
+226,Construction,Good,Medium,Bank Transfer,No,No,90,204617.0,4.1,2,1.95,27.0,,1.27,Severely Late
+227,Healthcare,Fair,Enterprise,Bank Transfer,No,No,30,276102.0,5.2,0,1.51,17.6,,2.67,Late
+228,Retail,Poor,Medium,Bank Transfer,No,Yes,30,366346.0,4.0,0,2.16,16.4,169748.51384054826,1.7,On-Time
+229,Construction,Fair,Large,Bank Transfer,No,Yes,15,370160.0,3.9,1,2.59,30.2,394269.87815737,0.88,On-Time
+230,Technology,Excellent,Small,Bank Transfer,Yes,Yes,15,593843.0,11.2,1,3.76,25.1,399761.30332243314,3.91,On-Time
+231,Healthcare,Good,Large,Mobile Money,No,Yes,45,110411.0,4.8,1,0.0,24.4,92434.5013885217,2.53,On-Time
+232,Manufacturing,Fair,Enterprise,Letter of Credit,Yes,No,15,146615.0,7.4,0,1.86,13.7,,2.66,On-Time
+233,Retail,Excellent,Medium,Bank Transfer,No,No,45,720543.0,3.4,0,2.22,8.6,,1.21,On-Time
+234,Manufacturing,Good,Small,Mobile Money,No,Yes,30,195831.0,8.1,0,0.0,8.1,183858.59074715027,2.92,On-Time
+235,Retail,Good,Small,Mobile Money,No,No,15,410051.0,14.9,1,2.17,15.4,,1.72,On-Time
+236,Healthcare,Fair,Medium,Cheque,No,No,15,155695.0,6.5,2,2.78,50.7,,3.05,On-Time
+237,Technology,Fair,Medium,Mobile Money,Yes,No,30,137062.0,1.3,3,1.26,56.3,,5.02,Late
+238,Healthcare,Excellent,Medium,Mobile Money,Yes,Yes,45,190876.0,1.8,0,2.34,10.1,226201.11850653167,2.93,Late
+239,Construction,Poor,Medium,Letter of Credit,No,No,90,238856.0,3.7,2,2.09,41.4,,0.77,Severely Late
+240,Construction,Good,Large,Mobile Money,No,No,30,1071324.0,8.8,1,1.3,27.2,,0.75,Late
+241,Construction,Good,Large,Mobile Money,Yes,No,45,106691.0,5.7,1,2.76,15.9,,0.17,On-Time
+242,Manufacturing,Fair,Medium,Letter of Credit,No,Yes,30,198377.0,2.2,0,2.1,11.5,130231.3579562564,1.44,On-Time
+243,Technology,Fair,Medium,Mobile Money,No,No,60,304306.0,1.5,2,2.82,32.5,,4.25,On-Time
+244,Manufacturing,Good,Medium,Bank Transfer,No,Yes,30,1378601.0,10.1,0,3.28,9.3,806599.6604247265,2.24,On-Time
+245,Technology,Good,Medium,Bank Transfer,Yes,No,30,568984.0,4.1,2,2.32,10.0,,4.31,On-Time
+246,Technology,Fair,Small,Bank Transfer,No,No,30,132280.0,8.8,1,1.0,18.1,,4.89,On-Time
+247,Manufacturing,Fair,Large,Bank Transfer,No,No,90,345666.0,2.7,1,1.15,26.5,,2.44,Late
+248,Technology,Poor,Medium,Bank Transfer,No,No,15,450518.0,2.5,1,2.77,30.2,,4.61,On-Time
+249,Manufacturing,Excellent,Small,Mobile Money,Yes,No,60,217564.0,9.5,0,1.51,17.7,,2.75,On-Time
+250,Manufacturing,Excellent,Large,Cheque,No,No,15,205350.0,8.5,1,0.61,19.2,,1.63,On-Time
+251,Healthcare,Good,Small,Letter of Credit,No,Yes,45,242933.0,8.9,1,3.04,29.6,205789.62522879575,3.24,On-Time
+252,Technology,Poor,Enterprise,Cheque,No,Yes,45,320360.0,10.3,1,1.28,24.1,132908.0531663413,4.67,On-Time
+253,Technology,Fair,Medium,Bank Transfer,No,No,45,536131.0,9.4,1,1.57,28.1,,4.22,Late
+254,Healthcare,Good,Large,Bank Transfer,No,No,30,251260.0,3.4,0,1.32,18.2,,3.0,On-Time
+255,Healthcare,Good,Medium,Mobile Money,No,No,60,184747.0,9.2,1,4.39,10.8,,2.85,On-Time
+256,Retail,Good,Medium,Letter of Credit,No,Yes,45,286446.0,8.3,1,2.61,19.2,163634.2532706717,0.95,On-Time
+257,Manufacturing,Good,Small,Bank Transfer,No,No,45,184097.0,3.1,3,0.56,47.6,,2.14,Severely Late
+258,Retail,Poor,Small,Letter of Credit,Yes,No,90,176185.0,9.8,2,1.68,26.9,,1.44,Severely Late
+259,Healthcare,Good,Medium,Bank Transfer,Yes,No,45,287741.0,2.9,1,4.83,17.0,,3.16,On-Time
+260,Healthcare,Excellent,Enterprise,Bank Transfer,No,No,30,507576.0,4.2,1,1.24,18.7,,2.12,On-Time
+261,Construction,Fair,Medium,Bank Transfer,No,Yes,30,364959.0,4.7,1,1.39,29.7,436241.652724222,1.42,Late
+262,Construction,Fair,Small,Bank Transfer,No,Yes,30,402385.0,8.0,0,0.96,17.8,455536.17896452144,0.12,Late
+263,Manufacturing,Fair,Large,Letter of Credit,Yes,No,15,990260.0,6.8,2,0.3,26.3,,2.09,Late
+264,Retail,Good,Medium,Bank Transfer,No,Yes,45,429863.0,0.5,2,1.08,33.1,335431.3627745554,1.33,On-Time
+265,Healthcare,Fair,Small,Cheque,No,No,15,135701.0,1.9,1,0.39,25.1,,2.69,Late
+266,Manufacturing,Fair,Small,Bank Transfer,No,No,30,216553.0,3.2,1,1.17,20.8,,2.06,On-Time
+267,Construction,Excellent,Large,Mobile Money,No,No,45,169690.0,1.1,1,1.69,27.8,,0.05,On-Time
+268,Healthcare,Poor,Medium,Cheque,No,No,15,390387.0,3.3,0,3.51,18.2,,2.99,On-Time
+269,Technology,Good,Enterprise,Cheque,No,No,45,403147.0,8.1,2,0.86,23.2,,4.65,On-Time
+270,Retail,Fair,Small,Mobile Money,No,No,30,133839.0,9.6,0,0.87,18.8,,1.38,On-Time
+271,Healthcare,Good,Large,Letter of Credit,Yes,No,30,235292.0,6.5,4,3.79,44.4,,3.22,Severely Late
+272,Retail,Good,Large,Bank Transfer,No,No,30,279302.0,5.5,1,2.2,14.7,,2.51,On-Time
+273,Healthcare,Fair,Medium,Cheque,No,No,45,251196.0,9.9,1,1.06,30.2,,3.49,Late
+274,Manufacturing,Good,Small,Mobile Money,No,Yes,90,507520.0,1.4,1,2.92,25.6,210309.0922149848,1.46,On-Time
+275,Manufacturing,Fair,Large,Bank Transfer,Yes,Yes,45,369478.0,0.9,1,2.45,24.5,303045.2142387242,2.2,Late
+276,Construction,Poor,Medium,Cheque,No,Yes,60,240452.0,4.5,1,3.21,33.0,245219.9639805078,1.24,Severely Late
+277,Construction,Good,Small,Bank Transfer,Yes,Yes,15,453686.0,0.2,0,3.59,7.4,469683.5635119576,0.52,On-Time
+278,Technology,Good,Medium,Letter of Credit,Yes,No,60,27581.0,5.3,0,2.01,22.7,,3.66,On-Time
+279,Technology,Fair,Small,Mobile Money,No,Yes,30,196507.0,4.7,1,1.11,17.2,87195.8634377429,5.46,On-Time
+280,Retail,Poor,Medium,Letter of Credit,No,No,90,236309.0,5.3,1,2.02,21.6,,1.18,Severely Late
+281,Healthcare,Good,Enterprise,Bank Transfer,No,No,30,216620.0,6.6,1,2.33,17.9,,3.06,On-Time
+282,Construction,Fair,Small,Bank Transfer,No,Yes,30,536484.0,19.3,2,0.09,37.0,458020.39958576165,0.44,Late
+283,Manufacturing,Excellent,Medium,Mobile Money,No,No,15,452353.0,4.4,0,2.85,26.5,,2.52,On-Time
+284,Healthcare,Fair,Small,Bank Transfer,No,No,45,121066.0,8.4,0,1.45,10.4,,3.26,On-Time
+285,Retail,Fair,Enterprise,Letter of Credit,No,No,30,276131.0,4.7,0,3.8,15.2,,0.59,On-Time
+286,Healthcare,Excellent,Small,Letter of Credit,No,Yes,30,135131.0,13.4,1,1.59,24.6,89417.71427582006,3.39,On-Time
+287,Manufacturing,Excellent,Small,Mobile Money,No,No,30,521664.0,8.5,1,2.15,18.1,,2.26,On-Time
+288,Retail,Excellent,Enterprise,Mobile Money,No,Yes,90,274410.0,8.1,0,2.21,12.0,204840.17239553833,1.13,On-Time
+289,Manufacturing,Fair,Small,Mobile Money,No,Yes,90,165361.0,10.2,1,2.74,37.4,113842.53805483623,1.81,Late
+290,Manufacturing,Excellent,Large,Bank Transfer,No,No,30,627007.0,2.4,0,3.17,17.2,,2.08,On-Time
+291,Manufacturing,Good,Medium,Cheque,No,No,30,542927.0,4.0,2,2.56,54.4,,2.1,Late
+292,Construction,Excellent,Small,Bank Transfer,Yes,No,90,75697.0,1.1,0,3.51,14.2,,0.44,Late
+293,Healthcare,Fair,Large,Letter of Credit,No,No,30,366235.0,9.0,1,0.41,39.0,,2.59,On-Time
+294,Technology,Fair,Medium,Bank Transfer,Yes,Yes,45,51252.0,2.6,1,1.33,16.5,32151.73020233034,4.63,On-Time
+295,Construction,Excellent,Medium,Letter of Credit,No,No,30,665611.0,3.1,1,2.0,21.0,,1.25,On-Time
+296,Manufacturing,Good,Small,Letter of Credit,No,Yes,90,138824.0,4.3,2,1.58,40.6,162801.9133772544,2.12,Late
+297,Construction,Good,Large,Cheque,No,Yes,45,81597.0,10.1,1,2.27,30.8,45314.04976101708,0.64,On-Time
+298,Manufacturing,Good,Small,Bank Transfer,No,Yes,30,163902.0,4.4,2,1.22,34.2,152367.60449113804,2.08,On-Time
+299,Construction,Fair,Medium,Mobile Money,No,No,30,422695.0,1.3,1,3.53,23.5,,0.99,On-Time
+300,Technology,Good,Medium,Bank Transfer,No,No,45,398657.0,7.6,4,3.56,29.0,,5.02,On-Time
+301,Retail,Good,Small,Bank Transfer,Yes,No,45,619652.0,3.3,1,0.39,10.7,,1.73,Late
+302,Technology,Excellent,Small,Mobile Money,No,Yes,30,256038.0,3.6,3,1.5,49.6,170787.89104333337,4.41,On-Time
+303,Retail,Good,Enterprise,Mobile Money,Yes,Yes,30,371581.0,11.8,0,1.65,13.1,435974.9951959604,1.18,On-Time
+304,Technology,Poor,Medium,Bank Transfer,No,Yes,30,502033.0,6.5,1,1.93,33.5,430516.50922535785,4.92,On-Time
+305,Healthcare,Fair,Medium,Letter of Credit,Yes,No,45,347856.0,4.5,0,2.52,19.3,,3.0,Late
+306,Retail,Fair,Small,Bank Transfer,No,No,15,541143.0,8.1,0,2.38,14.1,,1.43,On-Time
+307,Retail,Good,Medium,Bank Transfer,No,No,30,857273.0,8.7,1,2.28,34.7,,1.58,On-Time
+308,Construction,Good,Medium,Cheque,No,No,15,318479.0,3.0,1,3.12,27.5,,1.07,Late
+309,Retail,Excellent,Small,Bank Transfer,No,No,45,285235.0,4.3,0,3.0,12.5,,1.48,On-Time
+310,Manufacturing,Good,Medium,Bank Transfer,Yes,No,45,271744.0,5.0,1,1.08,28.2,,2.25,On-Time
+311,Technology,Fair,Small,Mobile Money,Yes,No,45,120175.0,6.1,0,1.09,13.6,,4.04,Late
+312,Manufacturing,Good,Small,Bank Transfer,No,No,30,346284.0,8.4,2,2.35,41.5,,2.28,Late
+313,Manufacturing,Fair,Large,Bank Transfer,No,No,60,495969.0,3.4,2,2.66,31.5,,2.7,Severely Late
+314,Construction,Good,Large,Mobile Money,No,No,30,878630.0,8.8,2,1.98,29.7,,0.97,Late
+315,Technology,Fair,Enterprise,Bank Transfer,No,No,90,939817.0,4.0,0,2.19,22.1,,4.44,Late
+316,Healthcare,Good,Small,Mobile Money,No,No,30,140846.0,2.0,0,0.37,8.8,,2.71,On-Time
+317,Retail,Poor,Enterprise,Bank Transfer,Yes,No,30,431295.0,4.4,0,1.06,9.0,,1.56,Severely Late
+318,Retail,Fair,Small,Bank Transfer,Yes,No,60,42505.0,8.1,0,1.13,25.9,,0.64,Late
+319,Technology,Excellent,Enterprise,Cheque,No,No,45,151439.0,3.5,1,3.27,13.3,,4.49,On-Time
+320,Manufacturing,Excellent,Large,Bank Transfer,No,Yes,60,85289.0,3.1,1,3.36,31.0,63645.82469138077,2.1,On-Time
+321,Manufacturing,Good,Small,Bank Transfer,Yes,No,30,490602.0,4.3,2,4.37,21.7,,1.24,On-Time
+322,Technology,Fair,Enterprise,Cheque,Yes,No,45,396183.0,1.8,1,1.82,17.7,,4.34,Late
+323,Retail,Good,Medium,Bank Transfer,No,Yes,30,711057.0,12.0,1,3.84,11.8,435922.51483080524,1.38,On-Time
+324,Retail,Fair,Medium,Bank Transfer,Yes,Yes,30,74901.0,2.9,0,0.84,10.5,43663.65890391445,1.83,Late
+325,Healthcare,Poor,Medium,Bank Transfer,No,No,30,327488.0,10.0,1,1.47,12.2,,3.03,On-Time
+326,Manufacturing,Good,Small,Letter of Credit,No,Yes,45,13177.0,0.9,1,4.27,21.6,15618.493286794499,2.22,Late
+327,Technology,Excellent,Medium,Mobile Money,No,No,15,50265.0,2.3,1,3.74,24.1,,4.78,On-Time
+328,Retail,Good,Large,Bank Transfer,No,Yes,45,94126.0,5.2,1,0.95,25.0,54693.7744276265,1.49,On-Time
+329,Healthcare,Excellent,Medium,Bank Transfer,No,No,15,175638.0,12.4,0,2.24,8.2,,3.15,On-Time
+330,Retail,Poor,Small,Letter of Credit,No,No,60,831805.0,3.2,2,4.6,29.2,,2.02,Late
+331,Technology,Poor,Small,Letter of Credit,No,No,30,495100.0,0.4,0,2.54,25.1,,4.56,On-Time
+332,Healthcare,Good,Medium,Mobile Money,Yes,Yes,15,526111.0,6.0,0,1.68,18.1,469905.83225718106,3.74,On-Time
+333,Retail,Good,Medium,Cheque,No,Yes,90,386380.0,6.9,3,2.27,24.8,459119.0899497888,1.89,Severely Late
+334,Construction,Good,Enterprise,Mobile Money,No,No,30,367136.0,11.2,1,2.4,28.9,,1.36,On-Time
+335,Manufacturing,Fair,Small,Letter of Credit,Yes,No,30,94005.0,4.2,1,2.19,28.8,,2.66,Late
+336,Healthcare,Fair,Medium,Bank Transfer,No,Yes,45,138194.0,2.3,0,1.4,13.4,143004.610119375,3.41,Late
+337,Manufacturing,Good,Enterprise,Mobile Money,No,No,15,412937.0,1.3,3,3.4,28.6,,1.55,Late
+338,Manufacturing,Good,Large,Bank Transfer,No,No,15,293674.0,4.9,0,1.91,21.9,,1.75,On-Time
+339,Retail,Excellent,Enterprise,Bank Transfer,No,Yes,45,105402.0,2.2,1,0.93,29.2,73186.82574162909,1.17,On-Time
+340,Construction,Excellent,Medium,Cheque,No,No,45,224341.0,10.5,0,0.98,12.4,,0.97,On-Time
+341,Manufacturing,Good,Large,Bank Transfer,No,No,45,226505.0,4.0,3,3.44,44.4,,1.86,Late
+342,Healthcare,Fair,Medium,Letter of Credit,No,No,45,451169.0,6.5,1,2.7,24.1,,3.71,On-Time
+343,Retail,Good,Medium,Bank Transfer,No,No,30,305125.0,3.6,1,1.52,26.9,,1.5,On-Time
+344,Manufacturing,Excellent,Large,Letter of Credit,No,Yes,30,1002171.0,10.7,1,1.98,29.5,602269.618215135,2.07,On-Time
+345,Construction,Fair,Medium,Cheque,No,Yes,45,308108.0,5.2,1,2.33,23.5,141190.3078716343,0.45,Late
+346,Construction,Excellent,Medium,Mobile Money,No,No,60,360294.0,1.9,0,3.05,8.6,,1.03,On-Time
+347,Technology,Fair,Small,Mobile Money,No,No,15,334100.0,6.8,0,3.27,9.9,,4.25,On-Time
+348,Technology,Good,Large,Mobile Money,No,No,90,445671.0,1.8,0,4.45,19.5,,4.46,On-Time
+349,Manufacturing,Fair,Medium,Bank Transfer,No,Yes,45,190022.0,2.0,1,2.27,28.6,96993.10424254024,2.2,Severely Late
+350,Technology,Good,Medium,Mobile Money,No,No,60,941375.0,4.7,1,0.89,24.1,,4.08,On-Time
+351,Retail,Fair,Medium,Bank Transfer,Yes,No,30,372347.0,3.4,0,0.95,27.1,,1.88,Late
+352,Healthcare,Excellent,Enterprise,Bank Transfer,No,Yes,15,177332.0,12.8,3,3.94,45.9,152294.70264633588,2.75,On-Time
+353,Technology,Fair,Large,Bank Transfer,No,No,30,46928.0,3.7,0,2.93,12.6,,3.84,On-Time
+354,Retail,Fair,Small,Cheque,No,Yes,15,13340.0,12.8,1,1.79,16.7,11787.116164573463,1.29,On-Time
+355,Technology,Fair,Medium,Bank Transfer,No,No,15,209845.0,4.4,2,1.64,41.5,,4.22,On-Time
+356,Healthcare,Poor,Large,Mobile Money,No,No,45,193118.0,4.7,1,3.42,26.6,,3.12,Late
+357,Manufacturing,Fair,Large,Cheque,No,Yes,90,753365.0,3.9,1,2.55,23.1,443446.1882889926,1.84,Severely Late
+358,Technology,Good,Medium,Bank Transfer,No,No,45,341389.0,10.2,1,3.17,28.9,,4.86,On-Time
+359,Technology,Fair,Small,Letter of Credit,No,No,60,209754.0,7.0,3,1.47,36.1,,4.72,Severely Late
+360,Construction,Poor,Medium,Bank Transfer,No,Yes,45,716542.0,1.9,3,1.86,59.2,398882.0871195408,0.84,Severely Late
+361,Manufacturing,Excellent,Medium,Bank Transfer,No,No,30,586570.0,2.9,3,4.66,34.6,,1.82,On-Time
+362,Manufacturing,Poor,Small,Bank Transfer,No,No,15,342627.0,3.4,0,0.0,11.3,,2.2,On-Time
+363,Healthcare,Fair,Medium,Letter of Credit,Yes,No,15,652546.0,1.2,1,1.92,27.3,,3.26,On-Time
+364,Manufacturing,Poor,Large,Bank Transfer,No,Yes,45,503031.0,7.9,1,2.94,31.7,593073.5352746762,1.55,Late
+365,Manufacturing,Fair,Enterprise,Mobile Money,No,No,90,412439.0,12.9,0,2.16,5.8,,2.3,On-Time
+366,Healthcare,Excellent,Small,Letter of Credit,No,Yes,60,163039.0,1.9,1,0.31,26.5,132129.8004224183,3.11,On-Time
+367,Construction,Good,Medium,Bank Transfer,No,Yes,60,99167.0,8.9,1,1.03,41.1,113981.51603050008,0.97,Late
+368,Manufacturing,Fair,Large,Cheque,No,Yes,15,84851.0,7.3,2,0.74,35.7,76794.39123637181,2.26,On-Time
+369,Healthcare,Good,Medium,Bank Transfer,Yes,No,30,321239.0,11.7,0,2.98,13.1,,3.0,On-Time
+370,Retail,Good,Enterprise,Bank Transfer,Yes,No,45,362591.0,10.3,3,2.18,47.5,,1.53,Severely Late
+371,Manufacturing,Good,Medium,Bank Transfer,No,No,30,302288.0,10.3,2,1.14,34.3,,1.18,On-Time
+372,Retail,Good,Small,Cheque,Yes,No,15,543185.0,2.7,0,2.48,22.3,,1.2,Late
+373,Technology,Excellent,Medium,Cheque,No,No,45,291792.0,1.9,0,2.34,12.4,,3.71,On-Time
+374,Manufacturing,Fair,Large,Bank Transfer,Yes,No,15,437007.0,7.8,0,0.22,4.5,,1.84,Late
+375,Retail,Good,Enterprise,Bank Transfer,No,No,60,174016.0,1.9,1,1.8,13.6,,1.19,Late
+376,Retail,Good,Medium,Bank Transfer,No,No,30,39783.0,11.3,1,2.27,12.9,,1.45,On-Time
+377,Retail,Fair,Small,Cheque,No,No,15,202081.0,6.6,1,1.89,21.9,,1.06,On-Time
+378,Retail,Excellent,Enterprise,Mobile Money,No,No,30,170970.0,11.6,2,1.64,45.7,,1.34,On-Time
+379,Construction,Good,Medium,Mobile Money,Yes,No,30,373022.0,7.6,1,1.86,12.8,,0.22,On-Time
+380,Manufacturing,Good,Small,Mobile Money,No,No,45,57125.0,9.0,1,1.66,22.3,,2.03,On-Time
+381,Manufacturing,Good,Medium,Cheque,Yes,Yes,45,493685.0,7.8,1,2.58,25.9,204488.38742686674,2.13,Late
+382,Technology,Poor,Enterprise,Bank Transfer,No,No,30,231085.0,1.1,1,3.13,17.3,,4.47,Late
+383,Retail,Excellent,Medium,Bank Transfer,No,No,90,237373.0,6.8,1,1.44,29.2,,1.45,On-Time
+384,Manufacturing,Excellent,Small,Mobile Money,No,Yes,30,529111.0,6.5,0,0.13,13.2,497331.9924897028,1.96,On-Time
+385,Healthcare,Fair,Medium,Letter of Credit,No,No,90,201618.0,1.4,1,2.13,14.3,,2.56,Late
+386,Retail,Fair,Small,Cheque,No,Yes,15,496329.0,2.4,2,1.13,29.1,202019.43400244883,0.71,Late
+387,Retail,Excellent,Large,Mobile Money,No,Yes,45,224990.0,7.0,1,1.02,33.0,125702.36485481936,2.5,On-Time
+388,Construction,Good,Large,Bank Transfer,No,No,30,234053.0,5.2,3,2.71,54.1,,0.93,On-Time
+389,Construction,Poor,Medium,Letter of Credit,No,Yes,15,388032.0,6.7,2,0.0,42.6,413350.2206419444,0.35,Late
+390,Manufacturing,Excellent,Medium,Mobile Money,No,No,30,205605.0,5.8,0,0.91,10.8,,1.64,On-Time
+391,Technology,Excellent,Small,Bank Transfer,No,No,45,16047.0,4.9,0,1.47,10.0,,4.88,On-Time
+392,Healthcare,Fair,Small,Mobile Money,No,Yes,60,246362.0,4.0,1,2.75,21.7,145765.97526974944,2.6,Late
+393,Retail,Poor,Large,Mobile Money,No,Yes,30,532054.0,7.8,2,2.29,44.6,242718.75750856148,0.73,Late
+394,Manufacturing,Fair,Small,Mobile Money,No,Yes,15,729198.0,6.6,2,1.48,25.3,311657.6712903778,2.69,On-Time
+395,Technology,Good,Large,Bank Transfer,No,Yes,45,187015.0,9.9,1,3.61,27.1,198916.99241418895,4.73,Late
+396,Retail,Fair,Medium,Mobile Money,No,Yes,45,213452.0,2.5,1,0.4,20.5,102339.66661557138,1.24,On-Time
+397,Manufacturing,Poor,Medium,Mobile Money,No,Yes,45,263469.0,4.1,1,2.5,27.7,111143.61061386835,1.81,Late
+398,Technology,Poor,Medium,Bank Transfer,Yes,Yes,15,109854.0,1.2,1,1.33,18.2,114052.12995222148,4.34,Late
+399,Construction,Excellent,Large,Bank Transfer,No,Yes,30,672530.0,6.7,0,3.32,13.0,290728.6717851505,0.42,On-Time
+400,Manufacturing,Poor,Small,Bank Transfer,No,Yes,15,512378.0,7.2,0,1.6,2.7,332202.4486766631,2.14,On-Time
+401,Healthcare,Fair,Small,Bank Transfer,No,No,90,199846.0,3.8,1,2.39,2.4,,2.65,Late
+402,Healthcare,Fair,Small,Cheque,Yes,No,30,791918.0,3.6,0,1.82,9.3,,2.94,On-Time
+403,Retail,Fair,Small,Mobile Money,No,Yes,90,152961.0,9.2,1,1.98,12.6,62741.31094602386,0.63,Severely Late
+404,Healthcare,Good,Medium,Mobile Money,No,No,30,124873.0,2.3,0,0.94,14.6,,3.42,On-Time
+405,Retail,Excellent,Small,Bank Transfer,No,No,30,531684.0,2.6,1,2.21,31.2,,1.16,On-Time
+406,Manufacturing,Good,Medium,Letter of Credit,No,No,60,172428.0,2.5,2,1.74,39.7,,2.23,Late
+407,Manufacturing,Excellent,Medium,Bank Transfer,Yes,No,30,692180.0,1.5,1,2.86,31.6,,2.08,On-Time
+408,Technology,Good,Medium,Cheque,No,Yes,30,363531.0,5.2,0,1.74,13.1,352472.9699725421,4.17,On-Time
+409,Retail,Fair,Large,Letter of Credit,Yes,Yes,30,54219.0,4.3,2,2.7,35.5,31464.810875348594,0.68,Late
+410,Technology,Good,Medium,Cheque,No,No,30,102296.0,2.2,1,1.24,34.4,,4.96,On-Time
+411,Technology,Fair,Small,Mobile Money,No,Yes,45,688587.0,0.8,3,1.48,34.7,612415.277371986,4.48,Late
+412,Healthcare,Fair,Medium,Letter of Credit,No,Yes,30,298807.0,0.5,1,0.46,28.5,231965.11737728532,3.61,Late
+413,Healthcare,Fair,Small,Bank Transfer,No,Yes,45,240650.0,4.7,0,0.76,12.1,201750.23271751785,3.27,On-Time
+414,Technology,Good,Medium,Cheque,No,No,45,88220.0,5.7,3,1.41,60.1,,4.44,Late
+415,Manufacturing,Good,Medium,Bank Transfer,No,No,15,421369.0,2.2,1,0.45,16.5,,1.7,On-Time
+416,Retail,Excellent,Small,Mobile Money,No,No,90,555589.0,0.7,2,1.77,35.6,,0.82,On-Time
+417,Manufacturing,Excellent,Small,Bank Transfer,No,No,45,428905.0,4.1,2,1.07,35.3,,1.26,On-Time
+418,Construction,Good,Small,Bank Transfer,Yes,Yes,15,537074.0,11.8,0,1.34,7.2,573924.9399741042,1.04,On-Time
+419,Technology,Poor,Large,Letter of Credit,Yes,Yes,30,233251.0,2.5,1,4.62,29.7,253154.10527031613,4.44,Severely Late
+420,Manufacturing,Good,Medium,Bank Transfer,No,Yes,15,638052.0,1.3,1,1.19,20.8,371462.5885268674,2.1,On-Time
+421,Construction,Good,Small,Cheque,No,No,60,278430.0,4.9,2,0.2,41.1,,0.64,Severely Late
+422,Manufacturing,Fair,Small,Letter of Credit,No,No,45,466547.0,3.8,4,1.88,41.7,,2.01,Severely Late
+423,Manufacturing,Fair,Small,Letter of Credit,No,No,60,113356.0,3.5,0,1.92,17.5,,1.49,On-Time
+424,Manufacturing,Fair,Medium,Bank Transfer,No,No,90,255562.0,2.1,2,2.11,29.8,,2.26,On-Time
+425,Healthcare,Good,Small,Bank Transfer,No,No,30,267347.0,0.4,0,2.72,20.7,,3.64,On-Time
+426,Manufacturing,Poor,Large,Bank Transfer,No,No,60,357324.0,2.2,0,1.37,25.3,,1.93,Late
+427,Healthcare,Fair,Small,Bank Transfer,No,No,30,155462.0,4.1,0,2.91,12.2,,2.96,On-Time
+428,Construction,Excellent,Medium,Bank Transfer,No,Yes,45,149539.0,3.1,0,0.77,5.9,154337.70338696562,0.42,On-Time
+429,Manufacturing,Fair,Small,Mobile Money,No,No,30,109807.0,6.8,4,1.99,62.9,,1.76,On-Time
+430,Manufacturing,Fair,Large,Bank Transfer,No,No,45,1079152.0,4.3,1,0.96,22.7,,1.69,On-Time
+431,Manufacturing,Fair,Medium,Bank Transfer,No,No,60,613245.0,1.6,1,1.78,28.4,,1.89,Severely Late
+432,Manufacturing,Excellent,Medium,Mobile Money,No,No,30,393078.0,4.4,0,2.18,21.1,,2.82,On-Time
+433,Manufacturing,Good,Small,Mobile Money,No,No,30,389834.0,1.0,0,3.94,17.3,,2.45,Late
+434,Manufacturing,Poor,Enterprise,Bank Transfer,No,Yes,30,132163.0,3.4,1,3.47,22.0,144263.73757068397,2.51,On-Time
+435,Technology,Poor,Large,Bank Transfer,Yes,Yes,15,317222.0,1.2,2,4.1,27.2,326223.8139483006,4.7,On-Time
+436,Manufacturing,Fair,Enterprise,Bank Transfer,No,Yes,45,189371.0,4.4,4,3.44,46.1,164370.4192279596,2.29,On-Time
+437,Construction,Poor,Large,Cheque,No,No,45,1243305.0,1.4,1,4.66,28.2,,1.06,Late
+438,Construction,Good,Medium,Bank Transfer,No,Yes,30,257427.0,0.8,2,1.91,35.1,113453.11658649653,0.44,Late
+439,Healthcare,Good,Small,Letter of Credit,No,Yes,90,287967.0,3.9,0,2.2,8.8,187987.93985022383,2.82,Late
+440,Technology,Good,Large,Bank Transfer,No,No,30,731488.0,2.3,4,3.95,72.1,,4.5,Late
+441,Technology,Fair,Medium,Letter of Credit,Yes,Yes,30,446604.0,8.1,0,2.43,15.7,355269.5492707844,4.63,On-Time
+442,Retail,Fair,Large,Bank Transfer,No,No,30,259525.0,10.0,0,2.2,13.1,,1.67,On-Time
+443,Retail,Good,Medium,Bank Transfer,Yes,No,30,383213.0,6.6,1,0.39,19.7,,1.75,On-Time
+444,Healthcare,Fair,Medium,Bank Transfer,Yes,Yes,15,203625.0,10.3,0,2.57,13.9,234095.31685958244,3.52,On-Time
+445,Construction,Excellent,Large,Bank Transfer,No,No,15,447295.0,3.1,0,4.05,8.2,,1.36,On-Time
+446,Healthcare,Good,Small,Bank Transfer,Yes,Yes,45,683327.0,2.9,1,1.03,34.7,559495.2348013765,2.89,On-Time
+447,Retail,Good,Medium,Bank Transfer,No,Yes,45,795748.0,1.4,1,3.31,25.4,323553.56006345456,1.56,Late
+448,Technology,Excellent,Enterprise,Bank Transfer,No,Yes,45,161536.0,5.7,3,0.0,26.7,115355.2773516136,4.41,On-Time
+449,Construction,Excellent,Medium,Mobile Money,No,No,90,376586.0,6.3,0,0.95,14.4,,0.69,On-Time
+450,Healthcare,Good,Small,Mobile Money,No,No,90,160817.0,3.7,1,3.89,28.2,,3.2,Late
+451,Construction,Fair,Medium,Bank Transfer,No,No,30,607360.0,7.5,2,0.24,50.6,,0.72,Severely Late
+452,Healthcare,Poor,Small,Letter of Credit,No,No,30,893285.0,2.6,1,0.89,31.2,,2.9,Late
+453,Technology,Fair,Enterprise,Bank Transfer,No,No,90,433106.0,4.9,0,3.71,12.8,,3.98,On-Time
+454,Retail,Excellent,Small,Bank Transfer,No,Yes,30,238599.0,5.0,1,0.84,14.2,256868.61568344885,1.8,On-Time
+455,Healthcare,Good,Small,Cheque,Yes,Yes,30,368885.0,14.5,0,2.41,12.9,303714.11450377904,2.77,On-Time
+456,Retail,Fair,Large,Bank Transfer,No,No,30,327933.0,5.9,1,2.42,29.9,,1.65,Late
+457,Retail,Poor,Large,Mobile Money,No,No,60,934436.0,6.7,2,1.56,26.4,,1.48,Severely Late
+458,Construction,Fair,Enterprise,Cheque,No,Yes,15,255798.0,2.1,1,3.88,21.4,149492.74650273466,1.3,On-Time
+459,Technology,Good,Medium,Cheque,Yes,No,15,186296.0,8.7,2,2.69,38.1,,3.98,On-Time
+460,Construction,Poor,Small,Mobile Money,No,Yes,15,342022.0,11.4,2,3.08,15.1,276650.62438670365,0.5,Late
+461,Manufacturing,Good,Large,Bank Transfer,No,No,15,426869.0,6.8,0,1.59,18.0,,2.81,On-Time
+462,Manufacturing,Excellent,Medium,Bank Transfer,No,No,15,1010181.0,2.6,1,1.07,16.1,,2.83,On-Time
+463,Healthcare,Good,Large,Bank Transfer,No,No,45,123299.0,11.7,3,3.41,41.8,,2.4,Late
+464,Manufacturing,Good,Large,Cheque,No,Yes,90,206574.0,2.0,0,1.16,15.3,86622.05279939462,2.02,On-Time
+465,Construction,Excellent,Medium,Bank Transfer,No,No,15,82280.0,1.6,0,1.84,15.9,,0.71,On-Time
+466,Construction,Excellent,Medium,Mobile Money,No,Yes,15,164766.0,10.8,0,2.12,16.1,122687.97733350091,1.32,On-Time
+467,Retail,Fair,Small,Bank Transfer,Yes,No,30,45903.0,8.8,0,3.32,15.1,,1.66,On-Time
+468,Construction,Good,Medium,Bank Transfer,No,Yes,30,248655.0,3.5,3,5.13,38.4,190510.2425017256,0.92,On-Time
+469,Technology,Fair,Large,Bank Transfer,No,No,30,1152816.0,11.3,2,0.2,30.5,,4.37,On-Time
+470,Retail,Good,Small,Mobile Money,No,No,30,207006.0,2.8,1,1.65,12.8,,1.32,On-Time
+471,Healthcare,Good,Small,Bank Transfer,No,No,45,640974.0,8.6,2,1.13,52.0,,3.28,On-Time
+472,Manufacturing,Good,Medium,Mobile Money,No,No,15,482561.0,5.7,1,2.56,25.6,,2.06,On-Time
+473,Technology,Fair,Large,Letter of Credit,No,No,30,468147.0,1.8,1,2.41,19.2,,4.99,On-Time
+474,Retail,Good,Enterprise,Bank Transfer,No,No,60,242618.0,4.2,1,2.38,19.2,,1.31,Severely Late
+475,Manufacturing,Poor,Medium,Bank Transfer,Yes,No,45,158409.0,3.2,0,1.63,15.7,,2.19,Severely Late
+476,Manufacturing,Fair,Small,Bank Transfer,Yes,No,60,596082.0,7.4,1,1.5,19.5,,1.91,Late
+477,Manufacturing,Fair,Large,Letter of Credit,Yes,Yes,30,226473.0,6.4,1,3.96,35.2,269634.1204069199,1.36,Late
+478,Construction,Good,Medium,Bank Transfer,No,Yes,30,355626.0,5.1,2,2.73,29.8,144604.7336444995,0.85,On-Time
+479,Retail,Fair,Large,Bank Transfer,No,Yes,15,341363.0,0.8,0,1.93,19.3,194062.4526184867,1.86,On-Time
+480,Construction,Excellent,Small,Bank Transfer,No,No,15,295283.0,10.2,2,0.8,32.0,,0.24,On-Time
+481,Manufacturing,Excellent,Large,Mobile Money,No,No,30,345220.0,7.4,3,1.55,50.4,,2.77,On-Time
+482,Healthcare,Fair,Large,Mobile Money,No,Yes,30,291041.0,3.7,0,1.75,24.1,269818.1860363483,2.83,On-Time
+483,Healthcare,Fair,Large,Bank Transfer,No,No,15,31812.0,2.5,2,0.69,23.9,,2.72,On-Time
+484,Technology,Fair,Small,Bank Transfer,No,Yes,90,76357.0,3.4,2,3.98,32.6,57894.23047926596,4.78,On-Time
+485,Manufacturing,Excellent,Small,Mobile Money,No,Yes,45,389200.0,13.1,1,0.86,17.7,226662.30125895262,1.71,On-Time
+486,Retail,Good,Large,Bank Transfer,No,No,45,156852.0,3.9,0,2.66,25.2,,1.41,On-Time
+487,Construction,Fair,Enterprise,Bank Transfer,No,Yes,30,356595.0,1.6,4,5.35,52.0,340395.73467310326,0.83,Late
+488,Manufacturing,Good,Medium,Bank Transfer,No,No,30,45196.0,10.4,3,1.76,35.0,,1.95,On-Time
+489,Construction,Fair,Medium,Bank Transfer,No,No,30,287582.0,2.9,1,2.67,26.4,,0.22,On-Time
+490,Healthcare,Fair,Enterprise,Bank Transfer,No,No,15,372765.0,5.0,1,2.83,24.9,,3.18,On-Time
+491,Technology,Fair,Medium,Letter of Credit,No,No,45,169062.0,6.2,0,2.83,18.9,,4.4,On-Time
+492,Retail,Fair,Small,Bank Transfer,No,No,30,238271.0,6.4,1,0.75,18.8,,1.96,On-Time
+493,Manufacturing,Good,Medium,Mobile Money,Yes,Yes,45,42217.0,4.6,1,0.53,31.1,28212.837554520676,2.22,On-Time
+494,Manufacturing,Good,Small,Mobile Money,No,Yes,90,228524.0,13.6,2,3.39,46.2,129193.94437847385,2.19,Severely Late
+495,Retail,Excellent,Large,Bank Transfer,No,No,30,408477.0,3.9,1,2.97,16.9,,1.0,On-Time
+496,Healthcare,Fair,Medium,Bank Transfer,No,Yes,45,426581.0,5.8,1,2.27,11.1,268282.6839977083,2.79,On-Time
+497,Manufacturing,Excellent,Large,Mobile Money,No,Yes,45,660190.0,5.2,0,1.78,12.6,636394.0625539691,1.83,On-Time
+498,Manufacturing,Good,Medium,Bank Transfer,Yes,Yes,30,287083.0,4.6,1,0.84,24.9,183762.71767754797,3.45,Late
+499,Technology,Good,Medium,Bank Transfer,No,No,30,679949.0,11.5,3,3.54,24.0,,4.47,On-Time
+500,Manufacturing,Excellent,Enterprise,Bank Transfer,No,No,45,300750.0,7.0,1,3.83,17.1,,3.03,On-Time
+501,Manufacturing,Fair,Medium,Bank Transfer,No,No,30,146172.0,6.1,1,2.38,16.8,,2.53,On-Time
+502,Retail,Fair,Small,Bank Transfer,No,No,30,155042.0,9.4,1,2.07,13.9,,1.67,On-Time
+503,Manufacturing,Fair,Medium,Cheque,No,No,45,170788.0,9.8,0,2.64,9.4,,1.53,On-Time
+504,Healthcare,Poor,Small,Bank Transfer,No,No,45,256321.0,8.9,3,1.0,41.9,,2.47,Severely Late
+505,Construction,Fair,Medium,Letter of Credit,No,No,30,374809.0,7.4,0,3.39,11.6,,0.66,On-Time
+506,Manufacturing,Good,Large,Mobile Money,No,No,45,47460.0,14.0,0,0.87,13.8,,2.36,On-Time
+507,Manufacturing,Fair,Small,Mobile Money,No,Yes,60,407462.0,5.2,0,0.01,13.8,217752.3750490351,2.15,On-Time
+508,Technology,Fair,Medium,Bank Transfer,No,No,60,367341.0,4.0,2,3.9,34.3,,4.05,Late
+509,Healthcare,Good,Large,Bank Transfer,No,Yes,60,208309.0,4.7,0,1.84,11.1,162584.9172726828,2.55,On-Time
+510,Retail,Good,Small,Cheque,No,No,60,126732.0,11.0,1,1.77,16.5,,1.22,Late
+511,Manufacturing,Excellent,Medium,Bank Transfer,No,Yes,90,446063.0,4.5,2,0.0,40.5,254745.9334492158,1.85,On-Time
+512,Manufacturing,Fair,Large,Bank Transfer,Yes,No,90,207136.0,5.6,0,2.6,22.9,,2.51,Late
+513,Healthcare,Poor,Large,Mobile Money,No,No,30,73364.0,6.9,2,2.23,23.5,,3.8,Late
+514,Retail,Good,Small,Bank Transfer,No,No,60,398524.0,5.6,0,2.54,21.1,,0.89,On-Time
+515,Manufacturing,Good,Large,Bank Transfer,No,Yes,60,200661.0,6.3,2,2.98,43.1,150561.61928446937,2.38,On-Time
+516,Manufacturing,Excellent,Small,Cheque,Yes,Yes,90,236277.0,5.0,2,2.2,32.1,243643.5697371808,2.28,Severely Late
+517,Healthcare,Fair,Small,Mobile Money,No,Yes,45,913551.0,5.1,3,2.79,41.9,549575.6143509618,2.98,Severely Late
+518,Retail,Good,Large,Mobile Money,No,No,45,620294.0,4.0,1,4.08,14.4,,1.07,On-Time
+519,Manufacturing,Good,Small,Mobile Money,No,Yes,15,192511.0,9.9,2,2.44,33.2,127998.52480872534,1.93,On-Time
+520,Technology,Good,Large,Mobile Money,No,Yes,30,174357.0,6.3,1,2.71,21.1,207869.5043480062,4.45,On-Time
+521,Construction,Fair,Small,Bank Transfer,No,Yes,45,340145.0,6.4,1,2.18,24.9,314259.9774821347,0.7,On-Time
+522,Technology,Fair,Small,Letter of Credit,No,Yes,90,549238.0,2.7,0,1.85,29.1,301276.97896723513,4.33,Severely Late
+523,Technology,Good,Medium,Mobile Money,No,No,30,200490.0,6.3,2,2.07,34.4,,4.12,On-Time
+524,Retail,Excellent,Enterprise,Cheque,No,No,45,347671.0,6.9,1,1.29,31.3,,1.33,On-Time
+525,Construction,Fair,Small,Bank Transfer,No,No,15,292690.0,2.2,0,0.0,19.9,,1.02,On-Time
+526,Retail,Poor,Large,Cheque,No,Yes,30,251173.0,7.7,1,2.09,12.8,247656.2276211784,1.01,Late
+527,Construction,Good,Medium,Bank Transfer,No,No,30,307945.0,12.1,1,3.03,20.7,,0.84,On-Time
+528,Manufacturing,Excellent,Medium,Bank Transfer,No,No,15,184203.0,2.2,2,2.78,29.5,,2.28,On-Time
+529,Technology,Fair,Medium,Bank Transfer,No,No,90,981194.0,6.1,2,2.77,25.6,,4.16,Late
+530,Technology,Fair,Medium,Bank Transfer,No,No,45,676262.0,3.0,0,0.57,10.4,,5.17,On-Time
+531,Healthcare,Fair,Small,Mobile Money,No,No,30,554633.0,11.3,2,2.69,44.8,,2.72,Late
+532,Construction,Good,Small,Bank Transfer,No,Yes,90,257459.0,3.1,1,3.71,19.8,197414.65889936363,0.85,Late
+533,Construction,Excellent,Small,Cheque,Yes,Yes,30,314456.0,7.2,2,1.33,34.5,265747.82755246,0.83,Late
+534,Retail,Poor,Medium,Letter of Credit,Yes,Yes,30,579865.0,5.6,1,1.37,22.1,323580.02730351244,1.48,On-Time
+535,Manufacturing,Good,Large,Letter of Credit,No,No,60,409618.0,4.3,3,2.05,46.6,,2.09,Late
+536,Retail,Poor,Large,Bank Transfer,No,No,45,566217.0,1.6,1,2.59,19.6,,1.06,Late
+537,Construction,Good,Enterprise,Letter of Credit,No,No,90,474022.0,0.4,1,2.72,26.2,,1.03,Late
+538,Technology,Poor,Medium,Mobile Money,No,No,45,288271.0,4.0,1,2.77,21.4,,5.37,On-Time
+539,Manufacturing,Excellent,Large,Bank Transfer,No,No,15,595125.0,9.0,4,0.67,39.7,,2.6,On-Time
+540,Technology,Good,Small,Cheque,No,No,15,622174.0,4.2,1,2.69,30.6,,4.64,On-Time
+541,Retail,Good,Medium,Mobile Money,Yes,Yes,45,78494.0,2.2,3,3.57,22.6,45718.961470072376,1.41,Late
+542,Healthcare,Good,Medium,Cheque,No,Yes,15,224652.0,3.1,1,2.78,18.4,178971.17932380748,3.53,On-Time
+543,Construction,Poor,Medium,Letter of Credit,Yes,Yes,30,862297.0,7.5,0,0.41,18.5,959566.2254387741,1.1,Severely Late
+544,Technology,Fair,Large,Bank Transfer,No,Yes,15,420190.0,2.7,3,2.17,46.5,310564.8526256816,4.64,Late
+545,Retail,Fair,Medium,Bank Transfer,No,No,15,355401.0,6.7,0,2.43,18.3,,2.0,On-Time
+546,Manufacturing,Excellent,Medium,Bank Transfer,No,Yes,30,78056.0,9.3,0,1.48,9.6,50246.27447041316,2.29,On-Time
+547,Technology,Fair,Medium,Bank Transfer,No,Yes,15,327786.0,3.2,0,1.43,5.7,160426.68369062748,4.73,On-Time
+548,Technology,Excellent,Enterprise,Cheque,No,No,15,434179.0,2.9,2,1.72,43.7,,4.53,On-Time
+549,Construction,Poor,Medium,Letter of Credit,No,Yes,45,201006.0,2.6,0,1.89,18.4,202787.41269532708,0.42,Late
+550,Technology,Good,Medium,Bank Transfer,Yes,No,45,288093.0,9.4,1,1.03,21.0,,4.42,On-Time
+551,Technology,Good,Small,Mobile Money,Yes,Yes,45,632931.0,12.1,2,1.33,28.9,693425.3899956737,4.51,Late
+552,Manufacturing,Good,Medium,Bank Transfer,No,Yes,30,486677.0,8.7,2,2.36,25.9,453286.8940866718,1.33,On-Time
+553,Technology,Fair,Medium,Bank Transfer,No,Yes,60,213278.0,5.0,2,3.28,44.5,241678.79397104404,3.52,Late
+554,Manufacturing,Good,Small,Mobile Money,No,Yes,45,253235.0,2.3,1,2.07,24.9,231123.60487929574,2.18,Late
+555,Healthcare,Excellent,Medium,Mobile Money,No,Yes,15,372701.0,7.0,1,0.64,28.4,162818.73827703175,3.18,On-Time
+556,Healthcare,Poor,Medium,Bank Transfer,No,Yes,45,990989.0,3.8,0,2.11,12.2,620846.1519214158,3.65,Late
+557,Manufacturing,Excellent,Large,Bank Transfer,No,No,60,366572.0,5.5,1,0.0,17.2,,2.0,On-Time
+558,Manufacturing,Fair,Medium,Mobile Money,No,No,15,124094.0,2.6,0,1.37,19.3,,1.77,On-Time
+559,Construction,Fair,Small,Letter of Credit,No,No,30,305685.0,3.0,1,1.85,18.4,,1.03,Late
+560,Manufacturing,Good,Medium,Bank Transfer,No,No,30,356582.0,4.4,2,1.1,52.3,,2.95,On-Time
+561,Manufacturing,Good,Small,Mobile Money,No,Yes,30,81332.0,4.5,2,2.35,47.9,96083.04981594592,2.05,On-Time
+562,Retail,Good,Small,Bank Transfer,Yes,Yes,90,174148.0,9.2,2,0.0,43.6,178934.29987318968,1.3,Severely Late
+563,Construction,Fair,Small,Bank Transfer,No,Yes,30,97757.0,4.8,0,0.43,24.3,58651.106375704265,0.81,On-Time
+564,Healthcare,Fair,Small,Bank Transfer,No,No,45,225752.0,7.6,3,2.19,33.5,,3.19,Late
+565,Construction,Excellent,Medium,Letter of Credit,No,No,45,566686.0,21.6,1,3.23,23.2,,1.16,On-Time
+566,Manufacturing,Fair,Small,Letter of Credit,Yes,Yes,45,279491.0,7.8,1,1.38,33.6,202351.66327758538,1.5,On-Time
+567,Technology,Good,Medium,Bank Transfer,Yes,Yes,15,265105.0,11.5,2,2.51,30.8,256303.08324061226,4.25,On-Time
+568,Retail,Poor,Small,Mobile Money,Yes,No,60,116799.0,8.8,0,3.28,13.2,,1.54,Late
+569,Technology,Good,Small,Mobile Money,Yes,No,60,276407.0,6.7,4,2.84,26.8,,4.79,Late
+570,Retail,Poor,Small,Mobile Money,No,No,45,142084.0,1.4,1,0.0,29.5,,1.0,On-Time
+571,Retail,Poor,Medium,Bank Transfer,No,No,45,352089.0,0.5,1,1.25,33.0,,0.94,Late
+572,Construction,Fair,Medium,Bank Transfer,No,Yes,60,506383.0,1.7,0,2.77,19.1,284692.3599425218,0.63,Late
+573,Retail,Fair,Small,Bank Transfer,No,No,15,163955.0,1.2,0,0.0,16.1,,2.05,On-Time
+574,Manufacturing,Excellent,Large,Mobile Money,Yes,No,30,496827.0,5.8,3,4.25,40.5,,2.26,On-Time
+575,Manufacturing,Fair,Medium,Letter of Credit,No,No,60,513180.0,2.6,1,3.14,15.2,,2.83,Late
+576,Retail,Poor,Small,Bank Transfer,No,No,45,131961.0,1.9,0,0.96,17.5,,1.08,Late
+577,Manufacturing,Fair,Large,Bank Transfer,Yes,Yes,60,239032.0,2.4,2,3.58,45.9,240809.90221042818,1.87,Severely Late
+578,Healthcare,Good,Enterprise,Mobile Money,No,Yes,30,456278.0,1.5,0,0.75,8.4,265535.1211659404,3.92,On-Time
+579,Manufacturing,Good,Small,Bank Transfer,No,Yes,45,209325.0,3.4,4,1.3,45.2,149170.10097405914,2.45,Late
+580,Retail,Excellent,Medium,Cheque,No,Yes,45,711142.0,6.2,0,4.13,15.6,414115.3609886905,1.57,On-Time
+581,Healthcare,Good,Small,Bank Transfer,No,No,45,452278.0,1.9,0,1.23,16.2,,3.03,On-Time
+582,Manufacturing,Poor,Large,Bank Transfer,No,No,15,102224.0,2.9,1,0.82,24.0,,1.59,On-Time
+583,Technology,Poor,Large,Mobile Money,No,No,90,491804.0,5.4,1,1.7,23.4,,4.7,Severely Late
+584,Manufacturing,Fair,Medium,Letter of Credit,Yes,No,45,657786.0,3.9,1,2.25,23.8,,1.8,Late
+585,Healthcare,Excellent,Medium,Mobile Money,No,No,30,202106.0,3.2,3,0.37,36.8,,3.41,On-Time
+586,Healthcare,Poor,Large,Bank Transfer,Yes,No,90,207892.0,5.2,2,2.91,35.6,,3.2,Severely Late
+587,Manufacturing,Excellent,Medium,Bank Transfer,No,Yes,45,230583.0,1.8,0,4.14,17.7,266951.13270939054,1.73,On-Time
+588,Healthcare,Good,Medium,Letter of Credit,Yes,No,45,685791.0,1.1,0,1.44,15.3,,2.8,Late
+589,Technology,Poor,Medium,Bank Transfer,No,Yes,30,102635.0,1.4,3,0.0,45.9,107505.88606433936,4.91,Late
+590,Technology,Good,Large,Bank Transfer,No,Yes,30,371672.0,4.4,1,2.06,16.4,168708.25928421126,4.42,On-Time
+591,Technology,Excellent,Small,Mobile Money,No,No,90,433864.0,7.1,1,3.22,18.2,,4.46,On-Time
+592,Retail,Good,Large,Letter of Credit,No,Yes,30,313772.0,6.8,1,2.81,20.7,136251.4453211508,0.92,Late
+593,Manufacturing,Fair,Large,Cheque,No,Yes,30,126226.0,14.2,1,4.54,23.7,123155.92645390333,2.14,On-Time
+594,Manufacturing,Fair,Small,Bank Transfer,No,No,45,237988.0,4.3,3,1.39,38.4,,2.26,On-Time
+595,Technology,Excellent,Medium,Bank Transfer,No,No,60,704050.0,7.8,0,0.18,18.9,,4.56,On-Time
+596,Healthcare,Fair,Small,Bank Transfer,No,No,45,81615.0,3.7,3,1.75,43.0,,3.07,Late
+597,Construction,Good,Medium,Cheque,Yes,No,15,433928.0,8.3,1,1.22,31.8,,0.23,On-Time
+598,Healthcare,Good,Large,Mobile Money,Yes,Yes,30,318772.0,6.4,2,4.17,25.7,215813.15366245506,2.43,On-Time
+599,Retail,Good,Medium,Mobile Money,No,Yes,60,403475.0,2.3,3,2.26,41.3,284330.99875911605,1.12,Late
+600,Technology,Fair,Large,Cheque,No,No,60,155721.0,18.5,2,0.57,39.5,,4.59,Severely Late
+601,Technology,Fair,Medium,Bank Transfer,No,No,45,427501.0,11.1,2,2.37,36.0,,4.29,Late
+602,Manufacturing,Poor,Medium,Bank Transfer,No,No,15,142654.0,3.7,2,2.32,27.6,,2.18,On-Time
+603,Technology,Excellent,Small,Mobile Money,No,No,45,135397.0,7.2,1,2.17,17.9,,4.76,On-Time
+604,Retail,Poor,Medium,Letter of Credit,No,Yes,60,139248.0,4.1,2,1.94,20.5,166190.71811242597,1.99,Late
+605,Manufacturing,Fair,Medium,Cheque,No,No,15,403649.0,7.9,1,3.75,16.6,,2.02,On-Time
+606,Manufacturing,Good,Small,Mobile Money,No,Yes,30,343962.0,1.3,0,3.71,5.8,275225.9936162107,2.37,On-Time
+607,Retail,Good,Small,Letter of Credit,No,No,15,334807.0,4.3,0,2.3,16.0,,1.05,On-Time
+608,Manufacturing,Good,Large,Mobile Money,No,No,30,68342.0,1.3,2,1.91,31.7,,1.65,On-Time
+609,Construction,Excellent,Large,Bank Transfer,No,No,45,153598.0,11.0,1,0.0,24.0,,1.25,On-Time
+610,Construction,Good,Medium,Cheque,No,No,30,336701.0,10.9,4,2.07,60.1,,1.72,Late
+611,Healthcare,Good,Medium,Letter of Credit,No,No,15,48456.0,10.7,1,2.2,33.1,,2.8,On-Time
+612,Construction,Fair,Large,Mobile Money,No,No,90,566608.0,4.8,0,0.55,22.8,,1.0,Late
+613,Retail,Poor,Medium,Mobile Money,Yes,No,45,190964.0,5.4,1,3.21,25.2,,0.66,On-Time
+614,Manufacturing,Good,Large,Cheque,No,Yes,45,490602.0,0.7,3,2.89,35.1,258047.51340659827,1.7,Late
+615,Construction,Good,Large,Bank Transfer,No,No,15,373075.0,1.2,0,1.94,24.5,,0.35,On-Time
+616,Construction,Excellent,Large,Cheque,No,No,60,741707.0,0.7,0,1.21,25.4,,1.09,On-Time
+617,Manufacturing,Excellent,Medium,Cheque,No,No,30,433214.0,11.2,0,2.89,1.3,,1.09,On-Time
+618,Construction,Fair,Small,Bank Transfer,Yes,Yes,30,780314.0,2.4,0,0.61,14.3,327068.3189217028,1.01,On-Time
+619,Retail,Good,Large,Mobile Money,No,No,30,181106.0,3.9,0,1.89,16.0,,1.7,On-Time
+620,Healthcare,Fair,Medium,Bank Transfer,Yes,Yes,45,261303.0,0.4,2,2.16,27.1,222491.96683361867,3.24,On-Time
+621,Manufacturing,Excellent,Enterprise,Mobile Money,No,No,30,563554.0,2.1,4,2.47,48.8,,1.75,On-Time
+622,Manufacturing,Fair,Large,Bank Transfer,Yes,No,45,686771.0,2.6,0,1.77,20.5,,1.47,Late
+623,Retail,Fair,Large,Letter of Credit,No,Yes,30,126587.0,7.0,1,1.03,23.6,92264.38010104935,2.35,On-Time
+624,Retail,Fair,Small,Bank Transfer,No,Yes,45,595156.0,6.7,2,2.6,37.4,433214.891050384,1.83,Late
+625,Retail,Good,Enterprise,Mobile Money,No,No,60,464602.0,14.6,1,1.13,27.5,,1.58,Late
+626,Manufacturing,Good,Enterprise,Bank Transfer,No,No,60,167376.0,2.3,1,3.7,26.6,,2.78,On-Time
+627,Construction,Good,Small,Bank Transfer,No,No,90,160437.0,4.2,0,2.99,11.2,,0.77,On-Time
+628,Construction,Excellent,Small,Bank Transfer,No,No,90,699065.0,0.8,1,3.4,12.0,,0.8,On-Time
+629,Technology,Fair,Large,Mobile Money,No,No,30,240324.0,1.4,1,1.54,25.7,,4.25,On-Time
+630,Construction,Good,Medium,Mobile Money,Yes,Yes,45,527098.0,5.1,0,3.1,7.6,599887.3274892532,0.6,On-Time
+631,Retail,Poor,Small,Letter of Credit,No,No,60,305758.0,10.9,2,3.39,26.9,,2.29,Severely Late
+632,Healthcare,Good,Medium,Mobile Money,Yes,No,60,199324.0,1.3,0,2.36,10.1,,2.33,On-Time
+633,Technology,Fair,Medium,Letter of Credit,Yes,No,60,203886.0,3.8,1,0.0,28.1,,4.36,Late
+634,Healthcare,Fair,Large,Bank Transfer,No,No,90,184964.0,6.1,0,1.27,11.9,,2.59,On-Time
+635,Manufacturing,Fair,Large,Bank Transfer,No,No,60,244062.0,3.0,1,1.46,16.5,,2.0,On-Time
+636,Construction,Fair,Medium,Bank Transfer,No,No,60,413104.0,7.1,1,1.75,29.9,,1.19,On-Time
+637,Technology,Fair,Small,Mobile Money,Yes,Yes,60,419474.0,1.8,1,4.35,18.2,185407.5234255083,5.18,Late
+638,Manufacturing,Good,Small,Bank Transfer,No,Yes,45,80360.0,1.5,0,1.72,15.9,51906.846255493874,2.25,On-Time
+639,Technology,Excellent,Large,Bank Transfer,No,Yes,30,1044045.0,6.3,0,1.51,10.4,477602.67775996437,4.6,On-Time
+640,Healthcare,Excellent,Medium,Cheque,Yes,Yes,45,555465.0,6.1,2,2.13,37.8,470112.49440846575,2.8,On-Time
+641,Retail,Good,Small,Bank Transfer,No,No,30,10000.0,0.8,2,1.95,25.4,,1.81,On-Time
+642,Construction,Excellent,Medium,Bank Transfer,No,Yes,60,731755.0,3.7,0,1.21,17.2,602630.3066129638,0.93,On-Time
+643,Manufacturing,Good,Medium,Letter of Credit,No,No,30,387564.0,19.1,2,4.88,27.4,,2.18,On-Time
+644,Manufacturing,Good,Small,Mobile Money,No,Yes,30,342063.0,0.2,1,0.4,24.6,239789.64278414482,2.84,On-Time
+645,Retail,Excellent,Large,Bank Transfer,No,Yes,45,100215.0,5.6,1,1.64,21.8,58243.55299503337,1.49,On-Time
+646,Retail,Good,Small,Cheque,No,Yes,90,834101.0,3.9,2,1.09,25.5,871103.2181757313,1.92,Severely Late
+647,Retail,Fair,Enterprise,Bank Transfer,No,No,30,235545.0,1.9,1,1.17,18.5,,1.97,On-Time
+648,Technology,Good,Small,Letter of Credit,No,No,15,237570.0,2.4,2,2.59,33.3,,4.54,On-Time
+649,Healthcare,Excellent,Small,Mobile Money,No,Yes,30,801038.0,5.1,2,2.71,43.6,353158.1840503631,3.16,On-Time
+650,Manufacturing,Excellent,Large,Mobile Money,No,No,45,207289.0,9.4,0,0.31,15.9,,1.8,On-Time
+651,Retail,Good,Medium,Letter of Credit,No,No,45,649657.0,9.3,0,2.49,7.2,,1.56,On-Time
+652,Manufacturing,Fair,Small,Mobile Money,No,Yes,90,513969.0,6.8,1,1.05,27.6,286465.74398099515,2.47,Late
+653,Manufacturing,Excellent,Enterprise,Letter of Credit,Yes,No,15,119160.0,6.0,0,2.14,6.7,,2.85,On-Time
+654,Manufacturing,Good,Medium,Mobile Money,No,No,90,271394.0,5.2,1,2.53,20.9,,1.75,Severely Late
+655,Manufacturing,Fair,Medium,Bank Transfer,No,No,30,316080.0,3.7,1,2.3,26.1,,1.64,On-Time
+656,Construction,Poor,Large,Bank Transfer,Yes,No,30,160206.0,6.1,1,1.55,30.5,,0.39,Severely Late
+657,Manufacturing,Good,Small,Bank Transfer,No,Yes,15,242204.0,10.3,1,1.46,26.9,203254.2069459924,1.76,On-Time
+658,Retail,Excellent,Medium,Bank Transfer,No,Yes,45,553048.0,8.3,1,1.41,18.7,530284.5887528787,1.0,On-Time
+659,Retail,Fair,Small,Mobile Money,No,No,30,631518.0,4.8,1,3.27,38.6,,1.17,Late
+660,Healthcare,Excellent,Small,Bank Transfer,No,No,60,1406062.0,15.8,0,3.37,13.5,,2.71,On-Time
+661,Manufacturing,Good,Small,Cheque,Yes,No,90,329210.0,2.5,2,1.11,38.7,,2.42,Severely Late
+662,Manufacturing,Good,Medium,Mobile Money,No,Yes,60,397642.0,3.8,1,0.44,18.1,265380.58995407604,1.4,On-Time
+663,Manufacturing,Poor,Medium,Mobile Money,No,No,30,356372.0,6.5,1,2.44,18.8,,2.19,On-Time
+664,Construction,Good,Large,Bank Transfer,No,No,30,260880.0,5.2,1,2.3,16.7,,1.48,On-Time
+665,Healthcare,Excellent,Medium,Bank Transfer,Yes,No,90,699211.0,18.1,2,1.52,37.6,,3.49,Late
+666,Manufacturing,Good,Large,Mobile Money,No,Yes,15,92445.0,3.7,0,0.0,16.4,65257.205848366146,1.81,On-Time
+667,Construction,Fair,Enterprise,Bank Transfer,No,No,45,74667.0,5.7,0,3.52,14.3,,0.72,Late
+668,Healthcare,Excellent,Small,Letter of Credit,No,No,60,547476.0,12.8,1,2.12,31.7,,3.07,On-Time
+669,Technology,Good,Enterprise,Mobile Money,No,Yes,15,779994.0,7.9,2,0.0,30.8,554169.1670070954,4.64,On-Time
+670,Manufacturing,Good,Small,Cheque,No,Yes,30,74920.0,1.0,0,2.97,11.1,30095.913551942,2.14,On-Time
+671,Retail,Poor,Medium,Cheque,Yes,No,30,581079.0,4.6,0,1.89,20.5,,1.62,Late
+672,Construction,Good,Large,Bank Transfer,Yes,No,30,159848.0,2.0,2,1.17,24.6,,1.19,Severely Late
+673,Construction,Fair,Medium,Bank Transfer,No,No,30,1246867.0,12.1,2,0.0,31.8,,0.71,On-Time
+674,Manufacturing,Fair,Medium,Letter of Credit,No,No,45,363074.0,5.8,1,1.23,30.3,,1.22,Late
+675,Retail,Excellent,Small,Mobile Money,No,Yes,30,677178.0,10.5,1,1.52,22.4,766611.6891134396,1.53,On-Time
+676,Retail,Poor,Small,Mobile Money,No,Yes,45,226283.0,3.2,1,0.0,26.1,240751.52895789937,1.7,Late
+677,Healthcare,Excellent,Small,Bank Transfer,No,No,15,327131.0,3.5,2,2.87,21.4,,2.43,On-Time
+678,Manufacturing,Excellent,Large,Mobile Money,Yes,Yes,30,249792.0,3.0,1,0.85,37.0,107162.2144272311,1.9,On-Time
+679,Retail,Good,Medium,Bank Transfer,No,Yes,30,1040648.0,2.4,3,0.74,38.0,424137.7073326144,1.1,On-Time
+680,Healthcare,Good,Large,Bank Transfer,No,Yes,30,474374.0,6.3,0,3.46,12.1,540573.8854393819,3.14,On-Time
+681,Manufacturing,Poor,Small,Bank Transfer,No,No,30,479877.0,4.6,1,0.3,23.8,,2.53,On-Time
+682,Healthcare,Fair,Small,Mobile Money,Yes,Yes,45,79124.0,7.3,0,1.46,17.2,76083.42468901046,3.04,Late
+683,Manufacturing,Fair,Large,Mobile Money,No,No,60,361314.0,3.2,1,0.83,11.4,,1.44,Late
+684,Manufacturing,Excellent,Enterprise,Mobile Money,No,No,30,647835.0,14.5,2,2.48,30.0,,1.83,On-Time
+685,Retail,Fair,Enterprise,Letter of Credit,No,No,15,149137.0,17.7,1,1.88,20.8,,0.95,On-Time
+686,Retail,Good,Medium,Bank Transfer,No,Yes,30,301413.0,0.2,1,1.57,21.1,266854.7891414978,1.93,On-Time
+687,Construction,Fair,Large,Letter of Credit,No,No,60,313804.0,8.4,1,2.23,31.8,,1.26,Late
+688,Retail,Good,Medium,Bank Transfer,No,No,90,123101.0,5.3,0,3.99,5.9,,1.81,On-Time
+689,Manufacturing,Fair,Large,Bank Transfer,No,Yes,45,257004.0,6.2,1,3.34,37.6,169926.95588993773,1.8,On-Time
+690,Technology,Good,Medium,Bank Transfer,No,No,30,487553.0,4.7,0,3.69,10.7,,5.17,On-Time
+691,Construction,Good,Medium,Bank Transfer,Yes,No,45,104000.0,0.5,1,2.42,9.5,,1.93,Late
+692,Construction,Fair,Small,Mobile Money,No,Yes,45,215641.0,4.1,0,2.28,20.2,157041.1584778256,0.6,Severely Late
+693,Retail,Good,Small,Cheque,No,No,45,503200.0,3.7,5,1.54,50.7,,1.74,Severely Late
+694,Healthcare,Excellent,Medium,Letter of Credit,No,Yes,30,238452.0,0.3,2,1.06,42.2,98589.20330270383,2.99,On-Time
+695,Retail,Good,Medium,Cheque,No,No,30,176689.0,6.6,1,2.51,19.0,,1.55,On-Time
+696,Construction,Fair,Medium,Bank Transfer,No,Yes,60,708867.0,7.9,0,1.93,25.4,378939.47764408623,1.47,On-Time
+697,Retail,Good,Large,Bank Transfer,No,No,15,205130.0,8.1,2,1.89,40.5,,1.2,Late
+698,Technology,Good,Large,Mobile Money,Yes,No,30,490994.0,4.0,0,2.82,15.7,,4.31,On-Time
+699,Construction,Excellent,Small,Letter of Credit,No,No,45,276669.0,5.4,1,0.0,28.5,,1.33,On-Time
+700,Retail,Good,Medium,Mobile Money,No,Yes,15,471546.0,5.7,1,1.06,33.2,315313.1747939636,1.71,On-Time
+701,Technology,Fair,Small,Mobile Money,Yes,Yes,45,482252.0,3.9,2,0.39,28.1,404152.4631451933,4.55,On-Time
+702,Retail,Poor,Medium,Cheque,No,No,30,365211.0,1.2,3,2.38,42.1,,1.93,Severely Late
+703,Technology,Good,Small,Bank Transfer,No,Yes,45,296047.0,9.2,1,3.58,33.9,167773.73880423923,4.74,On-Time
+704,Healthcare,Excellent,Small,Letter of Credit,No,No,15,167094.0,1.8,2,3.26,29.3,,3.05,On-Time
+705,Technology,Poor,Medium,Bank Transfer,No,Yes,30,1567740.0,4.5,1,1.13,32.4,1168624.9396099425,4.51,On-Time
+706,Healthcare,Good,Small,Bank Transfer,No,No,60,569808.0,3.8,1,3.55,26.2,,3.36,On-Time
+707,Healthcare,Fair,Small,Letter of Credit,No,Yes,30,515049.0,9.2,0,1.85,11.8,276815.29054692434,2.46,On-Time
+708,Manufacturing,Fair,Medium,Bank Transfer,No,No,90,227289.0,5.7,4,3.68,42.6,,1.55,Severely Late
+709,Retail,Fair,Enterprise,Mobile Money,No,Yes,90,360837.0,5.1,2,1.39,36.7,192766.00277082543,0.98,Severely Late
+710,Manufacturing,Good,Medium,Letter of Credit,No,Yes,15,65441.0,3.6,1,2.26,17.8,78247.2031566038,1.46,On-Time
+711,Manufacturing,Poor,Large,Bank Transfer,No,No,45,314462.0,1.9,0,1.27,9.2,,1.99,Late
+712,Technology,Fair,Medium,Mobile Money,No,No,45,351734.0,25.0,1,2.17,24.2,,4.59,Late
+713,Technology,Fair,Small,Bank Transfer,No,No,60,300786.0,3.3,0,1.12,17.5,,5.29,On-Time
+714,Technology,Good,Medium,Bank Transfer,No,No,30,222755.0,2.8,1,2.04,15.2,,4.47,On-Time
+715,Manufacturing,Excellent,Small,Bank Transfer,Yes,No,30,1220609.0,3.1,1,1.95,24.5,,2.26,On-Time
+716,Healthcare,Good,Medium,Bank Transfer,Yes,No,90,217324.0,6.5,1,1.08,27.4,,2.87,On-Time
+717,Healthcare,Poor,Large,Bank Transfer,No,Yes,45,201445.0,5.2,0,0.0,16.0,115621.23576343358,3.5,On-Time
+718,Healthcare,Good,Medium,Bank Transfer,No,No,15,413417.0,5.8,2,3.62,21.9,,2.8,On-Time
+719,Retail,Poor,Large,Bank Transfer,No,No,45,450187.0,7.2,0,3.82,18.2,,0.9,Late
+720,Retail,Fair,Medium,Bank Transfer,No,No,45,248240.0,5.3,0,2.87,12.3,,1.3,Late
+721,Construction,Fair,Large,Bank Transfer,No,No,60,94592.0,4.7,1,2.27,29.8,,0.75,Severely Late
+722,Manufacturing,Good,Enterprise,Letter of Credit,No,No,15,44713.0,6.2,0,1.1,18.2,,2.66,On-Time
+723,Healthcare,Excellent,Small,Cheque,No,No,60,863518.0,3.2,0,1.68,18.4,,2.88,On-Time
+724,Retail,Fair,Medium,Bank Transfer,No,Yes,30,418765.0,10.5,0,2.28,20.1,168032.45782654735,1.63,On-Time
+725,Technology,Excellent,Small,Mobile Money,No,Yes,30,471364.0,7.5,1,1.3,25.3,230626.75994650763,4.27,On-Time
+726,Construction,Excellent,Small,Mobile Money,Yes,Yes,30,237546.0,1.1,1,3.63,21.2,235432.11104753095,1.18,On-Time
+727,Construction,Fair,Medium,Mobile Money,No,No,30,542580.0,0.5,2,2.19,40.5,,1.23,On-Time
+728,Construction,Good,Medium,Cheque,No,No,15,379142.0,1.4,1,2.61,16.4,,0.46,On-Time
+729,Retail,Poor,Large,Bank Transfer,No,No,45,177325.0,5.6,0,0.0,19.0,,1.04,Late
+730,Technology,Good,Small,Bank Transfer,No,Yes,45,215182.0,2.5,0,1.61,15.6,238824.55710473968,3.99,On-Time
+731,Manufacturing,Poor,Small,Cheque,No,No,60,685881.0,1.6,1,2.1,32.2,,1.49,On-Time
+732,Healthcare,Excellent,Small,Mobile Money,No,No,60,1164527.0,2.9,2,0.68,16.1,,2.5,On-Time
+733,Healthcare,Fair,Small,Mobile Money,No,No,90,462135.0,6.3,5,2.74,60.0,,2.88,Severely Late
+734,Healthcare,Poor,Large,Bank Transfer,No,No,30,358183.0,5.5,1,1.14,26.8,,2.39,On-Time
+735,Retail,Good,Enterprise,Letter of Credit,No,Yes,45,217787.0,1.6,0,2.96,13.7,220744.6176278654,1.66,On-Time
+736,Retail,Good,Small,Cheque,No,No,90,163021.0,5.3,1,1.86,30.8,,0.83,On-Time
+737,Construction,Excellent,Small,Mobile Money,No,No,60,339268.0,7.8,2,1.46,37.1,,0.77,On-Time
+738,Technology,Good,Large,Bank Transfer,No,No,30,178898.0,5.6,1,0.32,25.3,,4.83,On-Time
+739,Manufacturing,Excellent,Enterprise,Bank Transfer,No,No,30,383702.0,7.3,1,3.11,13.2,,1.73,On-Time
+740,Manufacturing,Good,Large,Mobile Money,No,No,30,669864.0,25.0,3,1.53,30.3,,2.28,On-Time
+741,Technology,Excellent,Large,Mobile Money,Yes,No,45,276557.0,6.8,3,2.06,62.3,,3.95,Late
+742,Healthcare,Fair,Small,Mobile Money,No,No,45,185256.0,3.6,0,0.0,7.4,,3.11,On-Time
+743,Healthcare,Fair,Enterprise,Cheque,No,Yes,15,492308.0,4.0,0,1.58,10.3,359351.47029429936,3.07,On-Time
+744,Manufacturing,Fair,Small,Bank Transfer,Yes,No,15,250766.0,4.3,1,2.86,13.3,,2.61,Late
+745,Healthcare,Good,Small,Letter of Credit,Yes,No,30,64209.0,9.2,3,0.0,47.3,,2.8,On-Time
+746,Manufacturing,Good,Enterprise,Letter of Credit,Yes,No,60,99159.0,5.0,1,1.03,18.6,,2.29,Late
+747,Healthcare,Good,Small,Bank Transfer,No,No,30,255709.0,7.0,2,3.15,29.7,,3.17,On-Time
+748,Healthcare,Fair,Small,Mobile Money,No,No,60,508465.0,4.2,0,3.2,12.1,,3.39,Late
+749,Retail,Good,Large,Bank Transfer,No,Yes,15,466899.0,11.7,0,1.46,15.4,255068.70350562304,1.22,On-Time
+750,Retail,Fair,Small,Bank Transfer,No,No,30,15617.0,5.1,1,0.21,14.2,,0.74,On-Time
+751,Construction,Good,Small,Letter of Credit,No,Yes,45,435018.0,2.6,0,0.86,17.3,385858.42863355135,0.56,On-Time
+752,Construction,Fair,Large,Letter of Credit,No,No,45,277546.0,2.3,0,1.64,16.6,,0.08,Severely Late
+753,Technology,Fair,Enterprise,Bank Transfer,No,Yes,45,111231.0,5.0,1,0.97,22.3,119981.15357660163,4.96,On-Time
+754,Retail,Fair,Medium,Mobile Money,No,Yes,45,32067.0,6.1,3,5.22,52.1,21615.40185979164,0.89,On-Time
+755,Technology,Poor,Small,Bank Transfer,No,No,30,207735.0,5.2,1,2.89,23.4,,4.61,On-Time
+756,Healthcare,Fair,Large,Bank Transfer,No,No,30,394124.0,2.9,1,0.87,26.4,,3.61,Late
+757,Healthcare,Excellent,Medium,Cheque,Yes,Yes,90,490598.0,12.2,0,3.04,9.5,354568.5954353123,2.93,On-Time
+758,Technology,Good,Medium,Bank Transfer,No,No,15,304802.0,1.2,1,2.13,21.9,,4.25,On-Time
+759,Construction,Poor,Enterprise,Bank Transfer,No,Yes,90,311425.0,10.5,1,2.48,14.7,168209.9629265351,0.44,Severely Late
+760,Technology,Poor,Small,Bank Transfer,No,No,30,96553.0,0.8,0,0.33,10.0,,4.42,On-Time
+761,Technology,Fair,Large,Mobile Money,No,No,30,671229.0,10.0,4,1.47,74.2,,4.74,On-Time
+762,Technology,Good,Medium,Bank Transfer,No,No,90,357842.0,1.4,1,4.44,21.8,,5.09,Late
+763,Construction,Poor,Small,Bank Transfer,No,No,45,15737.0,4.7,2,3.82,34.2,,1.03,Severely Late
+764,Technology,Good,Small,Letter of Credit,No,No,45,246007.0,6.8,3,3.68,48.4,,4.16,Late
+765,Healthcare,Good,Medium,Bank Transfer,No,No,90,469830.0,0.5,1,2.46,14.6,,2.75,Late
+766,Construction,Poor,Small,Bank Transfer,No,No,30,169888.0,3.7,1,0.23,27.6,,1.02,On-Time
+767,Retail,Fair,Small,Bank Transfer,No,No,45,1456632.0,2.4,0,2.64,13.7,,0.53,On-Time
+768,Construction,Good,Large,Bank Transfer,No,Yes,30,191889.0,2.9,0,1.75,18.8,225159.89618856212,0.56,On-Time
+769,Construction,Excellent,Large,Cheque,No,Yes,45,22045.0,1.2,2,2.11,35.9,23524.08727421127,0.96,On-Time
+770,Retail,Good,Large,Bank Transfer,No,No,45,312901.0,8.3,0,1.43,21.9,,1.99,On-Time
+771,Construction,Good,Large,Bank Transfer,No,No,90,80301.0,4.6,2,3.33,21.0,,1.31,Severely Late
+772,Technology,Fair,Small,Bank Transfer,No,No,30,180557.0,6.4,0,1.29,17.2,,4.28,On-Time
+773,Retail,Fair,Small,Mobile Money,No,No,15,222360.0,14.0,2,0.86,42.8,,1.28,On-Time
+774,Technology,Good,Large,Bank Transfer,No,No,15,338567.0,10.6,1,2.27,25.0,,5.26,On-Time
+775,Healthcare,Fair,Small,Bank Transfer,No,Yes,30,841760.0,10.6,0,2.9,15.2,963934.6765057277,3.1,On-Time
+776,Technology,Excellent,Small,Bank Transfer,No,No,30,136713.0,17.7,0,2.26,9.7,,4.73,On-Time
+777,Manufacturing,Poor,Medium,Bank Transfer,No,No,60,108794.0,15.1,0,0.99,18.8,,1.72,Late
+778,Construction,Fair,Small,Bank Transfer,No,Yes,90,20147.0,5.5,0,1.16,16.9,18828.766009122195,0.8,Severely Late
+779,Technology,Fair,Medium,Bank Transfer,No,No,45,113173.0,1.9,0,1.54,18.3,,4.83,On-Time
+780,Manufacturing,Good,Small,Bank Transfer,No,No,60,313637.0,3.5,1,2.78,28.6,,1.65,On-Time
+781,Technology,Excellent,Small,Bank Transfer,No,Yes,45,583933.0,5.8,4,1.79,56.9,577298.220570171,4.75,On-Time
+782,Manufacturing,Excellent,Medium,Cheque,No,No,60,213630.0,4.2,1,3.27,19.7,,1.65,On-Time
+783,Construction,Poor,Large,Bank Transfer,No,No,30,396943.0,7.5,1,2.09,28.2,,0.41,On-Time
+784,Manufacturing,Poor,Small,Mobile Money,No,No,90,542484.0,8.2,1,2.6,28.9,,2.38,Late
+785,Retail,Good,Medium,Letter of Credit,No,No,45,107401.0,15.1,3,2.23,52.0,,1.56,Late
+786,Healthcare,Excellent,Medium,Bank Transfer,No,No,45,184734.0,4.9,3,0.29,42.2,,3.18,Late
+787,Manufacturing,Poor,Enterprise,Bank Transfer,No,No,90,330807.0,1.7,2,3.89,27.6,,2.05,Severely Late
+788,Manufacturing,Excellent,Large,Bank Transfer,No,Yes,60,90606.0,4.3,0,3.65,4.2,39845.67469836335,2.18,On-Time
+789,Manufacturing,Fair,Large,Mobile Money,No,No,30,620700.0,5.8,1,2.12,30.0,,1.79,Late
+790,Retail,Excellent,Medium,Bank Transfer,No,No,15,455538.0,4.6,0,0.74,17.3,,0.95,On-Time
+791,Healthcare,Excellent,Large,Letter of Credit,Yes,No,90,323505.0,12.3,1,3.28,32.9,,3.33,On-Time
+792,Healthcare,Good,Small,Bank Transfer,No,No,45,149770.0,4.2,0,0.0,14.8,,2.46,On-Time
+793,Technology,Fair,Small,Cheque,No,No,15,312321.0,6.6,1,3.02,25.9,,5.18,On-Time
+794,Retail,Good,Small,Bank Transfer,No,No,15,438424.0,11.2,3,0.9,52.1,,1.57,Late
+795,Retail,Good,Large,Mobile Money,No,Yes,15,436646.0,14.2,0,0.9,9.8,291999.2450505601,1.65,On-Time
+796,Manufacturing,Good,Small,Cheque,Yes,No,45,245946.0,8.0,0,1.75,7.7,,2.09,On-Time
+797,Manufacturing,Good,Small,Bank Transfer,No,No,30,415481.0,11.8,0,2.64,13.5,,1.85,On-Time
+798,Manufacturing,Excellent,Medium,Cheque,No,Yes,90,172009.0,2.4,1,2.97,26.8,157910.88923423257,1.85,On-Time
+799,Technology,Excellent,Small,Mobile Money,No,No,15,212659.0,3.9,0,2.39,11.9,,5.02,On-Time
+800,Technology,Fair,Small,Bank Transfer,No,No,90,466520.0,5.9,1,2.0,22.2,,4.18,Late
+801,Manufacturing,Excellent,Medium,Bank Transfer,No,Yes,30,344618.0,4.0,0,3.91,14.0,207864.37379622617,2.02,On-Time
+802,Retail,Good,Medium,Mobile Money,Yes,No,15,29799.0,6.9,0,2.73,18.6,,0.98,Late
+803,Retail,Excellent,Medium,Bank Transfer,No,Yes,60,593606.0,3.3,2,1.35,18.7,709184.0304283632,1.55,On-Time
+804,Retail,Poor,Medium,Cheque,No,Yes,45,91600.0,3.7,1,2.49,25.9,88636.16494343807,1.46,Late
+805,Manufacturing,Excellent,Small,Bank Transfer,No,No,30,439321.0,5.0,1,0.43,27.8,,2.19,On-Time
+806,Manufacturing,Poor,Medium,Bank Transfer,No,No,60,433171.0,2.1,1,1.22,27.7,,1.89,On-Time
+807,Healthcare,Poor,Medium,Mobile Money,No,No,30,246774.0,4.1,0,2.77,22.3,,3.0,On-Time
+808,Technology,Good,Small,Mobile Money,Yes,Yes,90,169739.0,3.3,0,1.35,10.1,143350.95470529192,4.06,Late
+809,Construction,Poor,Large,Cheque,No,Yes,15,355511.0,2.0,1,2.43,30.3,240464.52135671678,0.51,On-Time
+810,Healthcare,Fair,Large,Mobile Money,Yes,Yes,45,119275.0,0.7,2,2.62,36.3,140669.1353782312,2.76,Severely Late
+811,Manufacturing,Good,Large,Cheque,No,Yes,60,134111.0,4.9,5,1.29,59.8,88793.07510297942,2.2,Severely Late
+812,Healthcare,Good,Large,Bank Transfer,Yes,No,60,445908.0,5.7,0,2.46,19.8,,2.69,Late
+813,Technology,Good,Enterprise,Mobile Money,No,No,60,585817.0,2.0,1,2.32,30.6,,4.06,On-Time
+814,Manufacturing,Good,Enterprise,Bank Transfer,No,No,60,235055.0,4.9,0,3.05,15.4,,2.28,On-Time
+815,Manufacturing,Excellent,Small,Cheque,No,No,45,272953.0,16.9,1,0.64,43.5,,1.94,On-Time
+816,Healthcare,Fair,Medium,Cheque,No,Yes,15,76623.0,5.4,1,0.92,13.6,64523.46861136017,2.87,On-Time
+817,Healthcare,Fair,Small,Bank Transfer,No,No,30,349494.0,2.0,1,3.41,23.9,,2.93,On-Time
+818,Retail,Excellent,Medium,Mobile Money,No,Yes,45,106336.0,6.5,4,0.98,37.5,102339.86230307883,1.53,Late
+819,Technology,Fair,Medium,Cheque,No,No,15,126449.0,2.2,0,0.94,20.5,,4.64,On-Time
+820,Manufacturing,Excellent,Medium,Letter of Credit,Yes,Yes,15,296236.0,9.3,2,0.04,36.4,347784.98409323586,2.96,On-Time
+821,Manufacturing,Good,Medium,Bank Transfer,No,Yes,90,91588.0,4.7,1,2.7,27.1,66300.22644112993,1.69,Late
+822,Retail,Fair,Large,Letter of Credit,No,No,30,242376.0,5.4,1,2.83,22.0,,1.91,Late
+823,Construction,Good,Medium,Cheque,No,Yes,15,565397.0,7.2,1,1.17,25.9,422062.7389216967,0.93,On-Time
+824,Healthcare,Fair,Medium,Bank Transfer,No,Yes,45,128046.0,8.5,1,0.17,24.2,147176.49210988558,3.82,On-Time
+825,Manufacturing,Poor,Enterprise,Letter of Credit,No,Yes,90,657368.0,6.7,1,2.27,15.9,640228.8801455189,1.62,Severely Late
+826,Manufacturing,Excellent,Large,Letter of Credit,No,No,15,167931.0,0.2,0,1.07,1.5,,1.24,On-Time
+827,Manufacturing,Poor,Small,Bank Transfer,No,No,60,51593.0,5.5,3,2.15,59.8,,1.91,Severely Late
+828,Technology,Good,Small,Letter of Credit,No,Yes,30,741790.0,9.8,1,0.97,23.6,524091.17133155087,4.58,On-Time
+829,Healthcare,Poor,Medium,Bank Transfer,Yes,No,30,518389.0,1.3,0,1.86,18.2,,2.56,Severely Late
+830,Manufacturing,Poor,Small,Cheque,No,No,60,418547.0,2.4,1,0.52,36.1,,2.29,Severely Late
+831,Technology,Fair,Medium,Letter of Credit,No,Yes,45,326643.0,5.8,2,2.25,20.4,377850.24918783235,4.82,On-Time
+832,Construction,Fair,Large,Mobile Money,No,No,90,192381.0,2.7,2,1.18,39.6,,0.75,Severely Late
+833,Technology,Good,Medium,Letter of Credit,No,No,45,336776.0,7.2,0,0.87,18.8,,4.61,On-Time
+834,Technology,Good,Large,Mobile Money,No,No,30,31800.0,7.9,3,0.0,67.9,,4.77,On-Time
+835,Retail,Excellent,Large,Mobile Money,No,No,30,281746.0,1.6,1,1.38,13.9,,1.26,On-Time
+836,Technology,Excellent,Medium,Mobile Money,No,No,45,325240.0,0.3,0,2.29,31.0,,4.72,On-Time
+837,Healthcare,Excellent,Large,Mobile Money,No,No,45,514644.0,2.3,2,1.89,28.3,,3.33,On-Time
+838,Manufacturing,Good,Medium,Mobile Money,Yes,No,15,835868.0,3.9,1,1.5,15.0,,1.74,On-Time
+839,Retail,Excellent,Large,Bank Transfer,No,Yes,45,216744.0,5.6,3,1.38,19.6,105802.55044617021,0.74,On-Time
+840,Manufacturing,Fair,Medium,Mobile Money,No,No,30,295299.0,5.3,1,0.06,28.0,,2.01,On-Time
+841,Construction,Fair,Large,Bank Transfer,No,No,60,426347.0,4.7,2,1.24,17.0,,1.2,Late
+842,Manufacturing,Excellent,Medium,Bank Transfer,No,No,45,43984.0,2.7,1,3.18,16.2,,1.84,On-Time
+843,Manufacturing,Good,Enterprise,Bank Transfer,No,Yes,15,1471923.0,4.1,2,3.61,23.3,762994.9661894726,2.04,On-Time
+844,Construction,Fair,Large,Letter of Credit,No,No,45,322322.0,4.1,1,0.0,25.3,,0.7,Severely Late
+845,Retail,Good,Enterprise,Bank Transfer,No,Yes,60,97372.0,2.9,1,3.55,26.0,57331.315207837324,1.88,Late
+846,Technology,Good,Medium,Bank Transfer,No,No,30,306345.0,16.3,1,2.77,27.4,,4.59,On-Time
+847,Retail,Excellent,Medium,Mobile Money,Yes,No,30,1087469.0,7.0,3,0.45,33.9,,1.62,On-Time
+848,Technology,Good,Medium,Bank Transfer,Yes,Yes,15,212477.0,7.6,1,2.48,31.2,141423.03881152786,4.27,On-Time
+849,Technology,Excellent,Enterprise,Bank Transfer,Yes,Yes,60,204746.0,4.3,2,2.14,33.5,233086.10874507768,4.41,On-Time
+850,Technology,Excellent,Large,Mobile Money,No,Yes,30,252558.0,5.4,1,3.63,24.3,156830.3906326713,4.77,On-Time
+851,Retail,Poor,Medium,Cheque,No,No,30,793233.0,1.2,2,0.48,30.7,,1.5,On-Time
+852,Healthcare,Excellent,Large,Bank Transfer,No,No,90,445743.0,6.5,0,3.2,27.6,,3.27,On-Time
+853,Construction,Fair,Small,Bank Transfer,No,Yes,60,313931.0,2.5,1,2.22,21.8,152000.53838366177,0.92,Late
+854,Technology,Good,Large,Mobile Money,Yes,Yes,30,302873.0,4.7,1,2.5,30.9,291639.26686932973,4.44,Late
+855,Manufacturing,Good,Large,Mobile Money,No,No,90,274722.0,3.0,1,1.34,25.5,,2.13,Severely Late
+856,Manufacturing,Excellent,Medium,Mobile Money,No,Yes,45,386093.0,0.5,1,0.9,22.8,328460.6439390767,2.57,On-Time
+857,Manufacturing,Good,Enterprise,Bank Transfer,No,No,30,563527.0,1.5,1,2.8,27.4,,2.1,On-Time
+858,Healthcare,Fair,Medium,Letter of Credit,Yes,Yes,30,444205.0,6.9,1,2.22,22.6,236234.62148214068,2.64,On-Time
+859,Manufacturing,Fair,Enterprise,Letter of Credit,Yes,No,45,261474.0,8.4,1,2.38,23.9,,2.38,Severely Late
+860,Technology,Good,Medium,Letter of Credit,No,No,45,176045.0,9.1,2,1.41,50.2,,4.92,Late
+861,Healthcare,Excellent,Small,Letter of Credit,Yes,No,30,439518.0,16.1,2,2.49,37.2,,2.93,On-Time
+862,Construction,Good,Large,Mobile Money,No,No,45,487516.0,8.8,2,0.17,38.1,,0.78,Late
+863,Retail,Fair,Large,Cheque,Yes,No,45,301077.0,4.0,1,2.64,26.8,,0.85,Late
+864,Construction,Good,Small,Bank Transfer,No,Yes,60,895196.0,9.9,2,3.33,14.8,723112.8856959811,0.28,On-Time
+865,Retail,Fair,Large,Bank Transfer,No,No,60,87245.0,3.5,0,4.46,14.2,,1.31,On-Time
+866,Construction,Excellent,Medium,Bank Transfer,No,Yes,30,428835.0,3.1,0,4.25,7.2,224008.37692710018,0.17,On-Time
+867,Manufacturing,Poor,Enterprise,Mobile Money,No,No,45,281637.0,3.5,2,2.39,43.3,,1.62,Severely Late
+868,Manufacturing,Good,Large,Bank Transfer,No,No,60,851516.0,8.4,2,1.18,47.6,,1.94,On-Time
+869,Technology,Excellent,Small,Bank Transfer,Yes,No,30,796616.0,5.0,0,1.97,22.9,,4.55,On-Time
+870,Retail,Fair,Large,Bank Transfer,No,No,90,620503.0,4.9,1,2.32,21.0,,1.79,Severely Late
+871,Manufacturing,Good,Enterprise,Mobile Money,No,No,45,401991.0,4.5,1,1.91,32.5,,1.54,On-Time
+872,Healthcare,Fair,Small,Mobile Money,Yes,No,90,444519.0,4.2,0,0.94,20.8,,3.36,Severely Late
+873,Construction,Fair,Medium,Mobile Money,No,No,60,299050.0,4.9,0,3.56,10.9,,0.12,Late
+874,Healthcare,Excellent,Medium,Cheque,No,Yes,15,339129.0,3.4,0,1.14,16.0,245398.99348444268,2.9,On-Time
+875,Healthcare,Fair,Large,Bank Transfer,No,Yes,30,483700.0,6.6,0,0.0,13.1,318128.2323218239,1.88,On-Time
+876,Construction,Good,Medium,Mobile Money,No,Yes,15,619747.0,25.0,0,0.0,18.0,537152.405933135,0.77,On-Time
+877,Construction,Excellent,Medium,Bank Transfer,No,No,15,418591.0,3.8,0,1.37,21.8,,1.04,On-Time
+878,Manufacturing,Good,Small,Bank Transfer,No,Yes,30,652308.0,2.1,2,0.84,27.7,488548.4178194287,2.77,On-Time
+879,Retail,Fair,Enterprise,Bank Transfer,No,Yes,45,617504.0,1.2,1,1.69,20.8,646835.322731767,1.52,On-Time
+880,Healthcare,Good,Enterprise,Bank Transfer,No,Yes,15,107196.0,19.1,1,1.02,22.4,50087.02646549505,3.51,On-Time
+881,Healthcare,Fair,Enterprise,Bank Transfer,No,Yes,45,922660.0,10.9,0,3.65,10.8,773096.5564834343,3.02,On-Time
+882,Healthcare,Good,Large,Mobile Money,No,No,30,1010444.0,12.9,1,0.97,28.5,,3.4,On-Time
+883,Technology,Good,Small,Letter of Credit,No,No,45,236690.0,2.4,1,2.92,19.9,,4.69,On-Time
+884,Retail,Good,Medium,Bank Transfer,No,Yes,90,274663.0,6.2,2,2.65,43.1,230495.59227810436,1.27,Late
+885,Manufacturing,Poor,Medium,Bank Transfer,No,No,30,284760.0,10.8,2,1.05,47.5,,2.34,Late
+886,Technology,Excellent,Small,Bank Transfer,No,No,45,1465518.0,0.5,1,1.11,13.2,,4.31,On-Time
+887,Healthcare,Good,Enterprise,Letter of Credit,No,No,45,258583.0,0.8,1,2.85,21.8,,2.63,On-Time
+888,Construction,Good,Medium,Mobile Money,No,Yes,45,91710.0,8.5,1,1.75,22.7,50095.34642456319,0.83,On-Time
+889,Retail,Good,Large,Bank Transfer,No,No,30,236486.0,7.1,0,1.37,17.9,,1.42,On-Time
+890,Healthcare,Good,Medium,Cheque,Yes,No,15,279324.0,12.1,2,1.03,27.4,,2.8,On-Time
+891,Technology,Fair,Medium,Bank Transfer,No,Yes,15,446150.0,3.6,0,2.85,25.8,280217.4054085815,4.28,On-Time
+892,Technology,Excellent,Small,Bank Transfer,Yes,No,30,47615.0,4.6,0,2.37,8.8,,4.06,On-Time
+893,Manufacturing,Good,Small,Bank Transfer,No,No,30,286409.0,5.1,1,2.78,21.5,,2.05,On-Time
+894,Construction,Excellent,Enterprise,Bank Transfer,No,Yes,15,478033.0,1.1,1,0.0,33.5,272131.55022118095,1.01,On-Time
+895,Construction,Excellent,Large,Bank Transfer,No,No,45,291463.0,7.5,6,1.97,78.0,,0.82,Severely Late
+896,Retail,Good,Medium,Letter of Credit,No,Yes,30,164855.0,4.5,1,0.62,16.7,96456.8563242934,0.95,On-Time
+897,Manufacturing,Good,Medium,Bank Transfer,No,Yes,60,148915.0,3.8,2,0.0,25.2,137017.2769982928,1.53,On-Time
+898,Technology,Poor,Medium,Mobile Money,Yes,Yes,60,177854.0,3.2,3,1.67,36.8,90780.63925189202,4.18,Late
+899,Manufacturing,Fair,Small,Bank Transfer,No,No,30,34932.0,11.0,0,2.1,14.4,,2.6,On-Time
+900,Healthcare,Excellent,Medium,Bank Transfer,No,No,60,65844.0,9.1,0,2.65,13.5,,2.37,On-Time
+901,Construction,Fair,Medium,Bank Transfer,No,Yes,15,536876.0,4.4,0,0.31,2.5,563103.7251725681,1.58,On-Time
+902,Healthcare,Good,Large,Mobile Money,No,Yes,60,448016.0,11.8,1,2.88,25.6,222741.5379450333,2.87,On-Time
+903,Construction,Good,Medium,Bank Transfer,No,No,30,20820.0,4.4,0,2.29,22.3,,0.33,On-Time
+904,Manufacturing,Good,Medium,Cheque,No,No,30,461474.0,5.4,0,0.94,16.3,,2.2,On-Time
+905,Healthcare,Fair,Medium,Bank Transfer,No,Yes,90,438502.0,5.1,1,2.98,24.8,460510.6320310044,3.08,On-Time
+906,Technology,Fair,Small,Letter of Credit,No,No,90,324381.0,6.6,2,2.14,15.8,,4.25,Late
+907,Technology,Excellent,Medium,Bank Transfer,Yes,Yes,45,1155554.0,1.0,1,1.45,37.9,623908.6117106237,4.58,On-Time
+908,Retail,Good,Medium,Bank Transfer,No,No,15,1014196.0,4.6,1,2.69,19.4,,0.48,On-Time
+909,Manufacturing,Good,Small,Cheque,No,Yes,45,176561.0,4.6,1,1.96,37.3,135268.57227197147,2.29,On-Time
+910,Retail,Poor,Large,Letter of Credit,No,No,45,421209.0,2.2,3,3.38,51.0,,1.63,Severely Late
+911,Construction,Good,Medium,Bank Transfer,No,Yes,45,326455.0,17.8,0,0.85,23.5,209069.27028322459,0.33,On-Time
+912,Manufacturing,Poor,Small,Mobile Money,No,No,30,101291.0,4.8,2,0.0,51.8,,2.31,On-Time
+913,Retail,Good,Small,Mobile Money,No,Yes,60,148460.0,5.2,1,2.7,35.7,94148.61930829556,0.69,On-Time
+914,Technology,Fair,Enterprise,Bank Transfer,No,No,30,156842.0,6.4,3,3.71,49.3,,4.47,On-Time
+915,Manufacturing,Good,Medium,Bank Transfer,Yes,Yes,45,408954.0,1.3,3,1.47,24.7,388450.7908704583,2.02,Severely Late
+916,Technology,Good,Enterprise,Letter of Credit,No,No,30,213374.0,6.8,2,2.54,38.4,,4.46,On-Time
+917,Construction,Poor,Small,Bank Transfer,No,No,30,391375.0,7.3,1,4.08,21.1,,0.37,Late
+918,Construction,Good,Large,Bank Transfer,No,No,30,826688.0,10.0,3,3.48,56.6,,0.28,Severely Late
+919,Healthcare,Good,Large,Cheque,No,No,30,342245.0,12.5,1,1.47,36.4,,3.09,On-Time
+920,Retail,Excellent,Small,Mobile Money,No,Yes,15,367629.0,1.5,1,2.73,26.3,155168.88607132487,1.32,On-Time
+921,Retail,Excellent,Small,Bank Transfer,No,Yes,45,549471.0,3.8,1,1.35,26.4,221841.83087992176,1.49,On-Time
+922,Manufacturing,Excellent,Large,Mobile Money,Yes,No,45,117500.0,9.5,1,2.89,24.7,,1.95,On-Time
+923,Manufacturing,Poor,Enterprise,Mobile Money,No,Yes,30,229142.0,2.6,0,0.76,18.6,261820.64098940336,1.6,On-Time
+924,Technology,Good,Medium,Letter of Credit,No,No,60,104193.0,7.5,0,2.57,21.3,,4.65,On-Time
+925,Technology,Good,Medium,Letter of Credit,Yes,No,45,420525.0,2.8,1,0.54,18.6,,4.88,On-Time
+926,Manufacturing,Fair,Small,Letter of Credit,No,No,15,98754.0,5.2,4,3.86,56.1,,1.78,Late
+927,Retail,Poor,Medium,Bank Transfer,No,No,60,419325.0,3.5,0,1.41,14.1,,0.86,Severely Late
+928,Manufacturing,Poor,Medium,Mobile Money,No,Yes,30,305433.0,3.0,1,2.24,21.6,362328.6221939345,1.68,On-Time
+929,Retail,Poor,Medium,Letter of Credit,No,Yes,15,415178.0,3.9,0,1.22,21.0,240608.18375040244,1.23,On-Time
+930,Retail,Fair,Large,Bank Transfer,No,Yes,30,839644.0,0.4,0,1.0,10.1,970530.3667603723,1.8,On-Time
+931,Healthcare,Good,Large,Bank Transfer,No,Yes,30,68802.0,4.1,2,3.15,31.8,47781.181652270185,3.34,On-Time
+932,Manufacturing,Excellent,Medium,Bank Transfer,No,No,90,970861.0,20.6,0,3.23,17.7,,1.87,On-Time
+933,Construction,Fair,Medium,Bank Transfer,No,No,30,142670.0,6.8,0,2.36,13.7,,1.53,On-Time
+934,Retail,Good,Small,Cheque,No,Yes,15,126520.0,1.4,1,1.21,20.0,131057.2027013832,1.44,On-Time
+935,Construction,Fair,Medium,Cheque,No,No,45,232793.0,12.2,2,0.0,36.5,,1.49,On-Time
+936,Technology,Good,Large,Bank Transfer,No,No,90,288701.0,9.3,1,1.56,25.8,,4.85,On-Time
+937,Construction,Fair,Large,Letter of Credit,No,Yes,30,515422.0,15.4,0,2.84,19.7,296157.71138187713,1.31,Late
+938,Technology,Excellent,Large,Mobile Money,Yes,Yes,15,321954.0,2.0,1,3.17,10.1,248454.6574185572,3.83,On-Time
+939,Retail,Excellent,Small,Bank Transfer,No,No,60,162127.0,5.9,1,1.57,15.5,,1.63,On-Time
+940,Manufacturing,Good,Large,Mobile Money,No,No,15,302959.0,4.7,3,0.48,33.0,,1.34,On-Time
+941,Technology,Good,Large,Mobile Money,No,Yes,60,603531.0,2.0,1,0.39,22.4,659427.5380791699,4.69,On-Time
+942,Manufacturing,Excellent,Large,Bank Transfer,No,No,30,705142.0,8.2,1,0.8,28.5,,1.72,On-Time
+943,Retail,Poor,Medium,Bank Transfer,No,Yes,30,284885.0,0.8,0,1.05,11.8,204586.65090537054,1.53,On-Time
+944,Construction,Fair,Medium,Bank Transfer,Yes,No,15,373960.0,1.1,2,0.51,35.7,,1.22,Late
+945,Manufacturing,Fair,Medium,Bank Transfer,No,No,90,102937.0,4.3,1,2.9,28.3,,1.79,Late
+946,Retail,Excellent,Medium,Bank Transfer,No,No,30,412129.0,3.9,1,1.61,19.0,,1.85,On-Time
+947,Technology,Fair,Large,Bank Transfer,No,No,30,635069.0,2.3,2,1.65,30.8,,4.82,On-Time
+948,Retail,Fair,Medium,Bank Transfer,No,Yes,45,676284.0,2.4,4,3.02,52.5,400659.42930124037,1.73,Severely Late
+949,Healthcare,Poor,Small,Mobile Money,No,No,15,253076.0,2.8,0,2.53,14.2,,2.69,On-Time
+950,Retail,Excellent,Small,Mobile Money,No,No,45,400642.0,7.4,3,4.0,37.4,,1.75,On-Time
+951,Manufacturing,Excellent,Large,Cheque,Yes,Yes,60,423730.0,6.1,1,0.72,29.2,420741.8365638487,1.91,Late
+952,Healthcare,Good,Small,Mobile Money,No,No,45,179222.0,4.1,1,2.66,14.1,,2.7,On-Time
+953,Retail,Excellent,Large,Bank Transfer,No,Yes,45,63311.0,7.4,1,2.79,20.6,60606.188630994526,1.75,On-Time
+954,Healthcare,Good,Small,Bank Transfer,No,No,30,408311.0,5.6,1,2.32,24.3,,2.95,On-Time
+955,Technology,Fair,Small,Bank Transfer,No,Yes,60,255672.0,5.3,2,3.11,17.1,191165.39986055208,3.96,Late
+956,Technology,Fair,Medium,Bank Transfer,Yes,No,90,1053471.0,6.5,1,2.23,23.3,,3.91,Severely Late
+957,Construction,Excellent,Small,Cheque,Yes,No,30,308704.0,2.4,2,2.61,33.9,,0.94,On-Time
+958,Healthcare,Excellent,Enterprise,Letter of Credit,No,No,60,203530.0,2.8,1,0.4,38.5,,3.55,On-Time
+959,Retail,Good,Small,Mobile Money,No,No,30,708306.0,3.8,4,1.44,43.5,,1.74,Late
+960,Technology,Good,Large,Bank Transfer,No,Yes,15,895787.0,6.0,1,1.75,21.6,946750.3625704022,5.33,On-Time
+961,Manufacturing,Excellent,Small,Cheque,No,Yes,30,341450.0,3.4,0,5.05,11.3,327032.753545781,2.37,On-Time
+962,Retail,Good,Enterprise,Mobile Money,No,No,15,214130.0,9.8,3,1.0,33.9,,1.9,On-Time
+963,Construction,Good,Small,Bank Transfer,No,No,30,189293.0,8.0,2,0.56,38.2,,0.75,On-Time
+964,Manufacturing,Poor,Medium,Bank Transfer,No,Yes,60,329062.0,1.0,1,1.76,29.1,346295.57923190825,2.7,Severely Late
+965,Technology,Fair,Large,Bank Transfer,No,No,45,186494.0,8.2,0,2.95,3.5,,4.31,On-Time
+966,Technology,Good,Small,Letter of Credit,No,No,60,283003.0,3.8,1,2.39,33.2,,3.86,On-Time
+967,Manufacturing,Good,Medium,Bank Transfer,No,No,30,298825.0,2.1,2,4.11,31.9,,2.21,On-Time
+968,Construction,Excellent,Medium,Cheque,No,No,60,825973.0,13.8,2,3.12,27.0,,1.11,Late
+969,Retail,Fair,Enterprise,Bank Transfer,Yes,Yes,90,171927.0,5.8,4,0.87,64.8,80576.87005954311,1.52,Severely Late
+970,Manufacturing,Fair,Small,Bank Transfer,No,No,15,87542.0,4.6,0,1.27,16.6,,1.58,On-Time
+971,Manufacturing,Excellent,Medium,Letter of Credit,No,No,30,98867.0,3.4,2,2.02,24.5,,2.43,On-Time
+972,Retail,Fair,Medium,Letter of Credit,Yes,No,60,376031.0,7.3,3,3.48,55.0,,1.8,Severely Late
+973,Manufacturing,Good,Small,Bank Transfer,No,No,45,313091.0,4.7,0,1.12,9.4,,1.39,On-Time
+974,Technology,Excellent,Small,Letter of Credit,No,Yes,30,143554.0,3.3,2,4.12,57.0,61889.57405018276,5.02,On-Time
+975,Technology,Good,Large,Cheque,No,No,45,190451.0,4.8,1,1.1,13.5,,4.19,On-Time
+976,Manufacturing,Poor,Small,Letter of Credit,No,No,30,80426.0,5.8,1,1.33,22.7,,2.02,Late
+977,Manufacturing,Excellent,Small,Cheque,No,No,45,270254.0,1.6,0,3.24,20.7,,1.89,On-Time
+978,Retail,Good,Medium,Bank Transfer,No,No,30,282646.0,4.3,0,2.12,8.1,,1.57,On-Time
+979,Retail,Good,Medium,Mobile Money,No,No,30,184221.0,11.4,2,3.47,37.1,,1.38,On-Time
+980,Construction,Excellent,Medium,Letter of Credit,Yes,No,45,160131.0,3.1,1,2.68,24.7,,1.39,On-Time
+981,Construction,Good,Small,Mobile Money,No,No,45,160809.0,4.9,2,3.11,40.9,,1.18,Late
+982,Retail,Good,Large,Bank Transfer,No,No,30,221609.0,5.6,0,2.84,19.7,,1.32,On-Time
+983,Retail,Fair,Small,Bank Transfer,Yes,Yes,45,301849.0,1.0,1,0.85,19.5,266874.5479647567,1.14,Severely Late
+984,Healthcare,Fair,Small,Mobile Money,Yes,No,90,641695.0,3.5,0,1.19,29.7,,2.85,Late
+985,Retail,Fair,Medium,Bank Transfer,No,No,30,128944.0,3.4,0,2.08,18.3,,2.13,On-Time
+986,Manufacturing,Fair,Large,Cheque,No,No,30,408274.0,2.4,2,1.24,35.9,,2.17,On-Time
+987,Technology,Fair,Medium,Bank Transfer,No,No,30,321692.0,8.0,1,3.95,25.9,,4.86,On-Time
+988,Retail,Poor,Small,Bank Transfer,No,Yes,45,1079562.0,15.1,0,0.66,14.5,972698.8259823022,1.61,Late
+989,Manufacturing,Good,Medium,Bank Transfer,No,No,60,296288.0,1.3,1,3.02,25.7,,1.95,Late
+990,Manufacturing,Excellent,Small,Letter of Credit,No,No,30,411796.0,9.3,0,1.52,14.2,,2.03,On-Time
+991,Technology,Good,Small,Letter of Credit,Yes,Yes,45,278552.0,2.7,1,0.24,21.2,296440.8811292495,4.62,On-Time
+992,Healthcare,Good,Medium,Bank Transfer,No,No,45,320255.0,8.0,0,2.09,8.3,,3.48,On-Time
+993,Manufacturing,Excellent,Medium,Mobile Money,No,Yes,60,285932.0,6.6,0,1.5,9.5,233630.66618178654,2.52,On-Time
+994,Manufacturing,Good,Small,Bank Transfer,No,No,15,133028.0,4.6,1,2.6,11.6,,2.78,On-Time
+995,Manufacturing,Fair,Small,Bank Transfer,No,Yes,30,910658.0,4.4,1,0.35,15.1,526022.6627710023,1.91,On-Time
+996,Technology,Fair,Small,Bank Transfer,No,Yes,90,298277.0,4.0,1,0.96,13.2,163640.02951800017,4.46,On-Time
+997,Manufacturing,Poor,Small,Bank Transfer,No,No,60,127720.0,6.7,1,4.36,32.2,,1.84,Late
+998,Healthcare,Good,Medium,Letter of Credit,Yes,Yes,30,471189.0,13.2,2,3.07,30.8,436940.8286389067,2.59,On-Time
+999,Manufacturing,Good,Large,Bank Transfer,No,No,30,288195.0,5.6,0,0.93,24.5,,1.58,On-Time
+1000,Construction,Poor,Small,Bank Transfer,Yes,No,45,264531.0,12.5,3,2.31,45.3,,0.66,Severely Late
+1001,Technology,Excellent,Medium,Bank Transfer,No,No,15,300546.0,4.4,0,2.68,16.1,,3.99,On-Time
+1002,Retail,Good,Medium,Bank Transfer,No,No,30,303413.0,3.9,2,1.57,30.9,,1.41,On-Time
+1003,Construction,Fair,Large,Cheque,No,No,15,231356.0,2.2,1,0.0,20.7,,1.21,Late
+1004,Manufacturing,Good,Medium,Bank Transfer,No,No,30,549354.0,9.0,1,4.87,23.9,,2.0,On-Time
+1005,Retail,Fair,Large,Mobile Money,No,No,60,297810.0,3.5,2,2.37,39.7,,1.4,On-Time
+1006,Retail,Good,Medium,Bank Transfer,No,No,30,239602.0,5.1,0,2.75,21.6,,1.29,On-Time
+1007,Technology,Good,Medium,Bank Transfer,Yes,Yes,90,110593.0,2.3,2,4.32,18.3,68538.91062991308,4.42,Severely Late
+1008,Retail,Good,Small,Letter of Credit,No,No,15,328643.0,7.3,3,0.0,41.0,,1.59,Late
+1009,Technology,Good,Small,Bank Transfer,No,Yes,15,382484.0,1.9,1,1.12,28.1,272490.7034991878,4.67,On-Time
+1010,Retail,Fair,Small,Bank Transfer,No,Yes,60,333052.0,1.8,3,2.63,34.1,396619.47017387155,1.87,On-Time
+1011,Manufacturing,Fair,Large,Bank Transfer,No,No,90,58227.0,6.5,1,1.07,22.3,,3.16,Severely Late
+1012,Technology,Good,Small,Bank Transfer,No,No,30,440260.0,5.0,1,2.29,24.2,,5.13,On-Time
+1013,Technology,Fair,Medium,Mobile Money,No,No,45,81236.0,6.7,1,0.06,20.9,,4.48,Late
+1014,Retail,Good,Enterprise,Cheque,No,Yes,45,1381057.0,4.3,0,2.53,17.5,1487066.3590240758,1.08,On-Time
+1015,Manufacturing,Poor,Small,Mobile Money,Yes,Yes,45,659115.0,13.0,2,0.0,38.6,725554.1637113674,2.2,Severely Late
+1016,Healthcare,Good,Large,Cheque,No,No,15,978743.0,1.4,0,1.79,24.4,,2.67,On-Time
+1017,Construction,Fair,Small,Mobile Money,No,Yes,90,328658.0,1.4,2,4.58,18.8,312737.7056165789,0.39,Severely Late
+1018,Construction,Poor,Large,Bank Transfer,No,No,60,465298.0,10.3,3,4.76,27.7,,1.15,Severely Late
+1019,Manufacturing,Good,Large,Letter of Credit,No,No,15,924351.0,4.6,2,1.27,39.8,,1.78,Late
+1020,Retail,Good,Large,Bank Transfer,No,No,45,98527.0,10.4,1,0.63,25.4,,1.6,On-Time
+1021,Healthcare,Excellent,Medium,Mobile Money,No,No,60,515946.0,15.6,1,1.21,17.7,,3.32,On-Time
+1022,Retail,Fair,Small,Bank Transfer,No,No,45,312458.0,6.0,2,1.1,36.6,,1.62,Late
+1023,Construction,Good,Small,Bank Transfer,No,No,30,77074.0,2.5,0,1.97,17.9,,1.38,On-Time
+1024,Technology,Good,Medium,Cheque,No,No,45,106273.0,12.7,0,0.67,13.5,,4.32,On-Time
+1025,Healthcare,Excellent,Large,Bank Transfer,Yes,No,30,636825.0,2.9,0,3.52,8.3,,2.45,On-Time
+1026,Construction,Excellent,Medium,Mobile Money,No,No,60,307422.0,0.4,2,2.87,34.1,,0.66,Late
+1027,Manufacturing,Poor,Large,Bank Transfer,No,Yes,90,188788.0,14.0,1,2.7,21.3,153628.15387249345,1.7,Severely Late
+1028,Construction,Excellent,Large,Letter of Credit,No,No,90,215875.0,3.7,2,2.22,37.3,,0.81,Severely Late
+1029,Technology,Good,Small,Letter of Credit,No,Yes,30,217127.0,9.4,1,3.86,23.7,245036.1522254244,3.62,On-Time
+1030,Technology,Excellent,Small,Mobile Money,No,No,15,351227.0,2.5,1,0.0,20.2,,3.58,On-Time
+1031,Manufacturing,Fair,Medium,Cheque,No,Yes,60,240820.0,3.8,0,0.0,16.7,209014.48085345645,2.14,On-Time
+1032,Technology,Poor,Large,Cheque,Yes,Yes,30,284724.0,2.8,0,0.89,21.1,204318.758997734,4.6,On-Time
+1033,Technology,Good,Large,Bank Transfer,No,No,60,520511.0,2.3,1,0.48,25.5,,3.82,On-Time
+1034,Retail,Good,Large,Bank Transfer,No,Yes,30,207693.0,3.6,1,1.36,21.8,227526.68965689652,1.68,On-Time
+1035,Healthcare,Fair,Enterprise,Bank Transfer,No,Yes,30,284521.0,4.3,1,3.59,18.0,235613.55702495185,3.52,On-Time
+1036,Manufacturing,Fair,Medium,Mobile Money,No,No,15,199285.0,8.9,1,1.97,24.8,,1.95,On-Time
+1037,Healthcare,Good,Small,Cheque,No,Yes,60,816490.0,4.1,2,2.39,43.5,660657.9383053363,2.64,On-Time
+1038,Manufacturing,Good,Medium,Bank Transfer,No,Yes,30,557043.0,13.2,2,2.77,35.5,640201.3672159878,2.48,On-Time
+1039,Manufacturing,Poor,Medium,Bank Transfer,No,Yes,45,126948.0,3.4,2,0.99,34.3,114843.94771078859,1.98,Severely Late
+1040,Manufacturing,Fair,Enterprise,Mobile Money,No,No,15,514789.0,11.8,0,1.37,13.3,,2.04,On-Time
+1041,Manufacturing,Excellent,Small,Cheque,No,No,30,497006.0,9.4,2,3.45,26.9,,1.54,On-Time
+1042,Technology,Good,Large,Bank Transfer,No,No,30,310878.0,1.9,0,4.23,15.9,,4.89,On-Time
+1043,Manufacturing,Excellent,Medium,Letter of Credit,No,No,90,257803.0,5.4,0,0.44,7.8,,1.9,On-Time
+1044,Technology,Excellent,Large,Bank Transfer,No,No,60,61364.0,4.1,0,2.61,8.4,,4.21,On-Time
+1045,Healthcare,Fair,Small,Bank Transfer,No,No,60,139006.0,2.9,3,0.7,34.3,,2.56,Late
+1046,Healthcare,Good,Medium,Bank Transfer,No,No,90,336878.0,12.3,2,3.56,38.3,,3.06,Late
+1047,Healthcare,Fair,Small,Bank Transfer,No,No,90,382822.0,3.8,1,1.74,29.0,,3.35,Late
+1048,Manufacturing,Good,Large,Bank Transfer,Yes,No,30,208867.0,1.7,1,0.13,8.6,,2.06,On-Time
+1049,Technology,Fair,Enterprise,Bank Transfer,No,No,15,448548.0,5.1,0,3.14,14.1,,4.18,On-Time
+1050,Technology,Excellent,Small,Bank Transfer,No,Yes,30,198714.0,3.1,1,4.44,23.4,234161.90930242374,4.97,On-Time
+1051,Manufacturing,Fair,Enterprise,Mobile Money,No,No,15,1071585.0,6.0,3,0.54,36.0,,2.16,Late
+1052,Technology,Good,Medium,Mobile Money,Yes,No,30,189440.0,3.5,1,0.8,25.5,,4.05,On-Time
+1053,Technology,Fair,Large,Mobile Money,No,Yes,45,31944.0,9.8,2,3.37,40.3,28540.108804211297,4.49,On-Time
+1054,Technology,Poor,Large,Letter of Credit,No,Yes,60,87037.0,12.6,0,4.62,21.7,80684.50935177576,4.12,Late
+1055,Technology,Fair,Large,Mobile Money,No,Yes,45,292824.0,1.3,1,0.78,15.9,176448.93571656267,4.11,On-Time
+1056,Technology,Good,Medium,Mobile Money,No,No,15,123740.0,5.0,1,0.16,31.9,,4.29,On-Time
+1057,Retail,Good,Large,Bank Transfer,No,No,30,244474.0,2.2,0,4.13,19.2,,1.73,Late
+1058,Manufacturing,Fair,Enterprise,Bank Transfer,No,Yes,30,417133.0,10.2,1,3.97,20.3,495956.7294599488,2.79,On-Time
+1059,Technology,Fair,Small,Mobile Money,Yes,No,45,50841.0,2.9,1,2.24,8.7,,4.59,Late
+1060,Technology,Poor,Medium,Bank Transfer,No,No,15,313979.0,11.2,1,0.0,22.2,,4.86,On-Time
+1061,Retail,Excellent,Small,Mobile Money,No,No,15,275320.0,2.3,1,0.0,18.9,,1.95,On-Time
+1062,Manufacturing,Good,Large,Bank Transfer,No,No,45,246604.0,6.5,3,2.47,37.1,,2.22,On-Time
+1063,Healthcare,Fair,Large,Bank Transfer,Yes,No,15,265230.0,2.8,0,1.6,15.2,,2.65,On-Time
+1064,Technology,Fair,Large,Mobile Money,No,No,15,140620.0,4.6,1,2.18,10.4,,4.68,On-Time
+1065,Construction,Fair,Small,Bank Transfer,Yes,No,45,348169.0,1.1,1,0.59,18.3,,1.17,Severely Late
+1066,Technology,Fair,Large,Mobile Money,No,Yes,90,91444.0,8.8,1,0.88,27.3,61277.001501253246,4.88,Late
+1067,Construction,Fair,Medium,Bank Transfer,No,Yes,30,308761.0,3.0,1,2.13,19.6,184604.79069717706,1.21,Late
+1068,Technology,Good,Medium,Mobile Money,No,No,45,340935.0,8.7,2,1.63,47.0,,4.18,On-Time
+1069,Retail,Excellent,Medium,Letter of Credit,No,No,60,210824.0,3.4,0,2.67,16.7,,1.0,On-Time
+1070,Retail,Fair,Medium,Bank Transfer,No,Yes,60,336214.0,5.5,1,2.82,25.3,212064.87144973208,1.29,Late
+1071,Manufacturing,Fair,Small,Letter of Credit,No,No,30,310036.0,4.1,0,3.54,18.0,,2.76,On-Time
+1072,Healthcare,Good,Medium,Bank Transfer,No,No,45,120855.0,10.4,1,1.77,34.3,,2.08,On-Time
+1073,Technology,Fair,Medium,Bank Transfer,No,No,30,904460.0,1.3,2,2.49,26.8,,4.04,On-Time
+1074,Retail,Fair,Large,Bank Transfer,No,No,45,497178.0,8.1,1,3.46,13.9,,1.48,Late
+1075,Manufacturing,Fair,Medium,Mobile Money,Yes,No,15,111079.0,1.7,1,1.32,15.0,,2.6,Late
+1076,Retail,Fair,Medium,Cheque,No,No,60,140615.0,12.4,2,0.92,25.2,,1.22,Severely Late
+1077,Retail,Excellent,Enterprise,Mobile Money,Yes,No,45,259964.0,4.4,1,0.9,18.1,,1.73,Late
+1078,Manufacturing,Poor,Large,Mobile Money,No,No,45,292720.0,2.7,1,0.22,21.0,,1.45,Late
+1079,Manufacturing,Poor,Small,Cheque,No,No,30,247361.0,13.3,2,1.11,34.1,,2.2,Late
+1080,Manufacturing,Good,Enterprise,Bank Transfer,Yes,No,15,715606.0,15.4,0,1.85,11.2,,2.49,On-Time
+1081,Manufacturing,Poor,Large,Mobile Money,Yes,Yes,60,292194.0,10.4,0,1.04,6.9,220066.2482666497,2.57,Late
+1082,Manufacturing,Good,Small,Mobile Money,No,Yes,15,87724.0,14.7,3,0.84,56.9,72764.52754698753,2.14,On-Time
+1083,Technology,Good,Small,Bank Transfer,No,No,60,576260.0,0.5,1,2.61,24.6,,5.41,On-Time
+1084,Retail,Poor,Small,Letter of Credit,No,No,60,543609.0,6.3,1,2.4,28.1,,1.28,Late
+1085,Technology,Poor,Enterprise,Mobile Money,No,No,45,432668.0,2.3,3,2.62,31.1,,3.72,Late
+1086,Healthcare,Fair,Medium,Bank Transfer,No,Yes,45,763256.0,0.5,1,2.4,23.8,760317.7637893369,2.54,Late
+1087,Technology,Excellent,Large,Letter of Credit,No,No,15,373060.0,6.6,2,1.54,41.5,,4.35,On-Time
+1088,Construction,Excellent,Medium,Bank Transfer,No,Yes,90,405047.0,7.3,3,4.73,39.4,463302.6081203498,0.82,Severely Late
+1089,Technology,Fair,Small,Cheque,Yes,Yes,30,228726.0,3.6,3,0.91,33.1,157808.78750568966,4.55,Late
+1090,Manufacturing,Good,Medium,Mobile Money,No,No,60,517687.0,5.9,3,3.86,46.1,,2.23,Late
+1091,Healthcare,Good,Enterprise,Letter of Credit,No,Yes,45,231836.0,16.4,1,2.06,25.5,174287.6730202818,2.89,On-Time
+1092,Technology,Good,Small,Bank Transfer,No,No,15,162534.0,2.9,1,3.53,22.7,,4.24,On-Time
+1093,Technology,Fair,Large,Cheque,Yes,Yes,45,636764.0,5.1,2,3.78,26.9,418624.90261277027,4.89,Late
+1094,Manufacturing,Good,Medium,Bank Transfer,Yes,No,45,58431.0,16.1,0,0.66,19.6,,2.38,On-Time
+1095,Construction,Fair,Small,Bank Transfer,No,Yes,15,52486.0,2.9,0,4.22,16.3,58688.60087215386,0.67,On-Time
+1096,Construction,Fair,Medium,Mobile Money,No,No,45,107659.0,0.6,1,0.65,32.0,,0.8,Late
+1097,Healthcare,Good,Small,Bank Transfer,No,No,30,319545.0,7.2,1,2.02,22.7,,3.03,On-Time
+1098,Manufacturing,Good,Small,Letter of Credit,No,Yes,30,641076.0,3.6,1,0.11,18.8,271757.1023358216,2.12,On-Time
+1099,Manufacturing,Fair,Enterprise,Mobile Money,Yes,Yes,30,351161.0,12.5,1,1.96,41.1,277677.6716027443,2.88,On-Time
+1100,Retail,Fair,Medium,Bank Transfer,Yes,Yes,15,827526.0,2.7,1,2.62,24.2,665581.4132081573,1.04,On-Time
+1101,Technology,Poor,Medium,Cheque,No,No,90,312872.0,11.2,0,3.1,20.9,,4.43,Late
+1102,Manufacturing,Excellent,Large,Letter of Credit,No,No,30,63033.0,5.0,2,3.87,27.8,,2.23,On-Time
+1103,Retail,Poor,Small,Bank Transfer,No,Yes,15,282911.0,0.7,0,1.51,15.6,195190.29130436038,1.79,On-Time
+1104,Healthcare,Fair,Medium,Letter of Credit,No,Yes,30,482085.0,6.6,1,2.31,19.9,466355.4074153488,3.72,On-Time
+1105,Construction,Good,Enterprise,Cheque,No,Yes,60,86460.0,4.9,1,1.6,32.7,37602.856819469416,0.81,Late
+1106,Technology,Excellent,Small,Mobile Money,No,No,15,136012.0,5.7,0,2.44,23.6,,4.27,On-Time
+1107,Construction,Excellent,Medium,Cheque,No,Yes,45,573763.0,3.6,0,1.56,24.8,688324.8130870027,0.51,On-Time
+1108,Retail,Good,Small,Cheque,No,Yes,60,481228.0,9.5,0,3.05,19.6,520440.1040333366,0.97,On-Time
+1109,Retail,Good,Large,Bank Transfer,No,No,45,104284.0,3.1,1,2.69,19.2,,1.75,Late
+1110,Retail,Poor,Large,Letter of Credit,Yes,Yes,45,456499.0,6.4,2,2.83,47.4,227400.32781567538,0.85,Severely Late
+1111,Manufacturing,Excellent,Small,Bank Transfer,No,No,45,319859.0,3.3,1,1.78,24.0,,2.66,On-Time
+1112,Technology,Fair,Medium,Letter of Credit,No,Yes,60,288499.0,5.3,3,0.79,55.8,286494.47329093877,3.86,Severely Late
+1113,Technology,Excellent,Small,Letter of Credit,Yes,No,45,508921.0,7.1,2,2.31,27.9,,4.5,On-Time
+1114,Construction,Poor,Medium,Cheque,Yes,Yes,60,125997.0,5.3,0,1.96,9.6,97077.73041826457,0.46,Late
+1115,Retail,Good,Medium,Mobile Money,No,No,15,220349.0,0.9,0,4.79,21.3,,1.74,On-Time
+1116,Manufacturing,Poor,Medium,Mobile Money,No,Yes,90,408226.0,2.3,0,1.65,17.9,344403.20615424396,2.04,Severely Late
+1117,Manufacturing,Fair,Medium,Mobile Money,No,No,45,1016905.0,5.1,1,1.75,18.5,,2.18,On-Time
+1118,Technology,Excellent,Small,Bank Transfer,No,No,45,229979.0,2.1,1,0.0,26.4,,4.82,On-Time
+1119,Retail,Fair,Small,Cheque,No,Yes,30,1372544.0,10.0,0,1.4,19.3,564859.0547501232,0.67,Late
+1120,Technology,Good,Medium,Mobile Money,No,No,60,41428.0,7.9,0,0.51,14.9,,4.23,On-Time
+1121,Technology,Excellent,Small,Bank Transfer,No,No,15,564860.0,3.7,3,0.67,38.4,,4.9,On-Time
+1122,Construction,Excellent,Small,Bank Transfer,No,No,45,584520.0,8.6,1,3.44,20.6,,0.65,On-Time
+1123,Manufacturing,Good,Medium,Letter of Credit,No,No,60,123723.0,17.1,0,2.29,0.0,,2.39,On-Time
+1124,Retail,Fair,Medium,Letter of Credit,Yes,Yes,45,182395.0,6.9,1,1.77,21.0,204707.11186153046,1.64,Late
+1125,Technology,Excellent,Large,Cheque,Yes,Yes,30,285256.0,3.9,2,1.79,38.9,205330.3784046027,4.18,On-Time
+1126,Retail,Excellent,Large,Bank Transfer,No,Yes,30,139268.0,4.3,0,5.02,8.8,102096.67956429115,2.69,On-Time
+1127,Construction,Good,Large,Letter of Credit,No,No,30,183026.0,2.1,1,2.32,21.3,,0.88,On-Time
+1128,Technology,Excellent,Small,Cheque,No,No,60,172916.0,5.0,3,1.18,35.3,,4.7,On-Time
+1129,Retail,Good,Medium,Mobile Money,Yes,No,45,329286.0,17.0,0,2.65,10.6,,1.35,On-Time
+1130,Retail,Excellent,Large,Cheque,No,No,15,300019.0,1.4,1,0.69,20.4,,0.93,On-Time
+1131,Construction,Good,Medium,Letter of Credit,No,Yes,30,842682.0,3.0,1,2.4,22.3,362746.2824937753,1.14,Late
+1132,Manufacturing,Good,Small,Bank Transfer,No,No,30,51635.0,2.2,0,2.06,12.6,,2.29,On-Time
+1133,Technology,Good,Small,Cheque,No,Yes,60,171929.0,1.3,2,0.86,31.4,140322.56755038208,4.78,Late
+1134,Healthcare,Excellent,Large,Mobile Money,No,Yes,30,348638.0,1.9,1,0.94,25.9,287252.98816606624,3.71,On-Time
+1135,Construction,Good,Large,Mobile Money,No,No,45,50677.0,3.0,2,4.03,34.7,,0.99,Late
+1136,Construction,Good,Large,Mobile Money,No,No,30,452242.0,5.6,1,2.89,26.3,,1.09,On-Time
+1137,Manufacturing,Excellent,Small,Bank Transfer,No,No,15,1000399.0,1.6,1,3.24,31.4,,2.04,On-Time
+1138,Manufacturing,Excellent,Small,Bank Transfer,No,No,90,136883.0,2.3,1,3.05,22.3,,1.79,On-Time
+1139,Construction,Good,Large,Mobile Money,No,No,60,257485.0,2.9,1,2.86,26.2,,0.27,On-Time
+1140,Retail,Fair,Medium,Cheque,No,No,15,408990.0,9.1,4,3.19,55.7,,1.42,Late
+1141,Construction,Good,Medium,Bank Transfer,No,No,60,47830.0,9.0,1,2.03,22.3,,0.93,Late
+1142,Retail,Fair,Small,Cheque,No,Yes,30,616610.0,1.5,1,1.86,40.1,680432.5605211791,0.95,On-Time
+1143,Technology,Good,Small,Mobile Money,Yes,No,15,345707.0,4.1,1,0.17,25.0,,4.49,On-Time
+1144,Technology,Fair,Medium,Mobile Money,No,Yes,90,431459.0,8.4,0,1.97,19.0,451104.6325249518,4.57,On-Time
+1145,Manufacturing,Fair,Medium,Cheque,No,No,60,198828.0,3.4,1,2.04,24.1,,2.21,Late
+1146,Manufacturing,Fair,Small,Bank Transfer,No,Yes,15,256313.0,13.2,1,3.43,26.1,156828.49449135648,2.17,On-Time
+1147,Manufacturing,Excellent,Small,Bank Transfer,No,No,30,100676.0,11.1,1,3.36,35.0,,3.06,On-Time
+1148,Healthcare,Poor,Large,Bank Transfer,No,No,30,216808.0,4.7,1,2.45,18.9,,3.41,Late
+1149,Construction,Fair,Small,Bank Transfer,No,No,30,144274.0,4.3,2,1.17,21.7,,0.5,On-Time
+1150,Retail,Excellent,Medium,Mobile Money,No,No,45,277098.0,3.4,1,0.11,17.3,,1.1,On-Time
+1151,Manufacturing,Excellent,Small,Mobile Money,No,Yes,15,192492.0,7.8,3,2.51,33.6,197279.6022202746,2.3,On-Time
+1152,Manufacturing,Fair,Enterprise,Cheque,No,No,30,607197.0,10.5,1,3.41,28.6,,1.55,Late
+1153,Healthcare,Excellent,Small,Bank Transfer,No,No,45,175010.0,4.1,0,3.07,11.6,,3.25,On-Time
+1154,Construction,Fair,Large,Mobile Money,No,Yes,30,187986.0,10.9,2,1.67,39.4,103313.86973738679,0.38,Late
+1155,Construction,Excellent,Small,Cheque,No,No,45,190183.0,9.3,1,1.73,24.9,,0.4,On-Time
+1156,Manufacturing,Poor,Medium,Bank Transfer,No,No,30,532559.0,5.0,0,2.66,1.8,,2.04,On-Time
+1157,Retail,Excellent,Small,Bank Transfer,No,No,30,488754.0,3.9,0,2.01,26.9,,1.31,On-Time
+1158,Technology,Excellent,Large,Cheque,No,No,60,333741.0,7.9,0,2.3,20.4,,4.63,On-Time
+1159,Construction,Excellent,Small,Mobile Money,No,No,15,248972.0,2.1,2,0.0,25.8,,0.24,On-Time
+1160,Retail,Fair,Medium,Letter of Credit,No,Yes,90,275913.0,4.7,1,2.35,28.7,249554.07256645654,0.64,Late
+1161,Healthcare,Poor,Large,Letter of Credit,No,No,15,103096.0,5.5,2,1.13,26.3,,3.17,Late
+1162,Retail,Good,Medium,Bank Transfer,Yes,Yes,30,259061.0,11.6,1,0.24,31.2,213062.73655114905,1.71,On-Time
+1163,Technology,Excellent,Medium,Bank Transfer,No,Yes,45,450857.0,3.2,2,1.45,32.4,421397.5206361224,4.41,On-Time
+1164,Manufacturing,Good,Large,Mobile Money,Yes,No,30,544349.0,0.7,2,0.17,34.8,,2.48,On-Time
+1165,Manufacturing,Fair,Large,Bank Transfer,Yes,Yes,15,424476.0,3.8,0,0.31,21.8,330037.3374482628,1.77,On-Time
+1166,Technology,Good,Enterprise,Mobile Money,No,Yes,45,284479.0,8.1,3,1.3,54.1,303665.39217587764,4.56,On-Time
+1167,Technology,Excellent,Small,Mobile Money,No,Yes,60,180170.0,4.7,0,3.99,7.1,165873.90024436184,4.65,On-Time
+1168,Healthcare,Good,Small,Bank Transfer,No,No,30,400748.0,2.5,1,4.25,16.3,,2.93,On-Time
+1169,Retail,Good,Medium,Bank Transfer,No,No,45,643422.0,2.3,2,1.45,38.7,,1.03,On-Time
+1170,Manufacturing,Fair,Large,Letter of Credit,Yes,No,30,517982.0,7.0,2,1.56,18.6,,2.37,Severely Late
+1171,Retail,Good,Small,Bank Transfer,No,No,30,147426.0,8.9,1,0.4,26.3,,1.72,On-Time
+1172,Healthcare,Fair,Small,Letter of Credit,No,No,45,985786.0,8.6,2,1.61,25.8,,3.06,On-Time
+1173,Healthcare,Excellent,Small,Cheque,No,Yes,30,188668.0,3.0,1,2.1,24.2,186139.15499795746,1.84,On-Time
+1174,Manufacturing,Good,Large,Bank Transfer,No,Yes,30,402565.0,19.6,2,4.25,32.6,273414.8281691569,1.87,On-Time
+1175,Manufacturing,Fair,Medium,Bank Transfer,No,No,15,154905.0,4.7,1,4.22,16.3,,2.47,On-Time
+1176,Retail,Good,Enterprise,Mobile Money,Yes,No,45,672798.0,2.0,0,0.74,12.1,,1.76,On-Time
+1177,Healthcare,Good,Enterprise,Bank Transfer,No,Yes,15,245658.0,10.1,3,3.21,41.1,121288.10163668687,3.04,On-Time
+1178,Retail,Excellent,Enterprise,Mobile Money,No,No,90,192558.0,3.9,2,2.79,42.1,,2.04,Late
+1179,Construction,Good,Small,Bank Transfer,No,No,30,538472.0,1.9,1,0.31,32.7,,1.07,On-Time
+1180,Construction,Excellent,Large,Bank Transfer,No,No,30,577956.0,13.0,1,1.72,16.8,,0.78,On-Time
+1181,Retail,Fair,Medium,Bank Transfer,No,No,30,214014.0,11.3,0,2.63,27.2,,1.51,On-Time
+1182,Retail,Excellent,Enterprise,Bank Transfer,No,No,60,117791.0,4.0,1,1.91,18.8,,2.35,Late
+1183,Healthcare,Excellent,Small,Mobile Money,Yes,Yes,30,95776.0,10.9,0,0.0,8.0,61898.77274848513,3.27,On-Time
+1184,Healthcare,Good,Small,Letter of Credit,No,No,30,579388.0,6.9,1,1.53,37.2,,2.92,On-Time
+1185,Retail,Fair,Large,Bank Transfer,Yes,Yes,30,247682.0,1.5,0,3.54,6.0,283455.7880477611,1.67,On-Time
+1186,Manufacturing,Good,Small,Bank Transfer,Yes,No,15,211585.0,7.1,0,1.6,13.8,,2.04,On-Time
+1187,Construction,Good,Large,Bank Transfer,No,No,30,339782.0,0.6,0,2.76,26.2,,1.39,On-Time
+1188,Technology,Poor,Medium,Bank Transfer,No,No,15,329643.0,3.0,0,1.53,19.6,,4.98,On-Time
+1189,Manufacturing,Excellent,Large,Bank Transfer,No,No,60,447334.0,9.5,1,1.74,37.7,,2.65,On-Time
+1190,Retail,Good,Large,Bank Transfer,No,No,90,358979.0,11.8,0,3.6,19.7,,2.15,Late
+1191,Healthcare,Poor,Small,Mobile Money,No,No,90,283090.0,5.2,1,1.65,29.6,,2.42,Severely Late
+1192,Manufacturing,Good,Medium,Letter of Credit,No,Yes,15,409415.0,2.4,5,1.37,56.1,331710.867049267,2.3,On-Time
+1193,Construction,Excellent,Medium,Mobile Money,No,No,30,332436.0,1.4,1,1.65,21.0,,1.27,On-Time
+1194,Healthcare,Fair,Large,Bank Transfer,No,Yes,30,500858.0,9.0,2,1.32,34.7,453040.0744035396,2.84,On-Time
+1195,Construction,Poor,Small,Mobile Money,Yes,No,60,247325.0,8.7,1,1.01,25.0,,0.78,Severely Late
+1196,Construction,Fair,Small,Letter of Credit,No,Yes,15,325039.0,8.3,0,5.13,25.3,384183.86543044524,0.31,Late
+1197,Manufacturing,Poor,Small,Bank Transfer,No,No,45,167358.0,1.7,0,3.04,9.3,,1.84,On-Time
+1198,Healthcare,Good,Large,Mobile Money,No,No,90,427849.0,11.6,1,1.31,23.9,,3.47,On-Time
+1199,Healthcare,Fair,Medium,Cheque,Yes,Yes,45,397787.0,2.1,0,2.14,19.9,334897.5900505238,3.16,Late
+1200,Manufacturing,Fair,Small,Bank Transfer,No,Yes,60,1375814.0,7.8,2,1.26,30.2,1056835.0571807886,2.19,Late
+1201,Construction,Fair,Small,Bank Transfer,No,Yes,45,585893.0,2.2,0,2.3,16.1,702176.6044485873,0.88,Late
+1202,Manufacturing,Fair,Medium,Cheque,No,Yes,30,274716.0,2.4,2,1.56,28.6,180158.51605767818,2.04,Late
+1203,Technology,Fair,Small,Letter of Credit,No,No,30,451839.0,9.1,2,1.23,30.6,,3.84,On-Time
+1204,Technology,Good,Medium,Bank Transfer,No,Yes,60,1013546.0,1.1,1,0.69,26.1,1056244.0527506743,4.43,On-Time
+1205,Retail,Fair,Small,Cheque,No,No,15,124793.0,0.9,1,2.65,15.8,,1.81,Late
+1206,Construction,Good,Medium,Mobile Money,No,No,30,299447.0,11.3,1,2.72,20.4,,1.03,On-Time
+1207,Manufacturing,Excellent,Medium,Mobile Money,No,Yes,60,33387.0,3.5,0,1.9,11.6,37362.58715144841,1.68,On-Time
+1208,Manufacturing,Poor,Medium,Letter of Credit,No,No,30,94159.0,1.2,3,2.58,32.5,,2.11,Late
+1209,Healthcare,Excellent,Medium,Bank Transfer,No,No,15,691163.0,2.2,2,0.43,36.9,,2.84,On-Time
+1210,Construction,Good,Medium,Mobile Money,No,No,90,100232.0,1.3,0,2.87,9.7,,0.9,Late
+1211,Retail,Good,Medium,Mobile Money,No,No,30,295638.0,7.8,1,0.67,17.5,,1.23,On-Time
+1212,Healthcare,Excellent,Large,Letter of Credit,No,No,60,97388.0,8.9,0,1.51,19.6,,3.06,On-Time
+1213,Retail,Good,Small,Letter of Credit,No,Yes,60,454249.0,4.6,5,0.28,55.4,403679.58178637153,1.0,Severely Late
+1214,Technology,Good,Large,Bank Transfer,Yes,No,90,391931.0,1.1,2,4.62,33.6,,4.71,Severely Late
+1215,Technology,Poor,Small,Mobile Money,No,No,90,725965.0,2.5,1,2.76,33.9,,3.81,Severely Late
+1216,Technology,Poor,Small,Bank Transfer,No,No,90,204373.0,5.1,1,1.22,24.4,,4.29,Late
+1217,Construction,Fair,Large,Mobile Money,No,No,60,1105440.0,5.7,0,3.88,8.9,,0.78,Late
+1218,Manufacturing,Fair,Large,Letter of Credit,Yes,No,30,366340.0,1.9,2,3.26,44.7,,1.9,On-Time
+1219,Manufacturing,Good,Medium,Bank Transfer,Yes,Yes,60,481608.0,1.4,0,2.01,14.1,426233.5775969506,2.4,On-Time
+1220,Manufacturing,Excellent,Large,Bank Transfer,Yes,No,30,444830.0,15.7,0,1.22,20.6,,2.07,On-Time
+1221,Healthcare,Good,Small,Letter of Credit,No,No,60,396127.0,5.1,2,0.95,28.9,,3.67,On-Time
+1222,Manufacturing,Good,Small,Bank Transfer,No,Yes,30,265306.0,4.0,1,2.33,30.2,236048.4831029893,2.22,On-Time
+1223,Healthcare,Excellent,Small,Bank Transfer,No,No,30,556362.0,8.4,0,2.93,21.4,,3.57,On-Time
+1224,Retail,Fair,Large,Mobile Money,No,No,15,491744.0,5.3,2,2.09,43.3,,1.15,On-Time
+1225,Healthcare,Good,Enterprise,Bank Transfer,Yes,No,45,117814.0,4.0,3,1.86,37.9,,3.04,On-Time
+1226,Technology,Poor,Small,Mobile Money,Yes,Yes,60,362453.0,7.3,0,1.72,0.0,397961.4682916089,4.34,Severely Late
+1227,Technology,Poor,Small,Cheque,Yes,Yes,15,542204.0,3.5,0,0.51,19.8,438017.43312111136,4.68,On-Time
+1228,Technology,Good,Small,Letter of Credit,No,No,30,135335.0,4.3,0,1.06,7.7,,4.04,On-Time
+1229,Technology,Excellent,Small,Bank Transfer,No,No,15,408741.0,4.5,0,0.34,26.7,,4.3,On-Time
+1230,Healthcare,Excellent,Small,Cheque,Yes,No,15,428702.0,3.9,1,2.4,31.7,,3.28,On-Time
+1231,Retail,Fair,Large,Mobile Money,No,No,15,584867.0,9.7,0,1.54,6.6,,0.46,On-Time
+1232,Technology,Good,Large,Letter of Credit,Yes,No,30,177780.0,3.9,1,1.93,23.7,,4.49,On-Time
+1233,Construction,Good,Small,Cheque,Yes,No,45,12140.0,4.3,0,2.95,9.6,,0.43,Late
+1234,Construction,Fair,Medium,Mobile Money,No,No,30,290893.0,4.4,1,1.68,24.1,,1.16,Late
+1235,Retail,Fair,Medium,Mobile Money,Yes,No,30,372453.0,2.3,2,1.72,27.4,,1.78,Late
+1236,Healthcare,Good,Large,Letter of Credit,No,Yes,45,389888.0,2.9,0,3.64,10.5,376471.647035097,3.15,On-Time
+1237,Technology,Good,Medium,Cheque,No,No,45,831724.0,10.3,0,2.24,13.9,,4.55,On-Time
+1238,Manufacturing,Fair,Small,Mobile Money,No,No,45,430051.0,4.3,0,2.47,19.1,,2.68,On-Time
+1239,Manufacturing,Fair,Small,Letter of Credit,Yes,No,30,918958.0,7.3,3,1.92,57.6,,1.97,Severely Late
+1240,Construction,Good,Small,Bank Transfer,No,Yes,30,836766.0,18.5,0,2.55,9.2,469283.76378098683,0.4,On-Time
+1241,Healthcare,Fair,Large,Mobile Money,No,Yes,30,253689.0,3.3,1,0.95,24.8,183316.86749352078,3.29,Late
+1242,Retail,Excellent,Small,Bank Transfer,No,Yes,90,212837.0,1.9,1,0.0,24.2,200606.85875482977,0.53,Late
+1243,Construction,Good,Medium,Bank Transfer,No,Yes,30,895920.0,1.7,0,2.98,13.5,393756.6280080389,0.74,On-Time
+1244,Technology,Fair,Medium,Bank Transfer,No,Yes,45,606015.0,2.4,0,2.12,14.6,390927.46152986895,4.68,On-Time
+1245,Manufacturing,Excellent,Large,Mobile Money,No,No,45,813962.0,2.4,0,1.47,11.3,,2.25,On-Time
+1246,Retail,Excellent,Enterprise,Mobile Money,No,No,60,218064.0,5.7,2,2.19,34.5,,1.37,Late
+1247,Construction,Fair,Small,Letter of Credit,No,No,45,412128.0,6.7,3,3.01,30.8,,0.86,Late
+1248,Manufacturing,Poor,Small,Bank Transfer,No,No,30,134292.0,1.9,2,2.82,45.1,,1.82,Late
+1249,Manufacturing,Excellent,Enterprise,Bank Transfer,No,Yes,45,801402.0,2.1,1,1.13,29.6,757913.0847172496,3.08,On-Time
+1250,Manufacturing,Poor,Small,Bank Transfer,No,No,30,199852.0,1.9,0,1.78,13.1,,1.96,On-Time
+1251,Manufacturing,Fair,Small,Cheque,No,No,60,557622.0,5.6,0,1.4,14.1,,1.11,Late
+1252,Manufacturing,Excellent,Large,Cheque,No,Yes,45,1082471.0,6.3,1,3.18,10.5,1284470.7050487606,1.56,On-Time
+1253,Construction,Good,Enterprise,Cheque,No,Yes,60,167346.0,5.5,0,4.46,22.5,90919.94036571139,1.01,Late
+1254,Healthcare,Good,Large,Cheque,No,No,30,372651.0,10.9,0,4.68,22.7,,2.65,On-Time
+1255,Retail,Good,Small,Bank Transfer,No,Yes,30,106303.0,2.6,2,2.52,28.2,88914.07578244273,1.02,On-Time
+1256,Retail,Poor,Enterprise,Bank Transfer,No,No,45,102365.0,2.4,1,1.82,27.9,,0.96,Late
+1257,Retail,Fair,Medium,Bank Transfer,No,No,30,269118.0,2.9,1,0.82,19.6,,1.81,On-Time
+1258,Construction,Fair,Medium,Letter of Credit,No,No,45,31806.0,10.1,1,1.92,10.9,,0.57,Late
+1259,Retail,Good,Large,Mobile Money,No,Yes,30,404874.0,1.7,0,3.06,18.4,313232.99320166325,1.3,On-Time
+1260,Technology,Fair,Medium,Cheque,Yes,No,60,378540.0,10.0,0,2.0,18.5,,5.23,Late
+1261,Technology,Good,Small,Letter of Credit,Yes,No,45,125733.0,25.0,1,1.47,28.8,,4.08,On-Time
+1262,Technology,Fair,Medium,Cheque,No,No,15,244690.0,4.4,1,4.68,39.6,,4.81,On-Time
+1263,Retail,Excellent,Medium,Letter of Credit,Yes,No,30,214667.0,1.6,2,0.81,51.9,,1.29,On-Time
+1264,Retail,Good,Large,Letter of Credit,No,No,15,976339.0,9.8,2,3.32,43.3,,1.47,On-Time
+1265,Construction,Fair,Large,Cheque,No,No,15,1356796.0,3.2,0,2.61,5.3,,1.15,On-Time
+1266,Healthcare,Poor,Large,Bank Transfer,No,Yes,45,135775.0,11.8,1,3.35,22.7,86050.65316089267,2.74,Late
+1267,Manufacturing,Good,Large,Letter of Credit,No,No,45,48288.0,4.8,0,1.4,18.6,,2.58,On-Time
+1268,Manufacturing,Good,Enterprise,Cheque,No,No,60,39933.0,6.1,1,1.1,27.1,,2.43,Late
+1269,Manufacturing,Excellent,Large,Bank Transfer,No,No,60,419932.0,1.8,0,1.78,7.6,,2.15,On-Time
+1270,Manufacturing,Good,Medium,Bank Transfer,No,No,30,176181.0,2.6,1,0.84,22.5,,1.91,On-Time
+1271,Retail,Good,Large,Cheque,No,No,30,504643.0,6.6,3,3.56,43.1,,0.89,Late
+1272,Retail,Good,Large,Bank Transfer,Yes,Yes,15,140689.0,4.1,2,1.34,32.6,89310.71179245062,1.23,On-Time
+1273,Retail,Fair,Medium,Bank Transfer,Yes,No,15,94885.0,6.9,1,0.64,25.0,,1.53,On-Time
+1274,Construction,Good,Enterprise,Bank Transfer,No,Yes,45,692074.0,4.6,2,3.21,25.7,324622.3287543826,1.07,Late
+1275,Construction,Good,Small,Mobile Money,No,Yes,15,140137.0,4.2,0,0.89,9.7,149934.25033677492,0.68,On-Time
+1276,Manufacturing,Excellent,Large,Bank Transfer,No,No,30,304625.0,21.5,0,3.86,11.8,,2.26,On-Time
+1277,Manufacturing,Good,Large,Bank Transfer,No,No,45,470919.0,8.7,1,2.0,19.0,,1.69,Late
+1278,Manufacturing,Good,Large,Cheque,No,No,30,376858.0,1.1,0,2.71,16.8,,2.09,On-Time
+1279,Manufacturing,Fair,Medium,Bank Transfer,No,No,45,142330.0,8.1,1,1.32,31.8,,2.16,Late
+1280,Manufacturing,Good,Large,Cheque,No,No,15,78203.0,2.1,0,0.09,13.5,,2.04,On-Time
+1281,Technology,Excellent,Medium,Bank Transfer,No,Yes,30,179808.0,3.8,4,1.9,56.1,156720.41410647432,4.46,On-Time
+1282,Manufacturing,Excellent,Large,Letter of Credit,No,Yes,30,178303.0,3.1,0,0.52,17.2,96569.63816679773,2.31,On-Time
+1283,Healthcare,Good,Medium,Bank Transfer,No,No,30,317602.0,13.3,0,1.12,10.2,,2.75,On-Time
+1284,Retail,Good,Large,Letter of Credit,No,No,30,135161.0,2.7,1,2.42,7.7,,1.33,Late
+1285,Technology,Fair,Small,Bank Transfer,No,No,30,459008.0,6.9,3,3.13,44.0,,5.41,Late
+1286,Healthcare,Fair,Small,Bank Transfer,No,No,15,405510.0,1.9,2,0.77,36.0,,2.91,On-Time
+1287,Retail,Excellent,Large,Bank Transfer,No,No,60,596262.0,7.0,1,1.45,27.1,,1.99,On-Time
+1288,Manufacturing,Good,Enterprise,Bank Transfer,No,No,45,283220.0,5.7,0,2.66,9.3,,2.41,On-Time
+1289,Manufacturing,Fair,Large,Bank Transfer,No,Yes,15,272691.0,6.6,0,1.43,17.7,275863.13925301685,1.85,On-Time
+1290,Retail,Good,Enterprise,Letter of Credit,Yes,Yes,30,216171.0,1.4,1,3.63,37.5,190702.68363192707,0.65,On-Time
+1291,Healthcare,Poor,Medium,Letter of Credit,Yes,No,60,634135.0,14.4,1,3.34,22.4,,2.84,Late
+1292,Construction,Good,Medium,Bank Transfer,No,No,45,608158.0,8.3,1,4.24,32.0,,0.66,Late
+1293,Retail,Poor,Small,Letter of Credit,No,No,30,532163.0,5.6,0,1.46,20.2,,0.94,On-Time
+1294,Manufacturing,Good,Medium,Bank Transfer,No,No,15,285604.0,3.0,1,1.31,24.6,,2.3,On-Time
+1295,Technology,Good,Enterprise,Cheque,No,Yes,15,459033.0,2.7,1,2.23,32.1,488494.0112211454,4.0,On-Time
+1296,Construction,Excellent,Medium,Bank Transfer,No,No,90,289765.0,11.9,1,3.93,33.4,,1.28,Late
+1297,Construction,Fair,Large,Letter of Credit,No,No,15,546575.0,10.7,1,2.73,19.7,,1.21,On-Time
+1298,Technology,Fair,Large,Mobile Money,Yes,Yes,60,506864.0,3.9,2,0.84,45.5,526597.1282086198,4.99,Severely Late
+1299,Retail,Fair,Large,Letter of Credit,No,No,90,192141.0,17.5,1,0.0,23.8,,1.53,Late
+1300,Construction,Excellent,Medium,Bank Transfer,No,No,30,463200.0,14.8,3,2.0,39.2,,0.22,On-Time
+1301,Manufacturing,Fair,Medium,Mobile Money,No,No,90,159645.0,12.7,1,0.94,26.8,,2.11,Severely Late
+1302,Technology,Fair,Small,Cheque,No,No,30,814304.0,4.4,1,4.09,24.0,,5.0,On-Time
+1303,Retail,Poor,Small,Bank Transfer,No,No,45,276355.0,8.0,0,0.78,10.3,,1.5,Late
+1304,Construction,Fair,Medium,Mobile Money,No,No,30,108023.0,2.6,0,1.45,14.4,,0.73,On-Time
+1305,Construction,Fair,Medium,Letter of Credit,Yes,No,30,279763.0,1.6,0,4.41,13.8,,1.22,On-Time
+1306,Retail,Good,Small,Bank Transfer,No,No,60,419709.0,11.1,1,2.99,23.5,,0.95,Late
+1307,Healthcare,Good,Medium,Mobile Money,No,Yes,30,429191.0,5.6,0,0.02,15.0,503374.26886928035,2.67,On-Time
+1308,Technology,Fair,Medium,Cheque,No,No,45,288267.0,5.9,1,2.6,25.5,,4.94,On-Time
+1309,Construction,Fair,Medium,Letter of Credit,No,No,15,201909.0,2.5,0,2.61,8.8,,0.93,On-Time
+1310,Construction,Good,Medium,Bank Transfer,No,No,60,80783.0,12.7,1,2.74,27.1,,0.67,Late
+1311,Technology,Fair,Small,Bank Transfer,No,No,45,402480.0,1.4,4,1.86,41.5,,3.56,On-Time
+1312,Healthcare,Good,Medium,Letter of Credit,No,Yes,90,148399.0,3.1,0,2.26,21.6,128170.094291265,2.27,On-Time
+1313,Manufacturing,Poor,Medium,Bank Transfer,Yes,No,45,82627.0,8.3,2,0.44,27.0,,1.87,Severely Late
+1314,Manufacturing,Fair,Small,Bank Transfer,No,Yes,60,431303.0,12.6,0,0.71,15.4,247714.3358435317,2.17,On-Time
+1315,Retail,Good,Large,Mobile Money,No,Yes,45,405921.0,5.7,0,2.11,21.5,427314.4980446713,1.45,On-Time
+1316,Manufacturing,Good,Large,Bank Transfer,No,No,15,230919.0,7.7,0,2.72,16.8,,2.31,On-Time
+1317,Technology,Good,Large,Bank Transfer,No,No,45,123025.0,2.8,1,3.17,16.3,,4.86,On-Time
+1318,Retail,Excellent,Small,Letter of Credit,No,Yes,45,231210.0,2.8,0,2.35,15.2,104926.69001011702,1.9,On-Time
+1319,Retail,Excellent,Medium,Bank Transfer,No,Yes,45,348200.0,3.5,1,1.15,25.3,205437.89457412745,0.82,On-Time
+1320,Healthcare,Fair,Small,Bank Transfer,No,No,15,661190.0,6.0,0,2.58,11.4,,2.05,On-Time
+1321,Retail,Good,Medium,Cheque,Yes,Yes,60,275736.0,4.5,1,2.3,19.8,212111.67605621656,1.1,On-Time
+1322,Construction,Poor,Enterprise,Cheque,No,No,45,406060.0,4.6,0,2.05,12.7,,1.09,Severely Late
+1323,Construction,Fair,Small,Cheque,No,No,30,144625.0,4.7,2,2.21,34.2,,0.9,Late
+1324,Construction,Fair,Large,Letter of Credit,No,No,60,430424.0,13.2,0,3.88,23.3,,0.85,On-Time
+1325,Technology,Fair,Medium,Bank Transfer,No,No,30,338791.0,3.9,3,1.6,39.0,,5.21,Late
+1326,Healthcare,Fair,Medium,Letter of Credit,No,No,30,249198.0,19.5,1,0.45,30.4,,3.55,Late
+1327,Manufacturing,Good,Medium,Bank Transfer,No,No,30,791839.0,0.4,0,1.51,7.0,,1.71,On-Time
+1328,Retail,Fair,Medium,Cheque,No,No,60,11582.0,13.6,1,0.3,20.5,,1.4,Late
+1329,Retail,Excellent,Medium,Letter of Credit,No,No,60,94474.0,25.0,0,0.94,21.4,,1.55,Late
+1330,Manufacturing,Good,Medium,Mobile Money,No,Yes,45,696904.0,7.6,1,1.49,24.4,669854.9331425787,2.31,On-Time
+1331,Technology,Good,Large,Bank Transfer,Yes,No,30,43438.0,8.5,1,3.8,26.1,,4.15,Late
+1332,Healthcare,Poor,Enterprise,Mobile Money,Yes,Yes,45,313017.0,1.1,1,1.33,32.2,366206.78913318604,3.24,Late
+1333,Technology,Good,Small,Letter of Credit,No,No,30,209782.0,13.8,0,2.62,0.5,,5.04,On-Time
+1334,Healthcare,Fair,Large,Mobile Money,No,Yes,60,510933.0,3.6,1,2.56,28.0,241619.43213736557,3.17,Severely Late
+1335,Retail,Good,Large,Bank Transfer,Yes,No,60,623810.0,1.8,2,1.97,32.8,,1.54,Late
+1336,Retail,Fair,Large,Letter of Credit,No,No,45,190156.0,4.5,1,1.79,39.7,,0.47,On-Time
+1337,Retail,Excellent,Enterprise,Letter of Credit,No,No,45,607990.0,5.4,2,2.33,42.7,,1.64,On-Time
+1338,Healthcare,Fair,Enterprise,Letter of Credit,Yes,Yes,30,237772.0,7.2,1,2.89,32.1,201243.28525036274,2.72,Late
+1339,Manufacturing,Good,Large,Bank Transfer,Yes,No,30,731569.0,4.4,3,1.6,48.8,,1.97,Late
+1340,Technology,Good,Large,Mobile Money,No,Yes,30,436146.0,2.6,1,1.81,16.2,274616.80591297004,4.24,On-Time
+1341,Manufacturing,Good,Medium,Bank Transfer,No,Yes,30,53971.0,8.4,2,4.07,41.9,44441.20491900756,2.04,On-Time
+1342,Retail,Good,Large,Bank Transfer,Yes,Yes,45,597111.0,5.2,3,2.77,43.2,492175.5684888741,1.31,Late
+1343,Manufacturing,Fair,Medium,Bank Transfer,No,Yes,45,279841.0,4.2,1,2.86,20.5,129362.8639624941,1.98,On-Time
+1344,Manufacturing,Fair,Medium,Bank Transfer,No,Yes,15,287325.0,7.9,2,3.65,23.4,343655.99201215705,1.86,On-Time
+1345,Technology,Fair,Medium,Bank Transfer,Yes,No,30,961301.0,3.3,2,2.23,26.7,,4.88,On-Time
+1346,Retail,Good,Large,Mobile Money,No,Yes,30,970827.0,1.6,2,2.16,29.1,505914.0369141042,1.38,On-Time
+1347,Healthcare,Good,Medium,Bank Transfer,No,Yes,15,336916.0,9.1,1,2.79,18.5,264458.3435183273,3.11,On-Time
+1348,Construction,Good,Small,Bank Transfer,No,No,60,147129.0,6.5,0,3.13,16.1,,0.32,On-Time
+1349,Healthcare,Fair,Large,Mobile Money,No,Yes,45,463229.0,10.7,1,0.53,12.8,344097.7461980615,2.19,On-Time
+1350,Retail,Excellent,Large,Cheque,No,No,90,104690.0,15.1,0,0.85,5.7,,1.19,On-Time
+1351,Retail,Fair,Small,Mobile Money,No,Yes,45,120835.0,1.5,0,1.87,3.6,106826.4518126305,1.53,On-Time
+1352,Retail,Fair,Medium,Bank Transfer,No,No,15,65452.0,13.5,0,2.77,12.0,,0.79,On-Time
+1353,Manufacturing,Good,Large,Cheque,No,No,45,569725.0,2.9,1,1.81,21.4,,2.13,On-Time
+1354,Retail,Fair,Large,Cheque,No,Yes,90,229755.0,10.8,0,2.17,23.0,115243.52174244206,1.68,On-Time
+1355,Manufacturing,Good,Medium,Bank Transfer,No,No,30,503471.0,20.4,0,0.29,11.0,,2.7,On-Time
+1356,Technology,Fair,Enterprise,Cheque,No,No,30,88245.0,3.3,2,3.0,21.7,,4.73,On-Time
+1357,Retail,Poor,Small,Bank Transfer,Yes,No,90,685092.0,4.8,2,2.45,29.0,,1.19,Severely Late
+1358,Manufacturing,Good,Medium,Cheque,No,No,45,376718.0,8.9,0,2.33,30.2,,2.7,On-Time
+1359,Healthcare,Poor,Medium,Bank Transfer,No,Yes,15,180107.0,3.9,0,1.42,14.5,188300.31124459894,2.73,On-Time
+1360,Healthcare,Fair,Large,Bank Transfer,No,Yes,90,270979.0,6.9,2,2.86,29.2,226646.9428490442,3.76,Late
+1361,Retail,Excellent,Medium,Bank Transfer,No,No,30,204898.0,2.1,2,2.27,39.8,,1.44,Late
+1362,Manufacturing,Good,Small,Mobile Money,No,No,60,374631.0,3.8,0,1.91,22.6,,2.62,On-Time
+1363,Healthcare,Poor,Large,Bank Transfer,No,Yes,15,877539.0,3.2,0,0.22,10.6,370891.04574272525,3.25,On-Time
+1364,Technology,Good,Small,Bank Transfer,No,No,30,484410.0,11.3,0,0.57,15.6,,4.49,On-Time
+1365,Manufacturing,Excellent,Small,Mobile Money,No,Yes,15,540589.0,3.4,1,2.43,29.3,426680.3165822372,2.13,On-Time
+1366,Manufacturing,Good,Small,Cheque,No,Yes,30,993282.0,14.7,1,1.74,14.9,905855.8083582998,2.21,On-Time
+1367,Manufacturing,Fair,Small,Mobile Money,No,No,45,218544.0,6.0,1,2.77,27.3,,2.34,On-Time
+1368,Construction,Poor,Large,Letter of Credit,Yes,Yes,30,765045.0,8.3,1,0.0,18.5,831673.6596096266,0.91,Severely Late
+1369,Construction,Fair,Medium,Bank Transfer,No,Yes,30,603341.0,6.6,3,0.01,47.4,595494.3688419962,0.83,Late
+1370,Manufacturing,Fair,Large,Cheque,No,No,30,210963.0,25.0,2,0.93,44.2,,1.5,Late
+1371,Technology,Excellent,Medium,Bank Transfer,No,Yes,15,464420.0,7.6,2,2.97,42.5,279713.2648446425,5.11,On-Time
+1372,Manufacturing,Good,Enterprise,Mobile Money,No,Yes,30,105649.0,2.6,0,2.85,13.9,44925.04114523463,2.17,On-Time
+1373,Construction,Poor,Small,Bank Transfer,No,No,45,335397.0,6.4,0,2.05,0.0,,0.99,Late
+1374,Manufacturing,Good,Small,Bank Transfer,Yes,No,60,851111.0,0.2,1,2.39,14.0,,1.72,Late
+1375,Construction,Good,Large,Bank Transfer,No,No,90,512996.0,5.7,1,0.67,18.7,,0.47,Severely Late
+1376,Retail,Fair,Small,Mobile Money,No,No,30,597832.0,7.6,0,2.11,20.0,,1.54,On-Time
+1377,Technology,Good,Small,Bank Transfer,No,No,45,525609.0,5.7,0,2.43,14.9,,4.69,On-Time
+1378,Manufacturing,Good,Small,Bank Transfer,No,No,60,630134.0,8.3,0,1.64,0.4,,2.22,On-Time
+1379,Manufacturing,Fair,Small,Mobile Money,Yes,No,60,406141.0,3.1,0,3.86,28.6,,1.83,Severely Late
+1380,Construction,Excellent,Medium,Mobile Money,No,No,45,249688.0,5.0,1,1.94,20.5,,1.41,On-Time
+1381,Construction,Excellent,Small,Bank Transfer,No,No,30,231127.0,5.8,2,2.88,30.8,,0.75,Late
+1382,Healthcare,Poor,Small,Letter of Credit,Yes,Yes,30,202325.0,25.0,0,0.63,13.2,175367.0286742957,2.59,Severely Late
+1383,Manufacturing,Excellent,Enterprise,Mobile Money,No,Yes,60,497291.0,3.0,1,2.03,30.9,413493.59173014446,2.19,On-Time
+1384,Technology,Excellent,Medium,Cheque,No,No,30,300661.0,8.8,0,2.94,13.6,,4.37,On-Time
+1385,Manufacturing,Good,Small,Letter of Credit,No,Yes,45,273743.0,4.3,1,0.49,25.4,157425.95820493685,1.96,On-Time
+1386,Retail,Good,Large,Letter of Credit,No,No,15,136972.0,5.1,1,3.14,22.6,,1.24,On-Time
+1387,Manufacturing,Fair,Large,Bank Transfer,No,No,45,632721.0,2.1,3,0.22,30.9,,2.59,Late
+1388,Construction,Excellent,Small,Mobile Money,No,No,15,165095.0,3.2,2,1.52,30.3,,1.41,On-Time
+1389,Healthcare,Fair,Large,Bank Transfer,No,Yes,30,174700.0,6.1,2,0.95,45.2,142589.35639774147,3.12,On-Time
+1390,Technology,Good,Small,Bank Transfer,Yes,No,90,140904.0,3.6,3,3.28,45.7,,5.17,Severely Late
+1391,Construction,Good,Small,Mobile Money,No,No,45,793457.0,2.6,1,0.61,28.5,,0.83,Late
+1392,Manufacturing,Excellent,Small,Letter of Credit,No,No,30,401237.0,6.0,0,3.58,10.5,,2.52,On-Time
+1393,Manufacturing,Poor,Large,Bank Transfer,No,Yes,60,272841.0,7.0,1,3.43,21.4,157422.23135122872,2.04,Late
+1394,Construction,Fair,Medium,Mobile Money,Yes,Yes,30,155186.0,2.8,0,3.27,20.1,88304.35002655046,1.01,Late
+1395,Healthcare,Excellent,Enterprise,Mobile Money,No,Yes,15,422392.0,6.0,0,1.61,21.3,191897.30718893226,3.32,On-Time
+1396,Technology,Fair,Large,Bank Transfer,No,No,45,304166.0,4.7,0,1.34,11.8,,4.22,On-Time
+1397,Manufacturing,Good,Enterprise,Bank Transfer,No,No,45,629672.0,3.4,2,1.94,41.8,,1.65,On-Time
+1398,Retail,Fair,Medium,Cheque,No,No,15,168928.0,3.7,0,2.49,12.5,,1.54,On-Time
+1399,Retail,Good,Small,Mobile Money,Yes,No,45,827776.0,3.2,1,3.17,21.1,,0.9,Severely Late
+1400,Manufacturing,Excellent,Medium,Letter of Credit,No,No,30,88461.0,0.9,1,1.56,30.9,,2.82,On-Time
+1401,Retail,Fair,Medium,Mobile Money,No,No,30,727174.0,6.2,2,1.7,39.1,,1.3,On-Time
+1402,Healthcare,Good,Enterprise,Letter of Credit,No,No,30,76082.0,1.5,1,1.18,19.2,,3.13,On-Time
+1403,Construction,Good,Medium,Mobile Money,No,Yes,45,346527.0,2.7,1,2.64,29.9,387392.9586524193,0.06,On-Time
+1404,Manufacturing,Fair,Large,Mobile Money,No,Yes,30,328452.0,4.3,1,1.91,21.8,349943.97836280265,2.23,On-Time
+1405,Construction,Excellent,Small,Bank Transfer,No,No,60,72455.0,10.8,2,1.76,23.4,,0.33,On-Time
+1406,Construction,Excellent,Large,Cheque,No,No,45,274947.0,7.3,0,4.43,13.8,,1.21,On-Time
+1407,Retail,Good,Medium,Mobile Money,No,No,45,39062.0,5.3,2,4.48,33.9,,1.15,Late
+1408,Healthcare,Poor,Medium,Cheque,No,No,30,313615.0,2.2,1,4.68,27.4,,3.63,On-Time
+1409,Construction,Good,Small,Bank Transfer,No,Yes,30,645832.0,14.2,0,3.49,15.4,675846.5928490502,1.51,On-Time
+1410,Technology,Good,Medium,Cheque,No,Yes,60,396318.0,4.1,3,1.33,46.1,200702.24712141935,5.11,On-Time
+1411,Retail,Excellent,Large,Bank Transfer,No,No,30,381301.0,7.1,0,1.65,12.8,,2.15,On-Time
+1412,Healthcare,Fair,Enterprise,Bank Transfer,No,No,45,338025.0,3.9,3,2.07,68.0,,3.27,Late
+1413,Manufacturing,Fair,Medium,Bank Transfer,No,No,45,444273.0,2.5,1,3.24,15.9,,2.46,Late
+1414,Manufacturing,Excellent,Medium,Cheque,No,Yes,15,275907.0,3.7,0,1.51,17.8,156214.55055121877,1.29,On-Time
+1415,Retail,Good,Medium,Bank Transfer,Yes,No,60,769580.0,4.2,1,3.42,24.8,,1.11,Severely Late
+1416,Manufacturing,Excellent,Medium,Letter of Credit,No,No,30,685220.0,3.0,0,2.0,8.5,,2.31,On-Time
+1417,Manufacturing,Good,Medium,Letter of Credit,No,Yes,30,148489.0,7.8,5,2.44,51.5,84696.08044629489,2.42,Late
+1418,Construction,Good,Large,Mobile Money,No,No,15,94180.0,5.2,0,1.45,9.8,,0.16,Late
+1419,Manufacturing,Poor,Medium,Bank Transfer,No,No,30,357098.0,0.7,0,1.74,12.7,,1.52,On-Time
+1420,Construction,Poor,Small,Letter of Credit,No,No,60,400900.0,10.2,3,2.14,42.2,,1.21,Severely Late
+1421,Healthcare,Good,Medium,Bank Transfer,No,No,30,154229.0,2.0,1,1.19,22.6,,2.47,On-Time
+1422,Construction,Fair,Medium,Bank Transfer,No,No,30,557113.0,4.4,1,3.59,20.6,,0.61,On-Time
+1423,Construction,Poor,Large,Bank Transfer,Yes,No,60,313865.0,3.6,1,1.16,14.4,,1.19,Severely Late
+1424,Technology,Good,Medium,Bank Transfer,No,No,90,376200.0,4.3,1,0.0,32.9,,4.98,Severely Late
+1425,Healthcare,Poor,Medium,Mobile Money,No,No,30,1069098.0,6.8,0,2.4,11.8,,3.91,Late
+1426,Manufacturing,Fair,Large,Bank Transfer,No,No,45,252482.0,11.4,1,3.53,23.7,,2.39,Late
+1427,Manufacturing,Good,Medium,Mobile Money,Yes,Yes,15,441317.0,8.6,1,3.33,25.8,303739.2582866477,1.62,On-Time
+1428,Construction,Fair,Small,Bank Transfer,No,No,30,835112.0,3.8,1,2.34,30.3,,1.1,Late
+1429,Healthcare,Poor,Small,Mobile Money,No,No,45,559828.0,3.2,0,1.68,16.7,,2.25,Late
+1430,Healthcare,Fair,Medium,Bank Transfer,No,No,45,110725.0,6.1,0,3.9,15.0,,2.82,On-Time
+1431,Retail,Poor,Small,Bank Transfer,No,Yes,45,89724.0,8.9,1,1.4,23.8,66009.52455895771,1.4,Late
+1432,Retail,Good,Enterprise,Bank Transfer,No,No,30,121295.0,12.8,0,0.77,18.7,,1.14,On-Time
+1433,Construction,Fair,Small,Bank Transfer,No,No,45,844734.0,5.2,1,0.31,30.8,,0.41,Late
+1434,Healthcare,Excellent,Medium,Bank Transfer,No,No,45,193955.0,3.4,1,0.93,23.1,,3.38,On-Time
+1435,Construction,Fair,Medium,Bank Transfer,Yes,No,45,288757.0,5.4,1,1.75,28.0,,0.91,Late
+1436,Manufacturing,Good,Small,Cheque,No,Yes,30,210349.0,7.6,0,0.0,20.6,96317.57878985762,2.07,On-Time
+1437,Retail,Excellent,Medium,Bank Transfer,No,Yes,30,264044.0,7.9,2,3.51,21.0,167255.4728447592,1.74,On-Time
+1438,Healthcare,Poor,Medium,Mobile Money,No,Yes,45,634006.0,6.4,0,3.41,6.0,724096.541451691,3.34,Severely Late
+1439,Retail,Good,Large,Bank Transfer,No,Yes,45,133845.0,4.7,1,1.39,27.8,53697.849556935835,1.31,On-Time
+1440,Retail,Good,Enterprise,Mobile Money,No,No,30,542215.0,4.4,1,3.1,21.1,,1.92,On-Time
+1441,Healthcare,Good,Medium,Mobile Money,No,No,15,189743.0,2.3,2,3.5,46.6,,2.68,Late
+1442,Healthcare,Fair,Small,Bank Transfer,Yes,No,30,793198.0,3.2,1,4.14,13.9,,2.95,Late
+1443,Retail,Good,Medium,Bank Transfer,Yes,Yes,30,74188.0,9.7,0,3.76,3.0,87476.1978293624,0.97,On-Time
+1444,Manufacturing,Excellent,Large,Bank Transfer,No,Yes,30,444585.0,7.1,1,0.0,30.6,366511.03416449507,1.95,On-Time
+1445,Manufacturing,Excellent,Enterprise,Bank Transfer,No,No,30,448236.0,4.3,2,2.18,43.0,,1.82,On-Time
+1446,Retail,Fair,Small,Mobile Money,No,Yes,30,238635.0,7.4,2,1.33,27.6,183991.24948256096,0.53,Late
+1447,Retail,Excellent,Small,Bank Transfer,No,Yes,15,346139.0,6.6,3,1.43,35.7,268766.403631306,1.91,On-Time
+1448,Retail,Excellent,Large,Bank Transfer,No,No,30,423112.0,4.1,0,0.33,11.3,,0.48,On-Time
+1449,Construction,Good,Medium,Cheque,No,No,45,862242.0,7.5,2,1.11,35.3,,0.66,Late
+1450,Technology,Good,Small,Bank Transfer,No,No,30,753067.0,1.9,1,2.06,25.3,,3.99,On-Time
+1451,Construction,Good,Medium,Letter of Credit,No,No,90,261885.0,8.5,1,4.47,15.9,,0.75,Late
+1452,Technology,Poor,Large,Bank Transfer,No,Yes,90,336524.0,14.9,2,1.87,33.6,232178.71156069002,4.19,Severely Late
+1453,Technology,Good,Large,Mobile Money,Yes,No,30,633302.0,12.2,2,1.96,35.9,,4.91,Late
+1454,Construction,Excellent,Medium,Bank Transfer,No,No,15,421540.0,2.6,0,2.17,20.3,,0.86,On-Time
+1455,Technology,Good,Small,Mobile Money,No,No,90,648274.0,19.7,2,4.44,38.7,,4.07,Late
+1456,Retail,Good,Medium,Bank Transfer,No,No,45,228365.0,7.3,1,4.02,30.1,,1.73,On-Time
+1457,Technology,Good,Large,Bank Transfer,No,No,15,579931.0,3.2,0,0.74,12.0,,4.16,On-Time
+1458,Retail,Good,Medium,Cheque,Yes,No,15,357825.0,4.5,1,0.89,29.7,,1.25,On-Time
+1459,Manufacturing,Poor,Medium,Mobile Money,Yes,No,15,253568.0,4.1,0,3.02,5.4,,1.85,On-Time
+1460,Healthcare,Fair,Small,Bank Transfer,No,Yes,30,81015.0,2.2,0,2.57,12.0,76167.96822810937,2.93,On-Time
+1461,Manufacturing,Fair,Large,Bank Transfer,No,Yes,15,274317.0,0.5,2,5.55,22.4,299268.7142697425,1.59,On-Time
+1462,Healthcare,Poor,Small,Bank Transfer,No,No,30,399106.0,13.0,1,2.35,35.4,,2.34,Late
+1463,Technology,Good,Medium,Letter of Credit,No,Yes,90,408951.0,4.6,2,3.13,31.2,464745.74821200804,5.21,Late
+1464,Healthcare,Excellent,Medium,Cheque,No,No,60,500133.0,7.5,0,1.93,19.3,,2.63,On-Time
+1465,Healthcare,Good,Enterprise,Mobile Money,Yes,Yes,90,34230.0,5.4,0,2.19,17.2,33577.94202529039,2.94,Late
+1466,Construction,Good,Medium,Cheque,No,No,45,118105.0,10.4,4,3.35,69.4,,0.52,Late
+1467,Technology,Poor,Medium,Bank Transfer,No,Yes,30,1310211.0,4.7,1,1.9,23.9,727241.8896548175,4.86,On-Time
+1468,Construction,Fair,Medium,Bank Transfer,No,Yes,30,208063.0,8.2,0,3.83,15.7,143192.71130181116,1.51,Late
+1469,Retail,Good,Medium,Letter of Credit,No,No,30,354367.0,3.2,0,0.21,31.3,,1.53,Late
+1470,Manufacturing,Excellent,Large,Mobile Money,No,No,30,251923.0,6.8,4,0.39,48.6,,1.8,Late
+1471,Technology,Good,Small,Bank Transfer,Yes,No,90,586548.0,4.6,2,3.17,36.6,,4.4,Severely Late
+1472,Retail,Excellent,Medium,Mobile Money,No,No,90,389358.0,6.6,1,2.95,19.4,,1.9,On-Time
+1473,Construction,Fair,Small,Bank Transfer,No,No,30,162650.0,2.1,0,3.15,21.1,,0.74,Late
+1474,Construction,Excellent,Medium,Bank Transfer,No,Yes,60,657416.0,2.9,0,0.58,7.3,787910.8762379026,0.73,On-Time
+1475,Construction,Poor,Medium,Cheque,No,Yes,60,728913.0,1.7,1,1.63,26.2,546074.6491770732,1.4,Late
+1476,Construction,Good,Enterprise,Mobile Money,Yes,Yes,30,185554.0,3.1,1,1.17,29.9,97566.92217359201,0.86,Late
+1477,Healthcare,Fair,Small,Cheque,No,No,60,439028.0,8.8,0,1.59,16.8,,2.81,On-Time
+1478,Healthcare,Excellent,Large,Mobile Money,No,No,60,368923.0,5.0,3,0.4,41.7,,2.71,On-Time
+1479,Manufacturing,Excellent,Large,Letter of Credit,No,Yes,45,304276.0,2.7,3,2.11,47.4,257457.25427278614,1.28,On-Time
+1480,Manufacturing,Good,Large,Mobile Money,No,No,60,325443.0,3.9,0,1.13,3.4,,2.37,On-Time
+1481,Technology,Good,Medium,Bank Transfer,No,Yes,30,258775.0,8.8,0,3.26,13.8,273683.93819283694,5.32,On-Time
+1482,Manufacturing,Good,Small,Mobile Money,No,No,30,171996.0,9.0,1,3.32,26.0,,2.9,On-Time
+1483,Technology,Poor,Medium,Bank Transfer,No,No,30,505785.0,3.7,1,1.72,25.9,,4.99,Late
+1484,Technology,Excellent,Medium,Mobile Money,No,Yes,30,358880.0,3.9,1,2.78,9.2,221365.20238955785,4.0,On-Time
+1485,Technology,Fair,Medium,Bank Transfer,No,No,90,510041.0,2.7,0,2.75,14.6,,4.57,Late
+1486,Manufacturing,Good,Large,Bank Transfer,No,No,15,412288.0,4.2,0,1.73,10.9,,2.09,On-Time
+1487,Retail,Fair,Medium,Letter of Credit,No,Yes,90,327521.0,0.6,1,2.25,16.8,391349.9944187114,1.83,Late
+1488,Retail,Good,Enterprise,Bank Transfer,No,No,45,91556.0,1.9,2,2.32,43.5,,1.69,On-Time
+1489,Retail,Good,Small,Mobile Money,No,Yes,15,172322.0,4.1,0,2.08,15.8,185897.06427241673,1.36,On-Time
+1490,Retail,Poor,Medium,Bank Transfer,No,No,45,820401.0,3.2,2,1.63,41.9,,1.4,Late
+1491,Technology,Poor,Enterprise,Cheque,No,No,45,205124.0,7.2,2,1.19,36.6,,4.51,Late
+1492,Retail,Good,Enterprise,Mobile Money,No,No,45,396764.0,8.0,0,3.32,14.1,,1.35,On-Time
+1493,Construction,Excellent,Enterprise,Cheque,No,No,45,291463.0,5.6,0,2.64,18.3,,0.79,On-Time
+1494,Manufacturing,Good,Small,Mobile Money,No,No,60,655446.0,8.8,1,1.08,16.2,,2.95,On-Time
+1495,Retail,Excellent,Medium,Letter of Credit,No,No,45,438832.0,8.5,2,2.41,28.8,,1.28,On-Time
+1496,Construction,Excellent,Medium,Letter of Credit,No,Yes,60,189519.0,1.7,0,1.34,22.0,105964.3300250643,1.16,On-Time
+1497,Construction,Good,Small,Mobile Money,No,Yes,30,93461.0,8.2,1,4.18,22.2,83508.10648847379,-0.12,On-Time
+1498,Manufacturing,Fair,Medium,Bank Transfer,Yes,No,45,148606.0,5.2,1,0.0,27.9,,2.07,Late
+1499,Construction,Excellent,Medium,Mobile Money,No,No,60,582332.0,4.7,2,0.68,25.6,,0.33,Late
+1500,Construction,Fair,Medium,Bank Transfer,No,Yes,60,192886.0,19.0,0,0.0,12.9,77857.84839195883,1.43,Late
