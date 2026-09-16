@@ -19,17 +19,7 @@ copied from the in-class demonstration notebook. In particular, `payment_risk_ca
 is imbalanced (Severely Late is the minority class), which shapes our approach to
 stratified splitting, cross-validation, and resampling throughout.
 
-## Team
 
-| Name | Section(s) | GitHub Handle |
-|------|-----------|----------------|
-| TBD  | TBD       | TBD            |
-| TBD  | TBD       | TBD            |
-| TBD  | TBD       | TBD            |
-| TBD  | TBD       | TBD            |
-| TBD  | TBD       | TBD            |
-
-*(Table to be filled in once section assignments are finalized via team poll.)*
 
 
 ## Notebook Sections
